@@ -1,5 +1,5 @@
 <h1 align="center">Olá sou desenvolvedor FullStack JavaScript junior !</h1>
-<h2> Sou apaixonado por desenvolvimento web e mobile! </h2>
+<h2 align="center"> Sou apaixonado por desenvolvimento web e mobile! </h2>
 <p align="center"> trabalho com ferramentas open-source!</p>
 </br>
 
