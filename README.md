@@ -1,5 +1,5 @@
-<h1 align="center">Olá sou desenvolvedor FullStack JavaScript junior !</h1>
-<h2 align="center"> Sou apaixonado por desenvolvimento web e mobile! </h2>
+<h1 align="center">Olá sou devops e web  junior !</h1>
+<h2 align="center"> Sou apaixonado por desenvolvimentos web, e infra-estrutura! </h2>
 <p align="center"> trabalho com ferramentas open-source!</p>
 </br>
 
@@ -13,14 +13,20 @@
 <h2  style="color: #e74c3c" > skilss </h2>
 </br>
 <img height="40" width="40" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-<img height="40" width="40" align="center"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img height="40" width="40" align="center"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img height="40" width="40" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg"/>
+<img height="40" width="40" align="center"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img height="40" width="40" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 <img height="40" width="40" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img height="40" width="40" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+<img height="40" width="40" align="center"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img height="40" width="40" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
 <img  height="40" width="40" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-
 </section>
 </br>
+<section align="center">
+<h2 align="center">projeto open-source!</h2>
+<a align="center" href="https://fedorabr.org/">fedorabr.com</a>
+</section>
+
 <section align="center"> 
 <h2>redes sociais</h2>
   <a href="https://instagram.com/gregoriolucca" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
