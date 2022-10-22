@@ -1,6 +1,6 @@
 <h1 align="center">Olá sou desenvolvedor front end web junior  !</h1>
-<h2 align="center"> Atualmente estou estudando reactjs, nodejs e mysql, para desenvolvimento web </h2>
-<p align="center"> !</p>
+<h2 align="center"> Atualmente estou estudando  desenvolvimento web </h2>
+<p align="center"> trabalho com ferramentas open-source!!</p>
 </br>
 
 <section align="center">
@@ -13,10 +13,12 @@
 <h2  style="color: #e74c3c" > skilss </h2>
 </br>
 <img height="40" width="40" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-<img height="40" width="40" align="center"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img height="40" width="40" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img height="40" width="40" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img height="40" width="40" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-<img  height="40" width="40" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img  height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+<img  height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+
 </section>
 </br>
 <section align="center">
