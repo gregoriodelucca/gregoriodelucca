@@ -1,4 +1,4 @@
-<h1 align="center">Olá sou desenvolvedor web junior  !</h1>
+<h1 align="center">Olá sou desenvolvedor fullstack web  javascript junior  !</h1>
 <h2 align="center"> Atualmente estou estudando  JavaScript e css3 </h2>
 <p align="center"> trabalho com ferramentas open-source!!</p>
 </br>
