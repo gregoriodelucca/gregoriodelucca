@@ -1,5 +1,5 @@
 <h1 align="center">Olá sou desenvolvedor fullstack web  !</h1>
-<h2 align="center"> Atualmente estudando php e css3 </h2>
+<h2 align="center"> Atualmente estudando javascript e css3 </h2>
 <p align="center"> trabalho com ferramentas open-source!!</p>
 </br>
 
