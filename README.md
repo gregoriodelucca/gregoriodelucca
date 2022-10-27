@@ -1,5 +1,5 @@
-<h1 align="center">Olá sou desenvolvedor fullstack web  javascript junior  !</h1>
-<h2 align="center"> Atualmente estou estudando  JavaScript e css3 </h2>
+<h1 align="center">Olá sou desenvolvedor fullstack web !</h1>
+<h2 align="center"> Atualmente estudando web e linux </h2>
 <p align="center"> trabalho com ferramentas open-source!!</p>
 </br>
 
@@ -14,6 +14,7 @@
 </br>
 <img height="40" width="40" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img height="40" width="40" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-plain.svg" />
+<img height="40" width="40" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img height="40" width="40" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img height40" width=40" align="center"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img  height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
