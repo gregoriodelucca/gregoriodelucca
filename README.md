@@ -3,11 +3,10 @@
 <p align="center"> trabalho com ferramentas open-source!!</p>
 </br>
 
-<section align="center">
-  <a href="https://github.com/rafaballerini">
+<a href="https://github.com/gregoriodelucca">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gregoriodelucca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregoriodelucca&layout=compact&langs_count=7&theme=dracula"/>
-</section>
+</div>
 
 <section  align="center">
 <h2  style="color: #e74c3c" > skilss </h2>
