@@ -1,5 +1,5 @@
-<h1 align="center">Olá sou devops python web  !</h1>
-<h2 align="center"> apaixonado por devops, redes, python, e  web </h2>
+<h1 align="center">Olá sou devevloper fullstack web  !</h1>
+<h2 align="center"> apaixonado por devops, php e linux </h2>
 <p align="center"> trabalho com ferramentas open-source!!</p>
 </br>
 
