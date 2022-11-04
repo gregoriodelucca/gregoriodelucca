@@ -1,4 +1,4 @@
-<h1 align="center">Olá sou devevloper fullstack web e editor de video !</h1>
+<h1 align="center">Olá sou devevloper fullstack web e sysAdmin !</h1>
 <h2 align="center"> apaixonado por desenvolvimento web </h2>
 <p align="center"> trabalho com ferramentas open-source!!</p>
 </br>
