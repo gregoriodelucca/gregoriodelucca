@@ -1,5 +1,5 @@
-<h1 align="center">Olá sou devevloper fullstack web e sysAdmin !</h1>
-<h2 align="center"> apaixonado por desenvolvimento web </h2>
+<h1 align="center">Olá sou devevloper front end !</h1>
+<h2 align="center"> apaixonado por desenvolvimento web digital </h2>
 <p align="center"> trabalho com ferramentas open-source!!</p>
 </br>
 
@@ -16,13 +16,9 @@
 </br>
 
 <section align="center"/>
-<img height="40" width="40" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-plain.svg"/>
-<img height="40" width="40" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-<img height="40" width="40" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+<img height="40" width="40" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img height="40" width="40" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
 <img height="40" width="40" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-<img height="40" width="40" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img height="40" width="40" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 <section/>
                      
 
