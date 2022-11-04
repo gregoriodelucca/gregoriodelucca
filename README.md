@@ -1,5 +1,5 @@
-<h1 align="center">Olá sou devevloper fullstack web  !</h1>
-<h2 align="center"> apaixonado por web e linux! </h2>
+<h1 align="center">Olá sou devevloper fullstack web e editor de video !</h1>
+<h2 align="center"> apaixonado por desenvolvimento web </h2>
 <p align="center"> trabalho com ferramentas open-source!!</p>
 </br>
 
@@ -14,6 +14,7 @@
 
 <section align="center"/>
 <img height="40" width="40" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img height="40" width="40" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-plain.svg"/>
 <img height="40" width="40" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
 <img height="40" width="40" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
 <img height="40" width="40" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
