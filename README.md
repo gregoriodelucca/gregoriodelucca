@@ -1,6 +1,5 @@
 <h1 align="center">Olá sou devevloper front end !</h1>
-<h2 align="center"> apaixonado por desenvolvimento web digital </h2>
-<p align="center"> trabalho com ferramentas open-source!!</p>
+<p align="center"> apaixonado por desenvolvimento web digital! </p>
 </br>
 
 <a href="https://github.com/gregoriodelucca">
@@ -16,7 +15,8 @@
 </br>
 
 <section align="center"/>
-<img height="40" width="40" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php/-original.svg"/>
+<img height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-plain.svg"/>
+<img height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 <img height="40" width="40" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
 <img height="40" width="40" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
 <section/>
