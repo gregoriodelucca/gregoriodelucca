@@ -1,4 +1,4 @@
-<h1 align="center">DEVELOPER FULLSTACK WEB!</h1>
+<h1 align="center">DEVELOPER FRONT END JAVASCRIPT WEB!</h1>
 <p align="center"> apaixonado por desenvolvimento web digital! </p>
 </br>
 
@@ -6,19 +6,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gregoriodelucca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregoriodelucca&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<section  align="center">
-<h2  style="color: #e74c3c" > projetos open-source </h2>
-  <a href= "https://fedorabr.org">www.fedorabr.com</a>
-</br>
+
 <section  align="center">
 <h2  style="color: #e74c3c" > skilss </h2>
 </br>
 
 <section align="center"/>
-  <img height="40" width="40" align="center"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-plain.svg"/>
-  <img height="40" width="40" align="center"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+  <img height="40" width="40" align="center"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img height="40" width="40" align="center"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg"/>
-  <img height="40" width="40" align="center"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
+  <img height="40" width="40" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
   <img height="40" width="40" align="center"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
 <section/>
                      
