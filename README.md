@@ -1,4 +1,4 @@
-<h1 align="center">DEVELOPER FULLSTACK WEB  </h1>
+<h1 align="center">DEVELOPER WEB JUNIOR </h1>
 <p align="center"> apaixonado POR  desenvolvimento web!  </p>
 </br>
 
@@ -12,11 +12,12 @@
 </br>
 
 <section align="center"/>
-  <img height="60" width="40" align="center"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-plain.svg" />
+  <img height="60" width="40" align="center"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg"/>
   <img height="60" width="40" align="center"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
   <img height="40" width="40" align="center"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   <img height="40" width="40" align="center"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img height="40" width="40" align="center"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img height="40" width="40" align="center"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
   <img height="40" width="40" align="center"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
   <img height="40" width="40" align="center"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg"/>
 
