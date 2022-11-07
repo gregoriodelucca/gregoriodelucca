@@ -1,5 +1,5 @@
-<h1 align="center">DEVELOPER PTYHON </h1>
-<p align="center"> apaixonado por devops e desenvolvimento web!  </p>
+<h1 align="center">DEVELOPER WEB JUNIOR </h1>
+<p align="center"> apaixonado POR  desenvolvimento web!  </p>
 </br>
 
 <a href="https://github.com/gregoriodelucca">
