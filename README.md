@@ -1,4 +1,4 @@
-<h1 align="center" > DEVELOPER FULLSTACK JAVASCRIPT  DESIGNER  </h1>
+<h1 align="center" > DESENVOLVEDOR FULLSTACK JAVASCRIPT E DESIGNER  </h1>
 <p align="center"> apaixonado por desenvolvimento  web e mobile desginer!   </p>
 </br>
 
