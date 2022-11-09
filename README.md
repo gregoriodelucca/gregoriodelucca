@@ -1,5 +1,5 @@
-<h1 align="center" >FRONT END DESIGNER WEB  </h1>
-<p align="center"> apaixonado por desenvolvimento  designer web e mobile!   </p>
+<h1 align="center" > DEVELOPER FULLSTACK JAVASCRIPT  DESIGNER  </h1>
+<p align="center"> apaixonado por desenvolvimento  web e mobile desginer!   </p>
 </br>
 
 <a href="https://github.com/gregoriodelucca">
