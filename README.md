@@ -1,4 +1,4 @@
-<h1 align="center" > DEVELOPER WEB   </h1>
+<h1 align="center" > DEVELOPER FRONT END  | UI DESIGNER    </h1>
 <p align="center"> apaixonado por desenvolvimento web desginer!   </p>
 </br>
 
@@ -12,12 +12,10 @@
 </br>
 
 <section align="center"/>
-    <img height="40" width="40" align="center"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg"/>
-
   <img height="40" width="40" align="center"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="40" width="40" align="center"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="40" width="40" align="center"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
-  <img height="40" width="40" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
 
 
