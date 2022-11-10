@@ -1,4 +1,4 @@
-<h1 align="center" > DESENVOLVEDOR FULLSTACK WEB  DESIGNER  </h1>
+<h1 align="center" > DESENVOLVEDOR  WEB  DESIGNER  </h1>
 <p align="center"> apaixonado por desenvolvimento web desginer!   </p>
 </br>
 
