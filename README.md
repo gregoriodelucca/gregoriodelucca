@@ -1,5 +1,5 @@
-<h1 align="center" > DEVELOPER FRONT END  | UI DESIGNER    </h1>
-<p align="center"> apaixonado por desenvolvimento web e mobile desginer!   </p>
+<h1 align="center" > DEVELOPER WEB  | UI DESIGNER    </h1>
+<p align="center"> apaixonado por desenvolvimento web !    </p>
 </br>
 
 <a href="https://github.com/gregoriodelucca">
