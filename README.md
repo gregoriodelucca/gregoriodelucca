@@ -7,39 +7,19 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregoriodelucca&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 </br>
-</section>
-<section  align="center">
-<h2  style="color: #e74c3c" > projetos </h2>
-  <a href="https://fedorabr.org">www.fedorabr.com</a>
-</br>
-</section>
 
 <section  align="center">
 <h2  style="color: #e74c3c" > skilss </h2>
 </br>
 
 <section align="center"/>
-  <img height="40" width="40" align="center"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img height="40" width="40" align="center"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  />
   <img height="40" width="40" align="center"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="40" width="40" align="center"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="40" width="40" align="center"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img height="40" width="40" align="center"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-    
-
-
-
-
-
-
-
- 
-
-
-
 <section/>
                      
-
 <section align="center"> 
 <h2>redes sociais</h2>
   <a href="https://instagram.com/gregoriolucca" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
