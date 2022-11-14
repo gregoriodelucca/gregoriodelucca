@@ -1,4 +1,4 @@
-<h1 align="center" > DEVELOPER WEB UI DESIGNER | EDITOR DE VÍDEO    </h1>
+<h1 align="center" > DEVELOPER UI DESIGNER WEB     </h1>
 <p align="center"> apaixonado por desenvolvimento web !    </p>
 </br>
 
@@ -15,10 +15,8 @@
 <section align="center"/>
   <img height="40" width="40" align="center"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="40" width="40" align="center"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img height="40" width="40" align="center"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img height="40" width="40" align="center"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
-   <img height="40" width="40" align="center"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />
-   <img height="40" width="40" align="center"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />
+  <img height="40" width="40" align="center"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />
+  <img height="40" width="40" align="center"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />
 
 
 
