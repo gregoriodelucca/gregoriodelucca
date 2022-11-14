@@ -1,5 +1,5 @@
-<h1 align="center" > DEVELOPER UI DESIGNER WEB     </h1>
-<p align="center"> apaixonado por desenvolvimento web !    </p>
+<h1 align="center" > MOTION GRAPHIC DESIGNER    </h1>
+<p align="center"> apaixonado por animações !    </p>
 </br>
 
 <a href="https://github.com/gregoriodelucca">
