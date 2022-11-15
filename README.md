@@ -1,5 +1,5 @@
-<h1 align="center" > MOTION GRAPHIC DESIGNER    </h1>
-<p align="center"> apaixonado por animações !    </p>
+<h1 align="center" > MOTION GRAPHIC  UI DESIGNER  | FRONT END WEB DESIGNER    </h1>
+<p align="center"> apaixonado por animações visuais e desenvolvedimento web designer !    </p>
 </br>
 
 <a href="https://github.com/gregoriodelucca">
