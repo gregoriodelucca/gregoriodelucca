@@ -1,5 +1,5 @@
-<h1 align="center" > MOTION GRAPHIC  UI DESIGNER  | FRONT END WEB DESIGNER    </h1>
-<p align="center"> apaixonado por animações visuais e desenvolvedimento web designer !    </p>
+<h1 align="center" >DEVELOPER FRONT END | UI DESIGNER MOTION    </h1>
+<p align="center"> Apaixonado por criaçao web design e audio visual    </p>
 </br>
 
 <a href="https://github.com/gregoriodelucca">
@@ -13,11 +13,15 @@
 </br>
 
 <section align="center"/>
-  <img height="40" width="40" align="center"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height="40" width="40" align="center"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-plain.svg"/>
+    <img height="40" width="40" align="center"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+
+  <img height="40" width="40" align="center"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="40" width="40" align="center"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="40" width="40" align="center"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img height="40" width="40" align="center"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />
-  <img height="40" width="40" align="center"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
-  <img height="40" width="40" align="center"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+  <img height="40" width="40" align="center"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+  <img height="40" width="40" align="center"    src="https://www.kindpng.com/picc/m/13-130854_davinci-resolve-icon-davinci-resolve-logo-transparent-hd.png" />
+
 
 
 
