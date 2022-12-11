@@ -1,5 +1,5 @@
 <h1 align="center" >DEVELOPER FRONT END | UI DESIGNER MOTION    </h1>
-<p align="center"> Apaixonado por criaçao web design e audio visual    </p>
+<p align="center"> Apaixonado por tecnologia programação e artes visuais    </p>
 </br>
 
 <a href="https://github.com/gregoriodelucca">
