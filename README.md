@@ -13,14 +13,17 @@
 </br>
 
 <section align="center"/>
-  <img height="40" width="40" align="center"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-plain.svg"/>
-    <img height="40" width="40" align="center"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 
-  <img height="40" width="40" align="center"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="40" width="40" align="center"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img height="40" width="40" align="center"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img height="40" width="40" align="center"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-  <img height="40" width="40" align="center"    src="https://www.kindpng.com/picc/m/13-130854_davinci-resolve-icon-davinci-resolve-logo-transparent-hd.png" />
+  <img height="40" width="40" align="center"        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="40" width="40" align="center"        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height="40" width="40" align="center"        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img height="40" width="40" align="center"        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg"/>
+  <img height="40" width="40" align="center"        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />
+    <img height="40" width="40" align="center"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" />
+      <img height="40" width="40" align="center"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
+
+
+  
 
 
 
