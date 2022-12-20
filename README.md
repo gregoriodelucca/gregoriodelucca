@@ -1,4 +1,4 @@
-<h1 align="center" >DEVELOPER FRONT END | MOTION DESIGN    </h1>
+<h1 align="center" >DEVELOPER WEB DESIGN    </h1>
 <p align="center"> Apaixonado por tecnologia programação e artes visuais    </p>
 </br>
 
