@@ -1,4 +1,5 @@
-<h1 align="center" >DEVELOPER WEB DESIGN    </h1>
+<h1 align="center"> DEVELOPER WEB JAVASCRIPT | UI DESIGN
+   </h1>
 <p align="center"> Olá eu sou Gregório, sou formado técnico na área de desenvolvimento web 2020;</br> eu sou apaixonado desenvolvimento web e artes; </p>
 </br>
 
@@ -13,9 +14,8 @@
 </br>
 
 <section align="center"/>
-  <img height="60" width="60" align="center"        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img height="60" width="60" align="center"        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img height="40" width="40" align="center"        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="40" width="40" align="center"        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img height="40" width="40" align="center"        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
 
