@@ -1,4 +1,4 @@
-<h1 align="center"> DEVELOPER WEB JAVASCRIPT</h1>
+<h1 align="center"> DDEVOPS | SYSADMIN | DEVELOPER PYTHON</h1>
 <p align="center"> Olá eu sou Gregório, sou formado técnico na área de desenvolvimento web 2018;</br> eu sou apaixonado desenvolvimento web e artes; </p>
 </br>
 
