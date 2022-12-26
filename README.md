@@ -1,5 +1,5 @@
 <h1 align="center"> DEVOPS | SYSADMIN | DEVELOPER PYTHON</h1>
-<p align="center"> Olá eu sou Gregório, sou formado técnico na área de desenvolvimento web 2018;</br> eu sou apaixonado desenvolvimento web e artes; </p>
+<p align="center"> sou gregorio trabalho com sysAdmin e sempre open-source; </p>
 </br>
 
 <a href="https://github.com/gregoriodelucca">
