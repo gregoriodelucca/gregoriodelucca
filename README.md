@@ -1,4 +1,4 @@
-<h1 align="center">  DEVELOPER FULLSTACK WEB JAVASCRIPT</h1>
+<h1 align="center">  DEVELOPER FULLSTACK WEB </h1>
 <p align="center"> desenvolvedor criação de sites apaixonado por progrmaação; </p>
 </br>
 
@@ -17,9 +17,9 @@
     <img height="40" width="40" align="center"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
        <img height="40" width="40" align="center"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
 
-   <img height="40" width="40" align="center"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+   <img height="40" width="40" align="center"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 
-  <img height="40" width="40" align="center"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"  />
+  <img height="40" width="40" align="center"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
 
 
 
