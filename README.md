@@ -1,5 +1,5 @@
-<h1 align="center"> DEVOPS | SYSADMIN | DEVELOPER JAVASCRIPT</h1>
-<p align="center"> sou gregorio trabalho com sysAdmin e sempre open-source; </p>
+<h1 align="center">  DEVELOPER FULLSTACK WEB JAVASCRIPT</h1>
+<p align="center"> desenvolvedor criação de sites apaixonado por progrmaação; </p>
 </br>
 
 <a href="https://github.com/gregoriodelucca">
