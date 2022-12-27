@@ -1,5 +1,5 @@
-<h1 align="center">  DEVELOPER WEB AND MOBILE </h1>
-<p align="center"> Olá sou desenvolvedor web e mobile  </p>
+<h1 align="center">  DEVELOPER FULLSTACK JAVASCRIPT WEB </h1>
+<p align="center"> HI , I AM DEVELIOER WEB AND MOBILE </p>
 </br>
 
 <a href="https://github.com/gregoriodelucca">
@@ -15,22 +15,10 @@
 <section align="center"/>
   <img height="40" width="40" align="center"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
     <img height="40" width="40" align="center"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-       <img height="40" width="40" align="center"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
-
-   <img height="40" width="40" align="center"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-
-  <img height="40" width="40" align="center"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-
-
-
-  
-
-
-
-
-
-
-
+    <img height="40" width="40" align="center"        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+    <img height="40" width="40" align="center"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
+    <img height="40" width="40" align="center"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img height="40" width="40" align="center"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 <section/>
                      
 <section align="center"> 
