@@ -1,4 +1,4 @@
-<h1 align="center"> DEVOPS | SYSADMIN | DEVELOPER PYTHON</h1>
+<h1 align="center"> DEVOPS | SYSADMIN | DEVELOPER JAVASCRIPT</h1>
 <p align="center"> sou gregorio trabalho com sysAdmin e sempre open-source; </p>
 </br>
 
