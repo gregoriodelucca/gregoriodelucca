@@ -1,4 +1,4 @@
-<h1 align="center">  DEVELOPER FULLSTACK JAVASCRIPT WEB </h1>
+<h1 align="center">  DEVELOPER FULLSTACK  WEB </h1>
 <p align="center"> HI , I AM DEVELIOER WEB AND MOBILE </p>
 </br>
 
