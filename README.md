@@ -1,5 +1,5 @@
 <h1 align="center">  DEVOPS | SYSADMIN | DEVELOPER PYTHON </h1>
-<p align="center"> HI , I AM DEVELIOER WEB AND MOBILE </p>
+<p align="center"> HI , I AM DEVELIOER PYTHON AND DEVOPS </p>
 </br>
 
 <a href="https://github.com/gregoriodelucca">
