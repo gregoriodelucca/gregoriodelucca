@@ -1,4 +1,4 @@
-<h1 align="center"> DEVELOPER PYTHON | DEVOPS | SYSADMIN </h1>
+<h1 align="center"> DEVELOPER FULLSTACK WEB AND MOBILE </h1>
 <p align="center"> HI , I AM DEVELIOER PYTHON AND DEVOPS </p>
 </br>
 
@@ -13,12 +13,11 @@
 </br>
 
 <section align="center"/>
-  <img height="40" width="40" align="center"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg"/>
+  <img height="40" width="40" align="center"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-plain.svg"/>
     <img height="40" width="40" align="center"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
    <img height="40" width="40" align="center"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img height="40" width="40" align="center"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
     <img height="40" width="40" align="center"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-        <img height="40" width="40" align="center"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 
 <section/>
                      
