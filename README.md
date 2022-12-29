@@ -1,4 +1,4 @@
-<h1 align="center">  DEVOPS | SYSADMIN | DEVELOPER PYTHON </h1>
+<h1 align="center"> DEVELOPER PYTHON | DEVOPS | SYSADMIN </h1>
 <p align="center"> HI , I AM DEVELIOER PYTHON AND DEVOPS </p>
 </br>
 
