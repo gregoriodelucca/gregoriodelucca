@@ -1,5 +1,5 @@
-<h1 align="center"> DEVELOPER FULLSTACK WEB AND MOBILE </h1>
-<p align="center"> HI , I AM DEVELIOER PYTHON AND DEVOPS </p>
+<h1 align="center"> HI, I AM  Gregório de Lucca </h1>
+<p align="center"> HI , I AM DEVELOPER WEB AND MOBILE </p>
 </br>
 
 <a href="https://github.com/gregoriodelucca">
@@ -13,10 +13,9 @@
 </br>
 
 <section align="center"/>
-  <img height="40" width="40" align="center"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-plain.svg"/>
-    <img height="40" width="40" align="center"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-   <img height="40" width="40" align="center"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img height="40" width="40" align="center"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
+    <img height="40" width="40" align="center"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img height="40" width="40" align="center"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
     <img height="40" width="40" align="center"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 
 <section/>
