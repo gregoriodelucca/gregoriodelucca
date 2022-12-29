@@ -1,4 +1,4 @@
-<h1 align="center">  DEVELOPER FULLSTACK  WEB </h1>
+<h1 align="center">  DEVOPS | SYSADMIN | DEVELOPER PYTHON </h1>
 <p align="center"> HI , I AM DEVELIOER WEB AND MOBILE </p>
 </br>
 
@@ -13,11 +13,10 @@
 </br>
 
 <section align="center"/>
-  <img height="40" width="40" align="center"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-    <img height="40" width="40" align="center"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img height="40" width="40" align="center"        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img height="40" width="40" align="center"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg"/>
+    <img height="40" width="40" align="center"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+   <img height="40" width="40" align="center"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img height="40" width="40" align="center"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
-    <img height="40" width="40" align="center"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img height="40" width="40" align="center"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <section/>
                      
