@@ -13,10 +13,11 @@
 </br>
 
 <section align="center"/>
-    <img height="40" width="40" align="center"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
-    <img height="40" width="40" align="center"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img height="60" width="60" align="center"     src="https://pngimg.com/uploads/php/php_PNG35.png"/>
+    <img height="40" width="40" align="center"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+    <img height="40" width="40" align="center"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
     <img height="40" width="40" align="center"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-    <img height="40" width="40" align="center"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg"/>
+
 
 <section/>
                      
