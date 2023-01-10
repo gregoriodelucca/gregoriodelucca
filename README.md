@@ -14,9 +14,9 @@
 
 <section align="center"/>
      <img height="40" width="40" align="center"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg"  />
+     <img height="40" width="40" align="center"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
      <img height="40" width="40" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
      <img height="40" width="40" align="center"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-     <img height="40" width="40" align="center"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 
 
 
