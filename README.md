@@ -1,5 +1,5 @@
 <h1 align="center"> HI, I AM  Gregório de Lucca </h1>
-<p align="center"> HI , I AM DEVELOPER BACK END AND DEVOPS </p>
+<p align="center"> HI , I AM DEVELOPER FRONT END  & MOTION DESIGNER </p>
 </br>
 
 <a href="https://github.com/gregoriodelucca">
