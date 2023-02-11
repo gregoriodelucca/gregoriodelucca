@@ -10,7 +10,7 @@
 ### Main skills:
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Rafa-Js" height="40" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" >
+  <img align="center" alt="Rafa-Js" height="80" width="60"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" >
   <img align="center" alt="Rafa-React" height="40" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg">
   <img align="center" alt="Rafa-CSS" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
 </div>
