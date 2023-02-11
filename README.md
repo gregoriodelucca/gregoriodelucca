@@ -9,11 +9,14 @@
 
 ### Main skills:
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Rafa-Js" height="80" width="60"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" >
-  <img align="center" alt="Rafa-React" height="40" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg">
-  <img align="center" alt="Rafa-CSS" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  <img align="center" alt="php" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="sql" height="80" width="60"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" >
+  <img align="center" alt="js" height="40" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg">
+  <img align="center" alt="CSS" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
 </div>
+
+
+
 
 ### Main Redes Sociais:
 <div align="left">  
@@ -22,7 +25,7 @@
 
 </div> 
 
-  ![programmer](https://user-images.githubusercontent.com/43537647/218260833-86ae3482-a8e6-4725-b5ae-b78e101f6a14.gif)
+ 
 
   
 <div align="center">
