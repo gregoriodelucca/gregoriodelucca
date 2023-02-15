@@ -14,6 +14,8 @@
 <div style="display: inline_block"><br>
  <img align="center" alt="js" height="40" width="60"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="sql" height="40" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  <img align="center" alt="js" height="40" width="60"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
+
 
 </div>
 
