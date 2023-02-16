@@ -21,7 +21,7 @@
 
 <div align="center"> 
  <h1>Redes Sociais</h1>
-<a href="https://www.instagram.com/gregoriolucca/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+  <a href="https://www.instagram.com/gregoriolucca/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-  badge&logo=instagram&logoColor=white"</a>
   <a href="https://www.linkedin.com/in/gregoriodelucca/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=instagram&logoColor=white"</a>
 
 </div> 
