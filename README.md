@@ -1,7 +1,7 @@
 <div align="center">
  <h1>Olá bem vindo!:wink:</h1>
-  <p>Sou Gregório, desenvolvedor front end | motion designer!:technologist:	
-  <br> Sou apaixonado por desenvolvimento de criação visual e artes!</p>
+  <p>Sou Gregório, desenvolvedor web | motion designer!:technologist:	
+  <br> Sou apaixonado por desenvolvimentoweb web, e criação visual e artes!</p>
 
 </div>
 
