@@ -1,7 +1,8 @@
 <div align="center">
- <h1>Olá bem vindo!:wink:</h1>
-  <p>Sou Gregório, desenvolvedor web | motion designer!:technologist:	
-  <br> Sou apaixonado por desenvolvimentoweb web, e criação visual e artes!</p>
+ <h1>Hello welcome:wink:</h1>
+  <p>Hello welcome  Gregório, devops engineer !:technologist:	
+  <br> 
+I'm passionate about devops engineer and linux(fedora) and devops, and I work with open-source with!</p>
 
 </div>
 
@@ -12,10 +13,11 @@
 
 <div align="center"><br>
   <h1>Skilss</h1>
-  <img align="center" alt="sql" height= "50" width="60"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="sql" height= "50" width="60"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="sql" height="40" width="60"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="sql" height="40" width="60"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+   <img align="center" alt="sql" height="50" width="50"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-plain.svg">
+
+  <img align="center" alt="sql" height= "60" width="60"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="sql" height= "60" width="60"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="sql" height="60" width="60"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
 </div>
 
 
