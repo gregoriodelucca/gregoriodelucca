@@ -2,7 +2,7 @@
  <h1>Hello welcome:wink:</h1>
   <p>Hello welcome  Gregório, Developer reactjs web and mobile !:technologist:	
   <br> 
-I'm passionate about developer web, linux(fedora) and devops, and I work with open-source with!</p>
+I'm passionate about developer web, and I work with open-source with!</p>
 
 </div>
 
@@ -14,9 +14,10 @@ I'm passionate about developer web, linux(fedora) and devops, and I work with op
 
 <div align="left"><br>
   <h1>Skilss</h1>
+   <img align="center" alt="sql" height= "40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+
   <img align="center" alt="sql" height= "40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="sql" height= "40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="sql" height= "50" width="50"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
 <div align="center"> 
