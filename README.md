@@ -13,10 +13,9 @@ I'm passionate about devops engineer and linux(fedora) and devops, and I work wi
 
 <div align="center"><br>
   <h1>Skilss</h1>
-   <img align="center" alt="sql" height="50" width="50"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-plain.svg">
-
-  <img align="center" alt="sql" height= "60" width="60"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="sql" height= "60" width="60"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+   <img align="center" alt="sql" height= "50" width="60"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+   <img align="center" alt="sql" height="50" width="50"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="sql" height= "50" width="50"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="sql" height="60" width="60"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
 </div>
 
