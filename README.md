@@ -1,6 +1,6 @@
 <div align="center">
  <h1>Hello welcome:wink:</h1>
-  <p>Hello welcome  Gregório, Developer javascript web !:technologist:	
+  <p>Hello welcome  Gregório, Developer reactjs web and mobile !:technologist:	
   <br> 
 I'm passionate about developer web, linux(fedora) and devops, and I work with open-source with!</p>
 
