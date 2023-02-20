@@ -20,14 +20,11 @@ I'm passionate about developer web, and I work with open-source with!</p>
   <img align="center" alt="sql" height= "40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
 
-<div align="center"> 
+<div align="left"> 
  <h1>Redes Sociais</h1>
   <a href="https://www.linkedin.com/in/gregoriodelucca/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=instagram&logoColor=white"</a>
 
 </div> 
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
-<br></div>
+
 
