@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
  <h1>Hello welcome:wink:</h1>
   <p>Hello welcome  Gregório, Developer javascript web !:technologist:	
   <br> 
@@ -8,7 +8,7 @@ I'm passionate about developer web, linux(fedora) and devops, and I work with op
 
 <div align="left">  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregoriodelucca&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
- <img width="50%" height="195px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2E3OTZmNGY4ZDdlZjM1YmE2ZmRjZTBhMmM1MDY0ZDE3MDE2ODNmMiZjdD1z/RHvb57lEDGmxTKNBtI/giphy.gif" />
+ <img width="45%" height="190px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2E3OTZmNGY4ZDdlZjM1YmE2ZmRjZTBhMmM1MDY0ZDE3MDE2ODNmMiZjdD1z/RHvb57lEDGmxTKNBtI/giphy.gif" />
 </div>
 </div>
 
