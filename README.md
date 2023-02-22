@@ -14,10 +14,10 @@ I'm passionate about developer web, and I work with open-source with!</p>
 
 <div align="left"><br>
   <h1>Skilss</h1>
-   <img align="center" alt="sql" height= "40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-
-  <img align="center" alt="sql" height= "40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="sql" height= "40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+   <img align="center" alt="sql" height= "40" width="60"   src="https://www.freepnglogos.com/uploads/php-logo-png/php-logo-php-elephant-logo-vectors-download-5.png">
+   <img align="center" alt="sql" height= "40" width="40"   src="https://www.pngfind.com/pngs/m/74-744138_mysql-logo-png-mysql-transparent-png.png">
+   <img align="center" alt="sql" height= "40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="sql" height= "40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
 </div>
 
 <div align="left"> 
