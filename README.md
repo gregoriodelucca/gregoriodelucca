@@ -15,8 +15,9 @@ I'm passionate about developer web, and I work with open-source with!</p>
 <div align="left"><br>
   <h1>Skilss</h1>
     <img align="center" alt="sql" height= "40" width="40"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" >
-    <img align="center" alt="sql" height= "40" width="40"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" >
+    <img align="center" alt="sql" height= "40" width="50"    src="https://www.freepnglogos.com/uploads/php-logo-png/php-logo-php-elephant-logo-vectors-download-5.png" >
     <img align="center" alt="sql" height= "60" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+    <img align="center" alt="sql" height= "40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
     <img align="center" alt="sql" height= "40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 </div>
 
