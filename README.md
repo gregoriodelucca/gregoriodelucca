@@ -2,7 +2,7 @@
  <h1>Hello welcome:wink:</h1>
   <p>Hello welcome  Gregório, Developer Web and devops !:technologist:	
   <br> 
-I'm passionate about developer web, and I work with open-source with!</p>
+I'm passionate about developer devops engineer, and I work with open-source with!</p>
 
 </div>
 
