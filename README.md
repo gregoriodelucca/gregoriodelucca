@@ -14,12 +14,8 @@ I'm passionate about developer front end jr, and I work with open-source with!</
 
 <div align="left"><br>
   <h1>Skilss</h1>
-    <img align="center" alt="sql" height= "40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" >
-    <img align="center" alt="sql" height= "40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="sql" height= "40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="center" alt="sql" height= "40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-    <img align="center" alt="sql" height= "40" width="40"  src="https://user-images.githubusercontent.com/43537647/221191875-b481c3ae-90d3-4ed9-808f-2a0cc884ed6c.png">
-    <img align="center" alt="sql" height= "40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 </div>
 
 <div align="left"> 
