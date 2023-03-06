@@ -16,6 +16,8 @@ I'm passionate about developer front end jr, and I work with open-source with!</
   <h1>Skilss</h1>
     <img align="center" alt="sql" height= "40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="center" alt="sql" height= "40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+     <img align="center" alt="sql" height= "40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+
 </div>
 
 <div align="left"> 
