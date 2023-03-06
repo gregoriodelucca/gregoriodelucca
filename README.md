@@ -1,8 +1,8 @@
 <div align="center">
  <h1>Hello welcome:wink:</h1>
-  <p>Hello welcome  Gregório, Developer front end designer!:technologist:	
+  <p>Hello welcome  Gregório, Developer Web Designer!:technologist:	
   <br> 
-I'm passionate about developer front end and motion designer jr!</p>
+I'm passionate about developer web and motion designer jr!</p>
 
 </div>
 
