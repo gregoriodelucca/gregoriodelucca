@@ -1,8 +1,8 @@
 <div align="center">
  <h1>Hello welcome:wink:</h1>
-  <p>Hello welcome  Gregório, Developer Web Designer!:technologist:	
+  <p>Hello welcome  Gregório, Developer front end!:technologist:	
   <br> 
-I'm passionate about developer web and motion designer jr!</p>
+I'm passionate about developer javascript web and designer!</p>
 
 </div>
 
@@ -14,12 +14,10 @@ I'm passionate about developer web and motion designer jr!</p>
 
 <div align="left"><br>
   <h1>Skilss</h1>
-    <img align="center" alt="sql" height= "40" width="60" src="https://www.freepnglogos.com/uploads/php-logo-png/php-logo-php-elephant-logo-vectors-download-5.png">
-    <img align="center" alt="sql" height= "40" width="50" src="https://user-images.githubusercontent.com/43537647/223166660-809dd18f-ed75-420e-a58e-f86ae3b5031f.png">
-    <img align="center" alt="sql" height= "40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img align="center" alt="sql" height= "40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="center" alt="sql" height= "40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+    <img align="center" alt="sql" height= "40" width="50"  src="https://user-images.githubusercontent.com/43537647/223166660-809dd18f-ed75-420e-a58e-f86ae3b5031f.png">
     <img align="center" alt="sql" height= "40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-    <img align="center" alt="sql" height= "40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
 
 
 </div>
