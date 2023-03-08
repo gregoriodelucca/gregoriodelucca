@@ -1,9 +1,7 @@
 <div align="center">
  <h1>Hello welcome:wink:</h1>
   <p>Hello welcome  Gregório, Developer front end and designer!:technologist:	
-  <br> 
-I'm passionate about developer javascript web and designer!</p>
-
+  <br> I'm passionate about developer javascript web and designer!</br>I help the fedobr community, how to use linux desktop environment and work with servers as volunteer work!</p>
 </div>
 
 <div align="left">  
