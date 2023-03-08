@@ -14,26 +14,17 @@ I'm passionate about developer javascript web and designer!</p>
 
 <div align="left"><br>
   <h1>Skilss</h1>
+    <img align="center" alt="sql" height= "40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-plain.svg">
     <img align="center" alt="sql" height= "40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
     <img align="center" alt="sql" height= "40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
     <img align="center" alt="sql" height= "40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="sql" height= "40" width="40"  src="https://user-images.githubusercontent.com/43537647/223166660-809dd18f-ed75-420e-a58e-f86ae3b5031f.png">
-    <img align="center" alt="sql" height= "40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg">
-    <img align="center" alt="sql" height= "40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
-    <img align="center" alt="sql" height= "40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
-    <img align="center" alt="sql" height= "40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
-
-
-
-
-
-
+    <img align="center" alt="sql" height= "40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+    <img align="center" alt="sql" height= "45" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
 </div>
-
 <div align="left"> 
  <h1>Redes Sociais</h1>
   <a href="https://www.linkedin.com/in/gregoriodelucca/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=instagram&logoColor=white"</a>
-
 </div> 
 
 
