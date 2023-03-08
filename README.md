@@ -1,6 +1,6 @@
 <div align="center">
  <h1>Hello welcome:wink:</h1>
-  <p>Hello welcome  Gregório, devops and developer enginer python!:technologist:	
+  <p>Hello welcome  Gregório, devops and developer web python!:technologist:	
   <br> I'm passionate about devops and developer python!</br>I help the fedobr community, how to use linux desktop environment and work with servers as volunteer work!</p>
 </div>
 
