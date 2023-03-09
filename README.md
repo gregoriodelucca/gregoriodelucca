@@ -1,7 +1,7 @@
 <div align="center">
  <h1>Hello welcome:wink:</h1>
-  <p>Hello welcome  Gregório, devops and developer web python!:technologist:	
-  <br> I'm passionate about devops and developer python!</br>I help the fedobr community, how to use linux desktop environment and work with servers as volunteer work!</p>
+  <p>Hello welcome  Gregório, ddeveloper web and  motion designer!:technologist:	
+  <br> I'm passionate  developer javascript web and audiovisual</br>I </p>
 </div>
 
 <div align="left">  
@@ -12,10 +12,14 @@
 
 <div align="left"><br>
   <h1>Skilss</h1>
-    <img align="center" alt="sql" height= "40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-plain.svg">
-    <img align="center" alt="sql" height= "40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+     <img align="center" alt="sql" height= "40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="sql" height= "40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
     <img align="center" alt="sql" height= "40" width="40"  src="https://user-images.githubusercontent.com/43537647/223166660-809dd18f-ed75-420e-a58e-f86ae3b5031f.png">
-    <img align="center" alt="sql" height= "45" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+    <img align="center" alt="sql" height= "40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+    <img align="center" alt="sql" height= "40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+    <img align="center" alt="sql" height= "40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
+
+
 </div>
 <div align="left"> 
  <h1>Redes Sociais</h1>
