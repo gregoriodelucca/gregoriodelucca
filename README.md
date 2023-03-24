@@ -18,14 +18,18 @@
     <img align="center" alt="sql" height= "40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg">
      <img align="center" alt="sql" height= "40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
 
-
-
-
 </div>
+
 <div align="left"> 
- <h1>Redes Sociais</h1>
+ <h1>Portifólio</h1>
   <a href="https://www.linkedin.com/in/gregoriodelucca/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div> 
+<div align="left"> 
+ <h1>Redes Sociais</h1>
+  <a href="https://gregoriodelucca.netlify.app">www.gregoriodelucca.com</a>
+</div> 
+ </div>
+
 
 
 
