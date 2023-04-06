@@ -12,10 +12,10 @@
 
 <div align="center"><br>
   <h1>Skilss</h1>
-    <img align="center" alt="sql" height= "40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" >
-    <img align="center" alt="sql" height= "40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+     <img align="center" alt="sql" height= "40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  >
+    <img align="center" alt="sql" height= "40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"  >
+    <img align="center" alt="sql" height= "40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
      <img align="center" alt="sql" height= "40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-     <img align="center" alt="sql" height= "40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 </div>
 <div align="center">
  <h1>opensource fedora</h1>
