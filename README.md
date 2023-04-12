@@ -1,7 +1,7 @@
 <div align="center">
  <h1>Hello welcome:wink:</h1>
-  <p>Hello welcome  I am gregório and developer web designer!:technologist:	
-  <br> I'm passionate  web designer!</br></p>
+  <p>Hello welcome  I am gregório and sysadmin and web devopsSecurity!!:technologist:	
+  <br> I'm passionate  Devops!</br></p>
 </div>
 
 <div align="center">  
@@ -12,10 +12,11 @@
 
 <div align="center"><br>
   <h1>Skilss</h1>
-     <img align="center" alt="sql" height= "40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  >
-    <img align="center" alt="sql" height= "40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"  >
-    <img align="center" alt="sql" height= "40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+     <img align="center" alt="sql" height= "40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+    <img align="center" alt="sql" height= "40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
      <img align="center" alt="sql" height= "40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+     <img align="center" alt="sql" height= "40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" >
+
 </div>
 <div align="center">
  <h1>opensource fedora</h1>
