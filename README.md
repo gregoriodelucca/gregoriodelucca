@@ -1,6 +1,6 @@
 <div align="center">
  <h1>Hello welcome:wink:</h1>
-  <p>Hello welcome  I am gregório and developer JavaScript and front end!!:technologist:	
+  <p>Hello welcome  I am gregório and devops and sysadmin!!:technologist:	
 </div>
 
 <div align="center">  
