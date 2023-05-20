@@ -17,17 +17,6 @@
      <img align="center" alt="sql" height= "40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
       <img align="center" alt="sql" height= "40" width="40"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
      <img align="center" alt="sql" height= "40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-
-
-
-
-</div>
-<div align="center">
- <h1>opensource fedora</h1>
- <p>I help the fedorabr community, how to use desktop and server!</p>
- <a href="https://fedorabr.org/">www.fedorabr.com</a>
-</div>
-
  
 <div align="center"> 
  <h1>Redes Sociais</h1>
