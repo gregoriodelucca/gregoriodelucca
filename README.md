@@ -21,7 +21,7 @@
 <div align="center">
  <h1> projetos opensouce </h1>
  <p> eu ajudo a comunidadefedorabr com contribuição sobre manual da biblia fedora linux!</br> ajudando o pessoal no desenvolvimento do fedora!</p>
- <a href="https://fedorabr.org/"> wwww.fedorabr.org</a>
+ <a href="https://fedorabr.org/discussions/mine"> wwww.fedorabr.org</a>
 </div>
 
 <div align="center"> 
