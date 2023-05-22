@@ -1,7 +1,7 @@
 <div align="center">
  <h1>Hello bem-vindo:wink:</h1>
-  <p>Eu sou Gregório, eu sou desenvolvedor web  e cybersecurity!!:technologist:	</br>
-  eu trabalho com devops infraestrutura e automatizações tarefas sou apaixonado por web e segurança da informação!
+  <p>Eu sou Gregório, eu sou desenvolvedor front end  e ux design!!:technologist:	</br>
+  eu trabalho com desenvolvimento front end para aplicativos e ux designer!
  </p>
 </div>
 
@@ -13,18 +13,14 @@
 
 <div align="center"><br>
   <h1>Skilss</h1>
-     <img align="center" alt="sql" height= "40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+     <img align="center" alt="sql" height= "40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
      <img align="center" alt="sql" height= "40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
      <img align="center" alt="sql" height= "40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
      <img align="center" alt="sql" height= "40" width="40"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
      <img align="center" alt="sql" height= "40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
  </div>
  
-<div align="center">
- <h1> projetos opensouce </h1>
- <p> eu ajudo a comunidadefedorabr com contribuição sobre manual da biblia fedora linux!</br> ajudando o pessoal no desenvolvimento do fedora!</p>
- <a href="https://fedorabr.org/discussions/mine"> wwww.fedorabr.org</a>
-</div>
+
 
 <div align="center"> 
  <h1>Redes Sociais</h1>
