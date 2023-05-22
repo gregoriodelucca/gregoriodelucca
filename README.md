@@ -1,7 +1,7 @@
 <div align="center">
  <h1>Hello bem-vindo:wink:</h1>
-  <p>Eu sou Gregório, eu sou sysadmin e cybersecurity!!:technologist:	</br>
-  eu trabalho com devops infraestrutura e automatizações tarefas sou apaixonado por desenvolvimento inteligencia artificial e segurança da informação!
+  <p>Eu sou Gregório, eu sou desenvolvedor web  e cybersecurity!!:technologist:	</br>
+  eu trabalho com devops infraestrutura e automatizações tarefas sou apaixonado por web e segurança da informação!
  </p>
 </div>
 
