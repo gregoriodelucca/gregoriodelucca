@@ -1,7 +1,7 @@
 <div align="center">
  <h1>Hello bem-vindo:wink:</h1>
-  <p>Eu sou Gregório, eu sou desenvolvedor front end  e ux design!!:technologist:	</br>
-  eu trabalho com desenvolvimento front end para aplicativos e ux designer!
+  <p>Eu sou Gregório, eu devops sysadmin e back end!!:technologist:	</br>
+  eu trabalho com devops e servidores com infraestrutura!
  </p>
 </div>
 
@@ -13,11 +13,10 @@
 
 <div align="center"><br>
   <h1>Skilss</h1>
-     <img align="center" alt="sql" height= "40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-     <img align="center" alt="sql" height= "40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-     <img align="center" alt="sql" height= "40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-     <img align="center" alt="sql" height= "40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+      <img align="center" alt="sql" height= "40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+     <img align="center" alt="sql" height= "40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
      <img align="center" alt="sql" height= "40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+     <img align="center" alt="sql" height= "40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
  </div>
  
 
