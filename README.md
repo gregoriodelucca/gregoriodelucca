@@ -1,7 +1,6 @@
 <div align="center">
  <h1>Hello bem-vindo:wink:</h1>
-  <p>Eu sou Gregório, eu sou devops/sysadmin e desenvolvedor back end!:technologist:	</br>
-  eu trabalho como devops e  como desenvolvimento web;
+  <p>Eu sou Gregório, eu sou desenvolveodr web e mobile!!:technologist:	</br>
  </p>
 </div>
 
