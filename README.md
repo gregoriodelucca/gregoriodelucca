@@ -8,7 +8,7 @@
   </br>
 
 
-  <p  align="left">Eu sou Gregório, eu sou desenvolvedor web !!:technologist:</br> Eu sou programdor desenvolvedor de software web,</br> apaixonado por desenvolvimento com javascript!</p>
+  <p  align="left">Eu sou Gregório, eu sou desenvolvedor web e mobile!!:technologist:</br> tenho conhecimentos em reacjs, nodejs e mysql</br> apaixonado por desenvolvimento!</p>
 
  
  </div>
