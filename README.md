@@ -26,9 +26,7 @@ Olá eu sou desenvovledor fullstack e estou focado em devops!
     <a href = "https://www.linkedin.com/in/gregoriodelucca/">
       <img width="25" src="linkedin.svg">
     </a>  
-    <a href = "https://www.instagram.com/devparadev/">
-      <img width="25" src="instagram.png">
-    </a>
+   
 </div>
   
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
