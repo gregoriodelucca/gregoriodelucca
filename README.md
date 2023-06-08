@@ -21,10 +21,10 @@ Olá eu sou desenvovledor fullstack e estou focado em devops!
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: gregoriodelucca@gmail.com">
-      <img width="30" src="gmail.svg">
+      <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Gmail_%282015-2020%29.svg/2560px-Logo_Gmail_%282015-2020%29.svg.png">
     </a>
     <a href = "https://www.linkedin.com/in/gregoriodelucca/">
-      <img width="25" src="linkedin.svg">
+      <img width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png">
     </a>  
    
 </div>
