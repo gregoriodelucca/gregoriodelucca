@@ -1,4 +1,6 @@
-Olá eu sou desenvovledor fullstack e estou focado em devops!
+<div>
+<p>Sou um desenvolvedor front-end júnior com habilidades em HTML, CSS e JavaScript. </br> Recentemente, comecei a aprender ReactJS e estou animado para aprofundar meus conhecimentos nessa tecnologia. </br> Também estou interessado em explorar o desenvolvimento web full-stack, especialmente com a combinação de ReactJS no front-end e Node.js no back-end. </br> Tenho uma paixão pelo desenvolvimento web e estou animado para continuar aprendendo e crescendo nessa área!<p>
+</div>
 
 <div>
   
