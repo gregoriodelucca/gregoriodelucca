@@ -1,5 +1,5 @@
 <div>
-<p>Sou um desenvolvedor front-end júnior com habilidades em HTML, CSS e JavaScript. </br> Recentemente, comecei a aprender ReactJS e estou animado para aprofundar meus conhecimentos nessa tecnologia. </br> Também estou interessado em explorar o desenvolvimento web full-stack, especialmente com a combinação de ReactJS no front-end e Node.js no back-end. </br> Tenho uma paixão pelo desenvolvimento web e estou animado para continuar aprendendo e crescendo nessa área!<p>
+<p>Como um iniciante desenvolvedor web, estou atualmente estudando PHP, MySQL, JavaScript e CSS3. Meu foco principal é aprimorar minhas habilidades em Laravel e Vue.js, com uma ênfase especial no desenvolvimento front-end e design. Sou uma pessoa proativa, sempre buscando oportunidades de aprendizado e aquisição de novas habilidades. Estou constantemente estudando e me mantendo atualizado com as tendências e tecnologias mais recentes no campo do desenvolvimento web.<p>
 </div>
 
 <div>
@@ -14,14 +14,10 @@
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Minhas skills <3</h1>
     <img align="center" height="30" width="30" alt="c-icon"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-    <img align="center" height="30" width="30" alt="js-icon"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="30" alt="js-icon"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+    <img align="center" height="30" width="30" alt="nodejs-icon" src="https://www.freepnglogos.com/uploads/php-logo-png/php-logo-php-elephant-logo-vectors-download-5.png">
+    <img align="center" height="30" width="30" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
     <img align="center" height="30" width="30" alt="js-icon"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img align="center" height="30" width="30" alt="react-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" height="30" width="30" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" height="30" width="30" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-
-  
+    <img align="center" height="30" width="30" alt="js-icon"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">     
    </div>
     
   
