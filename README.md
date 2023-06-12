@@ -15,7 +15,7 @@
     <h1 align="center">Minhas skills <3</h1>
     <img align="center" height="30" width="40" alt="c-icon"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://www.freepnglogos.com/uploads/php-logo-png/php-logo-php-elephant-logo-vectors-download-5.png">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+    <img align="center" height="30" width="40" alt="nodejs-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
     <img align="center" height="30" width="40" alt="js-icon"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="center" height="30" width="40" alt="js-icon"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">     
    </div>
