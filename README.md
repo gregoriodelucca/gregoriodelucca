@@ -1,5 +1,5 @@
 <div>
-<p>Como um iniciante desenvolvedor web, estou atualmente estudando PHP, MySQL, JavaScript e CSS3. Meu foco principal é aprimorar minhas habilidades em Laravel e Vue.js, com uma ênfase especial no desenvolvimento front-end e design. Sou uma pessoa proativa, sempre buscando oportunidades de aprendizado e aquisição de novas habilidades. Estou constantemente estudando e me mantendo atualizado com as tendências e tecnologias mais recentes no campo do desenvolvimento web.<p>
+<p>Como um iniciante desenvolvedor web, estou atualmente estudando PHP, MySQL, JavaScript e CSS3. Meu foco principal é aprimorar minhas habilidades em Laravel e Vue.js, com uma ênfase especial no desenvolvimento web design. Sou uma pessoa proativa, sempre buscando oportunidades de aprendizado e aquisição de novas habilidades. Estou constantemente estudando e me mantendo atualizado com as tendências e tecnologias mais recentes no campo do desenvolvimento web.<p>
 </div>
 
 <div>
