@@ -1,5 +1,5 @@
 <div>
-<p>Como um iniciante desenvolvedor web, estou atualmente estudando PHP, MySQL, JavaScript e CSS3. Meu foco principal é aprimorar minhas habilidades em Laravel e Vue.js, com uma ênfase especial no desenvolvimento web design. Sou uma pessoa proativa, sempre buscando oportunidades de aprendizado e aquisição de novas habilidades. Estou constantemente estudando e me mantendo atualizado com as tendências e tecnologias mais recentes no campo do desenvolvimento web.<p>
+<p>Eu sou um técnico audiovisual com 2 anos de experiência. Atualmente, estou iniciando minha carreira como desenvolvedor front-end web e possuo conhecimentos em linguagens como HTML5, CSS3, JavaScript e React. Estou concentrado no aprendizado de React e Node.js. Sou uma pessoa proativa e estou constantemente atualizando minhas habilidades!<p>
 </div>
 
 <div>
@@ -13,10 +13,12 @@
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Minhas skills <3</h1>
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://www.freepnglogos.com/uploads/php-logo-png/php-logo-php-elephant-logo-vectors-download-5.png">
-    <img align="center" height="30" width="40" alt="nodejs-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+    <img align="center" height="30" width="40" alt="js-icon"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
     <img align="center" height="30" width="40" alt="js-icon"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img align="center" height="30" width="40" alt="js-icon"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">     
+    <img align="center" height="30" width="40" alt="js-icon"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+     
    </div>
     
   
