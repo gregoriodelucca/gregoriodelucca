@@ -1,9 +1,12 @@
 <div>
-<p> I'm a passionate front-end web developer who loves the world of development. </br> I'm constantly updating my skills in HTML5, CSS3, and JavaScript. </br>The fundamental building blocks for creating modern and engaging web interfaces.  <p>
+<p> I'm a passionate front-end web developer who loves the world of development. 
+ </br> I'm constantly updating my skills in HTML5, CSS3, and JavaScript. 
+</br>The fundamental building blocks for creating modern and engaging web interfaces.<p>
 </div>
+</br>
+</br>
 
-<div>
-  
+<div>  
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=LuigiGF&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregoriodelucca&layout=compact&langs_count=16&theme=dracula"/>
 </div>
