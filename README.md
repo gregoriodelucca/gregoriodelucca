@@ -1,5 +1,5 @@
 <div>
-<p>Sou um desenvolvedor front-end web apaixonado pelo mundo do desenvolvimento. Dedico-me constantemente à atualização das minhas habilidades em HTML5, CSS3 e JavaScript, as bases fundamentais para a criação de interfaces web modernas e envolventes!<p>
+<p> I'm a passionate front-end web developer who loves the world of development. I'm constantly updating my skills in HTML5, CSS3, and JavaScript, the fundamental building blocks for creating modern and engaging web interfaces.  <p>
 </div>
 
 <div>
@@ -12,7 +12,7 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Minhas skills <3</h1>
+    <h1 align="center">Minhas skills </h1>
     <img align="center" height="30" width="40" alt="sass-icon"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="sass-icon"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="js-icon"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
