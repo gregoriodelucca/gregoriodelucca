@@ -1,5 +1,5 @@
 <div>
-<p>Eu sou um técnico audiovisual com 2 anos de experiência. Atualmente, estou iniciando minha carreira como desenvolvedor front-end web e possuo conhecimentos em linguagens como HTML5, CSS3, JavaScript e React. Estou concentrado no aprendizado de React e Node.js. Sou uma pessoa proativa e estou constantemente atualizando minhas habilidades!<p>
+<p>Sou um desenvolvedor front-end web apaixonado pelo mundo do desenvolvimento. Dedico-me constantemente à atualização das minhas habilidades em HTML5, CSS3 e JavaScript, as bases fundamentais para a criação de interfaces web modernas e envolventes!<p>
 </div>
 
 <div>
