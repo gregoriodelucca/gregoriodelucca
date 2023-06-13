@@ -1,5 +1,5 @@
 <div>
-<p> I'm a passionate front-end web developer who loves the world of development. I'm constantly updating my skills in HTML5, CSS3, and JavaScript, the fundamental building blocks for creating modern and engaging web interfaces.  <p>
+<p> I'm a passionate front-end web developer who loves the world of development. </br> I'm constantly updating my skills in HTML5, CSS3, and JavaScript. </br>The fundamental building blocks for creating modern and engaging web interfaces.  <p>
 </div>
 
 <div>
