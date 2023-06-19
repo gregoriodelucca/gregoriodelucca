@@ -1,5 +1,5 @@
 <div>
-<p>I am a sysadmin and I am currently studying DevOps. I have skills in Linux, servers, Python automation, and Docker for containerization. My main focus is on DevOps. I am proactive and constantly working on improving my skills. I strive to stay updated with the latest industry trends and practices, and I am always eager to learn new things. My goal is to apply my knowledge in DevOps projects and contribute to the success of development and operations teams.<p>
+<p>Eu sou Gregorio. Estou estudando desenvolvimento web e estou focado nas habilidades de PHP, JavaScript, SQL e CSS3. Sou apaixonado por desenvolvimento web e sou pró-ativo, sempre atualizando meus conhecimentos.<p>
 </div>
 </br>
 <div align="center">
