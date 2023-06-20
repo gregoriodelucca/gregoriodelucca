@@ -1,5 +1,5 @@
 <div>
-<p>Eu sou Gregorio. Estou estudando desenvolvimento web e estou focado nas habilidades de PHP, JavaScript, SQL e CSS3. Sou apaixonado por desenvolvimento web e sou pró-ativo, sempre atualizando meus conhecimentos.<p>
+<p>Estou começando minha jornada na área de Front-end e já possuo habilidades em HTML5, CSS3, JavaScript. No entanto, estou me concentrando em aprofundar meus conhecimentos em ReactJS e Node.js, duas tecnologias amplamente utilizadas no desenvolvimento web moderno<p>
 </div>
 </br>
 <div align="center">
