@@ -1,5 +1,5 @@
 <div>
-<p>Estou começando minha jornada na área de Front-end e já possuo habilidades em HTML5, CSS3, JavaScript. No entanto, estou me concentrando em aprofundar meus conhecimento em Reactjs, duas tecnologias amplamente utilizadas no desenvolvimento web moderno<p>
+<p>Estou começando minha jornada na área de Front-end e já possuo habilidades em HTML5, CSS3, JavaScript. No entanto, estou me concentrando em aprofundar meus conhecimento em Stack mern, duas tecnologias amplamente utilizadas no desenvolvimento web moderno<p>
 </div>
 </br>
 <div align="center">
