@@ -15,6 +15,7 @@ projeto opensource comunidade : https://fedorabr.org/ </br>
 </div>
 
 <div>  
+  <h1> skilss</h1>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=LuigiGF&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregoriodelucca&layout=compact&langs_count=16&theme=dracula"/>
 </div>
