@@ -2,7 +2,7 @@
   <h1 align="center"> bem vindo</h1>
 <p align="center">Meus projetos: https://github.com/gregoriodelucca </br>
                    projeto opensource comunidade : https://fedorabr.org/</p>
-<p>"Sou um profissional com 1 ano de experiência como Sysadmin, com habilidades avançadas em administração de servidores Linux. Tenho um forte foco em DevOps e possuo amplo conhecimento em tecnologias como Python, Sql, Linux Docker e AWS. Além disso, estou aprofundando meus estudos em Python para desenvolvimento back-end, bem como Python e SQL!</p>
+<p>Como profissional com dois anos de experiência como Sysadmin Linux, estou atualmente direcionando minha carreira para o desenvolvimento web. Possuo habilidades sólidas em PHP, JavaScript, Python, SQL e CSS3. Meu foco principal é me tornar um desenvolvedor full-stack web, especializado em tecnologias como PHP, MySQL e Vue.js. Sou apaixonado por criar soluções inovadoras e funcionais para projetos web, e estou em busca contínua de aprimoramento e aprendizado. Estou entusiasmado para aplicar minha experiência e habilidades no desenvolvimento web para impulsionar o sucesso dos projetos aos quais me dedicar.</p>
 </div>
 </br>
 
