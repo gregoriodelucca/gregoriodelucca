@@ -1,7 +1,7 @@
 <div>
 <p>Meus projetos: https://github.com/gregoriodelucca </br>
 projeto opensource comunidade : https://fedorabr.org/ </br>
-"Sou um profissional com 1 ano de experiência como Sysadmin, com habilidades avançadas em administração de servidores Linux. Tenho um forte foco em DevOps e possuo amplo conhecimento em tecnologias como Linux, Python, Docker e AWS. Além disso, estou aprofundando meus estudos em Python para desenvolvimento back-end, bem como Python e SQL. Como parte do meu desenvolvimento profissional, também utilizo meu tempo livre para trabalhar com audiovisual, onde aplico minhas habilidades na edição e criação de vídeos.<p>
+"Sou um profissional com 1 ano de experiência como Sysadmin, com habilidades avançadas em administração de servidores Linux. Tenho um forte foco em DevOps e possuo amplo conhecimento em tecnologias como Linux, Python, Docker e AWS. Além disso, estou aprofundando meus estudos em Python para desenvolvimento back-end, bem como Python e SQL!<p>
 </div>
 </br>
 <div align="center">
