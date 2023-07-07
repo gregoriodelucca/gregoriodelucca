@@ -2,7 +2,7 @@
   <h1 align="center"> bem vindo</h1>
 <p align="center">Meus projetos: https://github.com/gregoriodelucca </br>
                    projeto opensource comunidade : https://fedorabr.org/</p>
-<p>Como profissional com dois anos de experiência como Sysadmin Linux, estou atualmente direcionando minha carreira para o desenvolvimento web. Possuo habilidades sólidas em PHP, JavaScript, Python, SQL e CSS3. Meu foco principal é me tornar um desenvolvedor full-stack web, especializado em tecnologias como PHP, MySQL e Vue.js. Sou apaixonado por criar soluções inovadoras e funcionais para projetos web, e estou em busca contínua de aprimoramento e aprendizado. Estou entusiasmado para aplicar minha experiência e habilidades no desenvolvimento web para impulsionar o sucesso dos projetos aos quais me dedicar.</p>
+<p>Eu sou um desenvolvedor full-stack web com conhecimentos em PHP, MySQL, JavaScript e CSS3. Atualmente, estou concentrado na stack PHP, MySQL e Bootstrap. Estou embarcando em uma nova jornada no desenvolvimento web com foco em PHP. Sou pró-ativo e estou sempre atualizando minhas ferramentas!</p>
 </div>
 </br>
 
