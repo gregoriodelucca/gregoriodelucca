@@ -1,7 +1,5 @@
 <div>
   <h1 align="center"> bem vindo</h1>
-<p align="center">Meus projetos: https://github.com/gregoriodelucca </br>
-                   projeto opensource comunidade : https://fedorabr.org/</p>
 <p>Eu sou um desenvolvedor full-stack web com conhecimentos em PHP, MySQL, JavaScript e CSS3. Atualmente, estou concentrado na stack PHP, MySQL e Bootstrap. Estou embarcando em uma nova jornada no desenvolvimento web com foco em PHP. Sou pró-ativo e estou sempre atualizando minhas ferramentas!</p>
 </div>
 </br>
