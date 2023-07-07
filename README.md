@@ -1,6 +1,6 @@
 <div>
   <h1 align="center"> bem vindo</h1>
-<p>Eu sou um desenvolvedor full-stack web com conhecimentos em PHP, MySQL, JavaScript e CSS3. Atualmente, estou concentrado na stack PHP, MySQL e Bootstrap. Estou embarcando em uma nova jornada no desenvolvimento web com foco em PHP. Sou pró-ativo e estou sempre atualizando minhas ferramentas!</p>
+<p>Sou um desenvolvedor web júnior com experiência em HTML5, CSS3 e JavaScript. Atualmente, estou concentrado no desenvolvimento full stack web, utilizando a stack (Reactjs, Nodejs, Sql e BootStrap). Mantenho-me atualizado constantemente, buscando aprimorar minhas habilidades e conhecimentos. Sou proativo e estou sempre em busca de novas oportunidades para aplicar minhas competências técnicas e contribuir de forma efetiva para projetos de desenvolvimento web.</p>
 </div>
 </br>
 
