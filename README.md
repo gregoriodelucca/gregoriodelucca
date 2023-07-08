@@ -1,6 +1,6 @@
 <div>
   <h1 align="center"> bem vindo</h1>
-<p>Sou um desenvolvedor web júnior com experiência em HTML5, CSS3 e JavaScript. Atualmente, estou concentrado no desenvolvimento full stack web, utilizando a stack (React, Sql e Php). Mantenho-me atualizado constantemente, buscando aprimorar minhas habilidades e conhecimentos. Sou proativo e estou sempre em busca de novas oportunidades para aplicar minhas competências técnicas e contribuir de forma efetiva para projetos de desenvolvimento web.</p>
+<p>Sou um desenvolvedor web júnior com experiência em HTML5, CSS3 e JavaScript. Atualmente, estou concentrado no desenvolvimento full stack web, utilizando a stack (React, Sql e Nodejs). Mantenho-me atualizado constantemente, buscando aprimorar minhas habilidades e conhecimentos. Sou proativo e estou sempre em busca de novas oportunidades para aplicar minhas competências técnicas e contribuir de forma efetiva para projetos de desenvolvimento web.</p>
 </div>
 </br>
 
