@@ -1,7 +1,7 @@
 <div align="left">
 
   <h1 align="center"> Welcome 👋 </h1>
-    <p> DevScops Front End! 💻
+    <p> Developer DevScops ! 💻
     </br> I am a FullStack developer with skills in programming languages such as HTML, CSS, JavaScript. </br> I am currently focused on  web development using the "ReactJS, NodeJS and MongoDB" stack.
     </br>
     </p>
