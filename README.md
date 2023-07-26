@@ -1,8 +1,8 @@
 <div align="left">
 
   <h1 align="center"> Welcome 👋 </h1>
-    <p> Developer Front End ! 💻
-    </br> I am Front end developer with skills in programming languages such as HTML, CSS, JavaScript and TrypeScript. </br> I am currently focused on  web development using the "ReactJS, NodeJS and MongoDB" stack.
+    <p> Developer Web ! 💻
+    </br> I am Web developer with skills in programming languages such as Php, Mysql and bootrstap </br> I am currently focused on  web development using the "Php, MySql, Vuejs, SaSS".
     </br>
     </p>
 
@@ -14,10 +14,10 @@ src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb29914
 
 <div  align="center"> 
     <h1 align="center">Skilss</h1>
-    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" height="50" width="40" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" height="50" width="40" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
+    <img align="center" height="30" width="40" alt="react-icon" src="https://www.freepnglogos.com/uploads/php-logo-png/php-logo-php-elephant-logo-vectors-download-5.png">
+    <img align="center" height="30" width="40" alt="nodejs-icon"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg">
    </div>
     
 <div align="center">
