@@ -16,8 +16,10 @@ src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb29914
     <h1 align="center">Skilss</h1>
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
-        <img align="center" height="30" width="40" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-      <img align="center" height="30" width="40" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
+    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
+    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png">
+
    </div>
     
 <div align="center">
