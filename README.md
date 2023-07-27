@@ -2,7 +2,7 @@
 
   <h1 align="center"> Welcome 👋 </h1>
     <p> Developer Web ! 💻
-    </br> I am Web developer with skills in programming languages such as Php, Mysql  and bootrstap </br> I am currently focused on  web development using the " Php, Mysql and BootStrap".
+    </br> I am Web developer with skills in programming languages such as html5, css3 and JavaScript </br> I am currently focused on  web development using the " Nodejs, Mongodb and BootStrap".
     </br>
     </p>
 
