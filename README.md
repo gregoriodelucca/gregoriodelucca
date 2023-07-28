@@ -1,7 +1,7 @@
 <div align="left">
 
   <h1 align="center"> Welcome 👋 </h1>
-    <p> Developer Web ! 💻
+    <p> Developer Web | Motion Designer ! 💻
     </br> I am Web developer with skills in programming languages such as html5, css3 and JavaScript </br> I am currently focused on  web development using the " Nodejs, Mongodb and BootStrap".
     </br>
     </p>
