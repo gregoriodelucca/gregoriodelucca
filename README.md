@@ -1,8 +1,8 @@
 <div align="left">
 
   <h1 align="center"> Welcome 👋 </h1>
-    <p> Developer Web | Motion Designer ! 💻
-    </br> I am Web developer with skills in programming languages such as html5, css3 and JavaScript </br> I am currently focused on  web development using the " Nodejs, Reactjs, SaSS and Mongodb".
+    <p> Devops | secuirity ! 💻
+    </br> I am DevOps and security! I have knowledge in Linux, Python, Java, MySQL, and AWS ".
     </br>
     </p>
 
@@ -14,8 +14,8 @@ src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb29914
 
 <div  align="center"> 
     <h1 align="center">Skilss</h1>
-      <img align="center" height="30" width="40" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+      <img align="center" height="30" width="40" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg">
+    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png">
