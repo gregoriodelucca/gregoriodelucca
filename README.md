@@ -1,7 +1,7 @@
 <div align="left">
 
   <h1 align="center"> Welcome 👋 </h1>
-    <p> Devops | secuirity ! 💻
+    <p> Front End | Ui Designer ! 💻
     </br> I am front end and  ux/ui designer  I have knowledge in React, Node, sql, SaSS ".
     </br>
     </p>
