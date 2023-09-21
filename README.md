@@ -2,7 +2,7 @@
 
   <h1 align="center"> Welcome 👋 </h1>
     <p> Devops | secuirity ! 💻
-    </br> I am DevOps and security! I have knowledge in Linux, Python, Java, MySQL, and AWS ".
+    </br> I am front end and  ux/ui designer  I have knowledge in React, Node, sql, SaSS ".
     </br>
     </p>
 
@@ -14,9 +14,9 @@ src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb29914
 
 <div  align="center"> 
     <h1 align="center">Skilss</h1>
-      <img align="center" height="30" width="40" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-      <img align="center" height="30" width="40" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-    <img align="center" height="30" width="40" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+      <img align="center" height="30" width="30" alt="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+      <img align="center" height="30" width="40" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+      <img align="center" height="30" width="40" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
     <img align="center" height="30" width="30" alt="mysql" src="https://github.com/gregoriodelucca/nodejs-readline/assets/43537647/123dd724-96f6-4e9d-a04a-10d2b0c68ddf">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png">
 
