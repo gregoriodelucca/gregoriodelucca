@@ -1,8 +1,8 @@
 <div align="left">
 
   <h1 align="center"> Welcome 👋 </h1>
-    <p> DEVELOPER WEB!  
-    </br> I am Developer Web  I have knowledge in javascript, vuejs, bootstrap ".
+    <p> DEVELOPER BACK END!  
+    </br> I am Developer I have knowledge in Python, Mysql and BootStrap ".
     </br>
     </p>
 
@@ -14,9 +14,9 @@ src="https://github.com/gregoriodelucca/pokedex-Dio/assets/43537647/70a327b0-62b
 
 <div  align="center"> 
     <h1 align="center">Skilss</h1>
-    <img align="center" height="30" width="30" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-      <img align="center" height="30" width="30" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-    <img align="center" height="30" width="40" alt="bootstrap-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+    <img align="center" height="40" width="40" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+    <img align="center" height="40" width="40" alt="mysq" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" >
+    <img align="center" height="40" width="40" alt="bootstrap-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
 
    </div>
     
