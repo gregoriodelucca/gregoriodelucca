@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
 
   <h1 align="center"> Welcome 👋 </h1>
     <p> DEVELOPER FRONT END!  
