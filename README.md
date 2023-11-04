@@ -8,7 +8,7 @@
 
 </div>
 <div style="display: inline_block">
-<img align="left" height="150" alt="github" 
+<img align="left" height="100" alt="github" 
 src="https://github.com/gregoriodelucca/pokedex-Dio/assets/43537647/70a327b0-62b9-476b-b55a-83783ceb8b9e">
 </div>
 
