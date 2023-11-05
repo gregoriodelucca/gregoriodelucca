@@ -1,8 +1,8 @@
 <div align="center">
 
   <h1 align="center"> Welcome 👋 </h1>
-    <p> DEVELOPER FRONT END!  
-    </br> I am Developer Front end/ux Designer, html5. css3 and javascript".
+    <p> DEVELOPER SOFTWARE!  
+    </br> I am Developer software, c# , .net e mysql ".
     </br>
     </p>
 
@@ -14,11 +14,9 @@ src="https://github.com/gregoriodelucca/pokedex-Dio/assets/43537647/70a327b0-62b
 
 <div  align="center"> 
     <h1 align="center">Skilss</h1>
-    <img align="center" height="30" width="30" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="30" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  >
-    <img align="center" height="30" width="30" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img align="center" height="30" width="30" alt="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-
+    <img align="center" height="40" width="40" alt="c#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+    <img align="center" height="40" width="40" alt="net" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" >
+    <img align="center" height="40" width="40" alt="javascript" src="https://github.com/gregoriodelucca/Dio-cursodejogos/assets/43537647/82e68666-cd68-48db-8eaf-6ec9cc9e85e9">
 
    </div>
     
