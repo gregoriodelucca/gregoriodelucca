@@ -9,6 +9,8 @@
 <br/>
 <h1> 🧐 Sobre mim: </h1> 
 <br/>
+<br/>
+
 
 - 🔭  Atualmente estou trabalhando com  desenvolvimento front end
 - :books:      Atualmente estou aprendendo React e Nodejs; 
