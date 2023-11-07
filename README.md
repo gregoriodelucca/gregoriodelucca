@@ -1,5 +1,6 @@
 ## Olá 👋, sou Gregório De Lucca
 <h1 style="font-size=14px">Rede social</h1>
+<p>Eu sou desenvolvedor web e mobile!</p>
 <a href='https://www.linkedin.com/in/gregoriodelucca/'>gregorio de lucca <img align='left' alt="linkedin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png" height='25px'/></a>
 <br/>
 
@@ -12,7 +13,7 @@
 - :books:      Atualmente estou aprendendo React e Nodejs; 
 - :octocat:    A maioria dos meus projetos estão disponíveis no [Github](https://github.com/gregoriodelucca98?tab=repositories);
 - 💬  Pergunte-me sobre qualquer coisa relacionada à tecnologia, ficarei feliz em ajudar;
-- 📫  Feel free to ping me on [LinkedIn](www.linkedin.com/in/gregoriodelucca);
+- 📫  veja meu likedin  [LinkedIn](www.linkedin.com/in/gregoriodelucca);
 -  :pencil: meu curriculo [resume](https://docs.google.com/document/d/1lfvQw9E7yfWkeUBrNFOPwpGJ02UdUMhuK6Pn-6_YobY/edit?usp=sharing);
 <br>
 ### 🔨 Languages and Tools:
