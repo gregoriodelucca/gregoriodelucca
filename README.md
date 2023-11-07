@@ -9,7 +9,7 @@
 ### 🧐 Sobre mim:
 
 - 🔭  Atualmente estou trabalhando com  desenvolvimento front end
-- :books:      Atualmente estou aprendendo Typescript e Reactjs; 
+- :books:      Atualmente estou aprendendo React e Nodejs; 
 - :octocat:    A maioria dos meus projetos estão disponíveis no [Github](https://github.com/gregoriodelucca98?tab=repositories);
 - 💬  Pergunte-me sobre qualquer coisa relacionada à tecnologia, ficarei feliz em ajudar;
 - 📫  Feel free to ping me on [LinkedIn](www.linkedin.com/in/gregoriodelucca);
@@ -19,9 +19,8 @@
 <br/>
 <br/>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"></a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="35px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="35px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></a>
 
 
