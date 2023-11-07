@@ -27,7 +27,7 @@ Eu sou Desenvolvedor  fullstack, e  trabalho com web  e mobile!
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" align="left" alt="git" height='35px'/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img  src="https://brandslogos.com/wp-content/uploads/thumbs/microsoft-sql-server-logo-vector.svg" align="left" alt="git" height='42px'/> </a>
 
 
 <br>
