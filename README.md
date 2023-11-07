@@ -8,10 +8,8 @@
 <br/>
 <br/>
 
-### 🧐 Sobre mim:
-<br/>
-<br/>
 
+### 🧐 Sobre mim:
 - 🔭  Atualmente estou trabalhando com  desenvolvimento front end
 - :books:      Atualmente estou aprendendo React e Nodejs; 
 - :octocat:    A maioria dos meus projetos estão disponíveis no [Github](https://github.com/gregoriodelucca98?tab=repositories);
