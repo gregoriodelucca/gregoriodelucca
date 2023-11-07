@@ -1,7 +1,5 @@
 ## Olá 👋, sou Gregório De Lucca
-<h1 style="font-size=14px">Rede social</h1>
 <p>Eu sou desenvolvedor web e mobile!</p>
-<a href='https://www.linkedin.com/in/gregoriodelucca/'>gregorio de lucca <img align='left' alt="linkedin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png" height='25px'/></a>
 <br/>
 <img align="right" alt="GIF" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="220px"/>
 
@@ -14,7 +12,7 @@
 - :books:      Atualmente estou aprendendo React e Nodejs; 
 - :octocat:    A maioria dos meus projetos estão disponíveis no [Github](https://github.com/gregoriodelucca98?tab=repositories);
 - 💬  Pergunte-me sobre qualquer coisa relacionada à tecnologia, ficarei feliz em ajudar;
-- 📫  veja meu likedin  [LinkedIn](www.linkedin.com/in/gregoriodelucca);
+- 📫  veja meu >  [LinkedIn](www.linkedin.com/in/gregoriodelucca);
 -  :pencil: meu curriculo [resume](https://docs.google.com/document/d/1lfvQw9E7yfWkeUBrNFOPwpGJ02UdUMhuK6Pn-6_YobY/edit?usp=sharing);
 <br>
 ### 🔨 Languages and Tools:
