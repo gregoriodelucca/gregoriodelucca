@@ -7,7 +7,7 @@
 
 <br/>
 <br/>
-<h1> 🧐 Sobre mim: </h1> 
+<h1 align="center"> 🧐 Sobre mim: </h1> 
 <br/>
 <br/>
 
