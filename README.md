@@ -11,10 +11,10 @@
 
 
 - 🔭  Atualmente estou trabalhando com  desenvolvimento front end
-- :books:      Atualmente estou aprendendo React e Nodejs; 
-- :octocat:    A maioria dos meus projetos estão disponíveis no [Github](https://github.com/gregoriodelucca98?tab=repositories);
+- :books:      Atualmente estou trabalhando com  React e Nodejs; 
+- :octocat:    A maioria dos meus projetos estão disponíveis no [Github](https://github.com/gregoriodelucca?tab=repositories);
 - 💬  Pergunte-me sobre qualquer coisa relacionada à tecnologia, ficarei feliz em ajudar;
-- 📫  veja meu >  [LinkedIn](www.linkedin.com/in/gregoriodelucca);
+- 📫  veja meu >  [LinkedIn](https://www.linkedin.com/in/gregoriodelucca/);
 -  :pencil: meu curriculo [resume](https://docs.google.com/document/d/1lfvQw9E7yfWkeUBrNFOPwpGJ02UdUMhuK6Pn-6_YobY/edit?usp=sharing);
 <br>
 ### 🔨 Languages and Tools:
