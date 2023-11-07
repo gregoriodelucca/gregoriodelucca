@@ -10,7 +10,7 @@ Eu sou Desenvolvedor de software, e  trabalho com web  e mobile!
 ### 🧐 Sobre mim:
 
 - 🔭 &nbsp; Atualmente estou trabalhando com  desenvolvimento front end
-- 🌱 &nbsp; Atualmente estou aprendendo c# e .net; 
+- 🌱 &nbsp; Atualmente estou aprendendo c# e Typescript; 
 - 👨🏻‍💻 &nbsp; A maioria dos meus projetos estão disponíveis no [Github](https://github.com/gregoriodelucca98?tab=repositories)
 - 💬 &nbsp; Pergunte-me sobre qualquer coisa relacionada à tecnologia, ficarei feliz em ajudar;;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](www.linkedin.com/in/gregoriodelucca)
