@@ -7,9 +7,6 @@
 
 <br/>
 <br/>
-
-
-
 ### 🧐 Sobre mim:
 - 🔭  Atualmente estou trabalhando com  desenvolvimento front end
 - :books:      Atualmente estou aprendendo React e Nodejs; 
@@ -18,19 +15,14 @@
 - 📫  veja meu >  [LinkedIn](www.linkedin.com/in/gregoriodelucca);
 -  :pencil: meu curriculo [resume](https://docs.google.com/document/d/1lfvQw9E7yfWkeUBrNFOPwpGJ02UdUMhuK6Pn-6_YobY/edit?usp=sharing);
 <br>
-
 ### 🔨 Languages and Tools:
-<br/>
 <br/>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"></a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="35px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></a>
 
-
-
 <br>
-
 
 ### 📊 Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gregoriodelucca&icons=true&theme=radical)](https://github.com/gregoriodelucca/github-readme-stats)
