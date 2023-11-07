@@ -1,9 +1,8 @@
 ## Olá 👋, sou Gregório De Lucca
+<h1 style="font-size=14px">Rede social</h1>
 <a href='https://www.linkedin.com/in/gregoriodelucca/'>gregorio de lucca <img align='left' alt="linkedin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png" height='25px'/></a>
 <br/>
 
-Eu sou Desenvolvedor de software, e  trabalho com web  e mobile!
-<br/>
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" width="260px"/>
   
