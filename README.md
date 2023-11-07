@@ -7,7 +7,7 @@
 
 <br/>
 <br/>
-### 🧐 Sobre mim:
+<h1> 🧐 Sobre mim: </h1> 
 <br/>
 
 - 🔭  Atualmente estou trabalhando com  desenvolvimento front end
