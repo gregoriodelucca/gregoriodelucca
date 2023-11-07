@@ -9,12 +9,12 @@ Eu sou Desenvolvedor de software, e  trabalho com web  e mobile!
   
 ### 🧐 Sobre mim:
 
-- 🔭 &nbsp; Atualmente estou trabalhando com  desenvolvimento front end
-- 🌱 &nbsp; Atualmente estou aprendendo c# e Typescript; 
-- 👨🏻‍💻 &nbsp; A maioria dos meus projetos estão disponíveis no [Github](https://github.com/gregoriodelucca98?tab=repositories)
-- 💬 &nbsp; Pergunte-me sobre qualquer coisa relacionada à tecnologia, ficarei feliz em ajudar;;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](www.linkedin.com/in/gregoriodelucca)
-- 📝 &nbsp; meu curriculo [resume](https://docs.google.com/document/d/1lfvQw9E7yfWkeUBrNFOPwpGJ02UdUMhuK6Pn-6_YobY/edit?usp=sharing)
+- 🔭  Atualmente estou trabalhando com  desenvolvimento front end
+- :books:      Atualmente estou aprendendo c# e Typescript; 
+- :octocat:    A maioria dos meus projetos estão disponíveis no [Github](https://github.com/gregoriodelucca98?tab=repositories);
+- 💬  Pergunte-me sobre qualquer coisa relacionada à tecnologia, ficarei feliz em ajudar;
+- 📫  Feel free to ping me on [LinkedIn](www.linkedin.com/in/gregoriodelucca);
+-  :pencil: meu curriculo [resume](https://docs.google.com/document/d/1lfvQw9E7yfWkeUBrNFOPwpGJ02UdUMhuK6Pn-6_YobY/edit?usp=sharing);
 <br>
 ### 🔨 Languages and Tools:
 <br/>
@@ -31,10 +31,5 @@ Eu sou Desenvolvedor de software, e  trabalho com web  e mobile!
 
 
 ### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/gregoriodelucca/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
-
-</a>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gregoriodelucca&icons=true&theme=radical)](https://github.com/gregoriodelucca/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gregoriodelucca&show_icons=true&theme=radical)
