@@ -18,12 +18,12 @@
 ### 🔨 Languages and Tools:
 <br/>
 <br/>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"></a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="35px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" align="left" alt="git" height='35px'/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" align="left" alt="git" height='35px'/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" align="left" alt="git" height='35px'/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></a>
+
 
 
 <br>
