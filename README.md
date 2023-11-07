@@ -8,8 +8,6 @@
 <h3 align="left"> 🧐 Sobre mim: </h3> 
 <br/>
 <br/>
-
-
 - 🔭  Atualmente estou trabalhando com  desenvolvimento front end
 - :books:      Atualmente estou trabalhando com  React e Nodejs; 
 - :octocat:    A maioria dos meus projetos estão disponíveis no [Github](https://github.com/gregoriodelucca?tab=repositories);
