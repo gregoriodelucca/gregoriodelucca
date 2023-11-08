@@ -8,7 +8,7 @@
 <br/>
 <br/>
 
-- 🔭  Atualmente estou trabalhando com  React e Nodejs;
+- 🔭  Atualmente estou trabalhando com Nodejs e sql;
 - :books:      Atualmente estou estudando segurança da informação; 
 - :octocat:    A maioria dos meus projetos estão disponíveis no [Github](https://github.com/gregoriodelucca?tab=repositories);
 - 💬  Pergunte-me sobre qualquer coisa relacionada à tecnologia, ficarei feliz em ajudar;
