@@ -9,7 +9,7 @@
 <br/>
 
 - 🔭  Atualmente estou trabalhando com front end ;
-- :books:      Atualmente estou estudando  reactjs e nodejs; 
+- :books:      Atualmente estou estudando  angular e sass; 
 - :octocat:    A maioria dos meus projetos estão disponíveis no [Github](https://github.com/gregoriodelucca?tab=repositories);
 - 💬  Pergunte-me sobre qualquer coisa relacionada à tecnologia, ficarei feliz em ajudar;
 - 📫  veja meu >  [LinkedIn](https://www.linkedin.com/in/gregoriodelucca/);
@@ -18,7 +18,11 @@
 ### 🔨 Languages and Tools:
 <br/>
 <br/>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="35px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"></a>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"></a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="35px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></a>
