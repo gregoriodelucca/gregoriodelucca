@@ -8,8 +8,8 @@
 <br/>
 <br/>
 
-- 🔭  Atualmente estou trabalhando com stack mern "reactjs, nodejs e mongodb;
-- :books:      Atualmente estou estudando web e mobile; 
+- 🔭  Atualmente estou trabalhando com front end ;
+- :books:      Atualmente estou estudando  reactjs e nodejs; 
 - :octocat:    A maioria dos meus projetos estão disponíveis no [Github](https://github.com/gregoriodelucca?tab=repositories);
 - 💬  Pergunte-me sobre qualquer coisa relacionada à tecnologia, ficarei feliz em ajudar;
 - 📫  veja meu >  [LinkedIn](https://www.linkedin.com/in/gregoriodelucca/);
