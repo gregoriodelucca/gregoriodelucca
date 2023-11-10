@@ -12,7 +12,7 @@
 - 🔭    Trabalhando com front end ;
 - :books:  Estudando  angular e sass; 
 - :octocat: Meus projetos estão disponíveis no [Github](https://github.com/gregoriodelucca?tab=repositories);
-- 💬  Pergunte-me sobre qualquer coisa sobre relacionad à desenvolvimento front end, ficarei feliz em ajudar;
+- 💬  Pergunte-me sobre qualquer coisa sobre relacionado à desenvolvimento front end, ficarei feliz em ajudar;
 - 📫  veja meu >  [LinkedIn](https://www.linkedin.com/in/gregoriodelucca/);
 -  :pencil: meu curriculo [resume](https://docs.google.com/document/d/1lfvQw9E7yfWkeUBrNFOPwpGJ02UdUMhuK6Pn-6_YobY/edit?usp=sharing);
 <br>
