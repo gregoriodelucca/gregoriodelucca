@@ -9,10 +9,10 @@
 <br/>
 <br/>
 
-- 🔭  Atualmente estou trabalhando com front end ;
-- :books:      Atualmente estou estudando  angular e sass; 
+- 🔭   estou trabalhando com front end ;
+- :books:  E estudando  angular e sass; 
 - :octocat:    A maioria dos meus projetos estão disponíveis no [Github](https://github.com/gregoriodelucca?tab=repositories);
-- 💬  Pergunte-me sobre qualquer coisa relacionada à tecnologia, ficarei feliz em ajudar;
+- 💬  Pergunte-me sobre qualquer coisa sobre relacionad à desenvolvimento front end, ficarei feliz em ajudar;
 - 📫  veja meu >  [LinkedIn](https://www.linkedin.com/in/gregoriodelucca/);
 -  :pencil: meu curriculo [resume](https://docs.google.com/document/d/1lfvQw9E7yfWkeUBrNFOPwpGJ02UdUMhuK6Pn-6_YobY/edit?usp=sharing);
 <br>
