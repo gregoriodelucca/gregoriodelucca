@@ -22,6 +22,7 @@
   <a align="center href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
   <a align="center href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="35px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
   <a  align="center href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
+  <a align="center href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></a>
   <a align="center href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"></a>
   <a align="center href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"></a>
   <br/>
