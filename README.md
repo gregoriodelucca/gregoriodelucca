@@ -8,7 +8,7 @@
 
 -  Estudando  Python e linux; 
 -  Meus projetos estão disponíveis no [Github](https://github.com/gregoriodelucca?tab=repositories);
--  Pergunte-me sobre qualquer coisa sobre relacionado à devops, ficarei feliz em ajudar;
+-  Pergunte-me sobre qualquer coisa sobre relacionado à segurança  da informação, ficarei feliz em ajudar;
 -  veja meu >  [LinkedIn](https://www.linkedin.com/in/gregoriodelucca/);
 -   meu curriculo [resume](https://docs.google.com/document/d/1lfvQw9E7yfWkeUBrNFOPwpGJ02UdUMhuK6Pn-6_YobY/edit?usp=sharing);
 <br>
