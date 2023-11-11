@@ -1,32 +1,29 @@
-<h1> Olá , sou Gregório De Lucca 👋</h1> 
-<p>Eu sou desenvolvedor front end!</p>
+<h1> Olá , sou Gregório De Lucca </h1> 
+<p>Eu sou  devops!</p>
 <br/>
-<img align="center" alt="GIF" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="150px"/>
+
 <br/>
 <br/>
 <div>
-<h3 align="left"> 🧐 Sobre mim: </h3> 
+<h3 align="left">  Sobre mim: </h3> 
 <br/>
 <br/>
 
-- 🔭    Trabalhando com front end ;
-- :books:  Estudando  angular e sass; 
-- :octocat: Meus projetos estão disponíveis no [Github](https://github.com/gregoriodelucca?tab=repositories);
-- 💬  Pergunte-me sobre qualquer coisa sobre relacionado à desenvolvimento front end, ficarei feliz em ajudar;
-- 📫  veja meu >  [LinkedIn](https://www.linkedin.com/in/gregoriodelucca/);
--  :pencil: meu curriculo [resume](https://docs.google.com/document/d/1lfvQw9E7yfWkeUBrNFOPwpGJ02UdUMhuK6Pn-6_YobY/edit?usp=sharing);
+-  Trabalhando com devops;
+-  Estudando  Python e linux; 
+-  Meus projetos estão disponíveis no [Github](https://github.com/gregoriodelucca?tab=repositories);
+-  Pergunte-me sobre qualquer coisa sobre relacionado à devops, ficarei feliz em ajudar;
+-  veja meu >  [LinkedIn](https://www.linkedin.com/in/gregoriodelucca/);
+-   meu curriculo [resume](https://docs.google.com/document/d/1lfvQw9E7yfWkeUBrNFOPwpGJ02UdUMhuK6Pn-6_YobY/edit?usp=sharing);
 <br>
 </div>
 <div style="display: inline_block">
   <h1>🔨 Tecnologias eu uso:</h1>
-  <a align="center href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
-  <a align="center href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="40px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
-  <a align="center href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"></a
+  <a align="center href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" ></a>
+  <a align="center href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="40px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>
+  <a align="center href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg""></a
   <a  align="center href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
-  <a align="center href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></a>
-  <a align="center href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"></a>
-  <a align="center href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="40px"  margin="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>
-  <a align="center href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="40px" margin="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"></a>
+
 
 
 
