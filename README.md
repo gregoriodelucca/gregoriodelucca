@@ -1,5 +1,5 @@
 <h1> Olá , sou Gregório De Lucca </h1> 
-<p>Eu sou  devops!</p>
+<p>Eu estou me especializando em segurança  da informação!</p>
 <br/>
 
 <br/>
