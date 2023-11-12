@@ -1,24 +1,24 @@
 <h1> Olá , sou Gregório De Lucca </h1> 
-<p>Eu sou devops, e  me especializando em segurança  da informação!</p>
+<p>Eu sou  desenvolvedor fullstack, estou me espcializando em web e mobile!</p>
 <br/>
 <div>
 <h3 align="left">  Sobre mim: </h3> 
--  Trabalhando com devops;
+-  Trabalhando com desenvolvimento front end;
   <br/>
 
--  Estudando  Python e linux; 
+-  Estudando  react e nodejs; 
 -  Meus projetos estão disponíveis no [Github](https://github.com/gregoriodelucca?tab=repositories);
--  Pergunte-me sobre qualquer coisa sobre relacionado à segurança  da informação, ficarei feliz em ajudar;
+-  Pergunte-me sobre qualquer coisa sobre relacionado à desenvolvimento web e mobile, ficarei feliz em ajudar;
 -  veja meu >  [LinkedIn](https://www.linkedin.com/in/gregoriodelucca/);
 -   meu curriculo [resume](https://docs.google.com/document/d/1lfvQw9E7yfWkeUBrNFOPwpGJ02UdUMhuK6Pn-6_YobY/edit?usp=sharing);
 <br>
 </div>
 <div style="display: inline_block">
   <h1>🔨 Tecnologias eu uso:</h1> 
-  <a align="center href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="40px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" ></a>
-  <a align="center href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="40px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>
-  <a align="center href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="40px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"></a>
-  <a align="center href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="40px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg""></a
+  <a align="center href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="40px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" ></a>
+  <a align="center href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="40px"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"></a>
+  <a align="center href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="40px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>
+  <a align="center href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="40px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"></a
   <br/>
 </div>
  <br/>
