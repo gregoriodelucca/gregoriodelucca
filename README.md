@@ -5,6 +5,7 @@
 <h3 align="left">  Sobre mim: </h3> 
 -  Trabalhando com desenvolvimento front end;
   <br/>
+  
 -  Estudando  angular e nodejs; 
 -  Meus projetos estão disponíveis no [Github](https://github.com/gregoriodelucca?tab=repositories);
 -  Pergunte-me sobre qualquer coisa sobre relacionado à desenvolvimento web , ficarei feliz em ajudar;
