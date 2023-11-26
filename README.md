@@ -5,7 +5,7 @@
 -  Trabalhando com devops;
   <br/>
   
--  Estudando  Python e Sql; 
+-  Estudando  Django e Angular; 
 -  Meus projetos estão disponíveis no [Github](https://github.com/gregoriodelucca?tab=repositories);
 -  Pergunte-me sobre qualquer coisa sobre relacionado à segurança da informação , ficarei feliz em ajudar;
 -  veja meu >  [LinkedIn](https://www.linkedin.com/in/gregoriodelucca/);
