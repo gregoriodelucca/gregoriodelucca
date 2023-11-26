@@ -17,7 +17,8 @@
   <a align="center href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  ></a>
   <a align="center href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="40px"    src="https://5.imimg.com/data5/SELLER/Default/2021/8/NP/YN/DN/3775979/aws-logo.png"></a>
  <a align="center href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="40px"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>
-  <a align="center href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="40px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"></a
+ <a align="center href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="40px"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
+ <a align="center href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="40px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"></a
   <br/>
 </div>
  <br/>
