@@ -2,7 +2,7 @@
 <p> Sou um desenvolvedor front-end web  e possuo conhecimentos em HTML5, CSS3, JavaScript, Bootstrap, UX Design e AWS. <br> Atualmente, estou focado em Angular e ReactJS</p>
 <div>
 <h3 align="left">  Sobre mim: </h3> 
--  Trabalhando com devops;
+-  Trabalhando com front end;
   <br/>
   
 -  Estudando  Angular; 
@@ -17,7 +17,6 @@
   <a align="center href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  ></a>
   <a align="center href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></a>
   <a align="center href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"></a>
-  <a align="center href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a>
  <a align="center href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="40px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></a
  <a align="center href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="40px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"></a
   <br/>
