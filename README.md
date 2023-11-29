@@ -1,11 +1,11 @@
 <h1> Olá , sou Gregório De Lucca </h1> 
-<p> Sou um desenvolvedor front-end web  e possuo conhecimentos em HTML5, CSS3, JavaScript, Bootstrap, UX Design e AWS. <br> Atualmente, estou focado em Angular e ReactJS</p>
+<p> EU sou especialista em Nodejs!</p>
 <div>
 <h3 align="left">  Sobre mim: </h3> 
--  Trabalhando com front end;
+-  Trabalhando com Nodejs ;
   <br/>
   
--  Estudando  Angular; 
+-  Estudando  Nodejs; 
 -  Meus projetos estão disponíveis no [Github](https://github.com/gregoriodelucca?tab=repositories);
 -  Pergunte-me sobre qualquer coisa sobre relacionado à web , ficarei feliz em ajudar;
 -  veja meu >  [LinkedIn](https://www.linkedin.com/in/gregoriodelucca/);
