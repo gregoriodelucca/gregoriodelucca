@@ -1,5 +1,5 @@
 <h1> Olá , sou Gregório De Lucca </h1> 
-<p> EU sou especialista em front end!</p>
+<p> Eu sou desenvolvedor front end e estou me especializando em front end!</p>
 <div>
 <h3 align="left">  Sobre mim: </h3> 
 -  Trabalhando com front end ;
