@@ -5,7 +5,7 @@
 -  Trabalhando com front end ;
   <br/>
   
--  Estudando  angular e node ; 
+-  Estudando  angular e bootstrap ; 
 -  Meus projetos estão disponíveis no [Github](https://github.com/gregoriodelucca?tab=repositories);
 -  Pergunte-me sobre qualquer coisa sobre relacionado à web , ficarei feliz em ajudar;
 -  veja meu >  [LinkedIn](https://www.linkedin.com/in/gregoriodelucca/);
@@ -14,10 +14,10 @@
 </div>
 <div style="display: inline_block">
   <h1>🔨 Tecnologias eu uso:</h1> 
+   <a align="center href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
+  <a align="center href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></a>
   <a align="center href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"></a>
-  <a align="center href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="40px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>
- <a align="center href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="40px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></a
- <a align="center href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="40px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"></a
+ <a align="center href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></a
   <br/>
 </div>
  <br/>
