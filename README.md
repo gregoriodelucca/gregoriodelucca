@@ -5,7 +5,7 @@
 -  Trabalhando com desenvolvimento web  ;
   <br/>
   
--  Estudando  php, sql  e bootstrap ; 
+-  Estudando  python, sql  e bootstrap ; 
 -  Meus projetos estão disponíveis no [Github](https://github.com/gregoriodelucca?tab=repositories);
 -  Pergunte-me sobre qualquer coisa sobre relacionado à web , ficarei feliz em ajudar;
 -  veja meu >  [LinkedIn](https://www.linkedin.com/in/gregoriodelucca/);
