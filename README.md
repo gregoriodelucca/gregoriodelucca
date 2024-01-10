@@ -1,11 +1,11 @@
 <h1> Olá , sou Gregório De Lucca </h1> 
-<p> Eu sou  devops, e estou migrando para segurança da informação</p>
+<p> Eu sou  fullstack web, e estou migrando para segurança da informação</p>
 <div>
 <h3 align="left">  Sobre mim: </h3> 
--  Trabalhando com desenvolvimento web  ;
+-  Trabalhando com desenvolvimento web;
   <br/>
   
--  Estudando  python, sql  e bootstrap ; 
+-  Estudando  desenvolvimento segurança web; 
 -  Meus projetos estão disponíveis no [Github](https://github.com/gregoriodelucca?tab=repositories);
 -  Pergunte-me sobre qualquer coisa sobre relacionado à web , ficarei feliz em ajudar;
 -  veja meu >  [LinkedIn](https://www.linkedin.com/in/gregoriodelucca/);
