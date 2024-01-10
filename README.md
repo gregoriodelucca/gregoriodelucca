@@ -14,10 +14,10 @@
 </div>
 <div style="display: inline_block">
   <h1>🔨 Tecnologias eu uso:</h1> 
-  <a align="center href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-plain.svg"></a>
+  <a align="center href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
   <a align="center href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>
-  <a align="center href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="40px" src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql.png"></a>
- <a align="center href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></a
+  <a align="center href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></a>
+ <a align="center href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="40px"  src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-274bm1xi.png"></a
   <br/>
 </div>
  <br/>
