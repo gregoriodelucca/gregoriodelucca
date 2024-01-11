@@ -1,5 +1,5 @@
 <h1> Olá , sou Gregório De Lucca </h1> 
-<p> Eu sou  fullstack web, e estou migrando para segurança da informação</p>
+<p> Eu estou me especializando em segurança da informação!</p>
 <div>
 <h3 align="left">  Sobre mim: </h3> 
 -  Trabalhando com desenvolvimento web;
