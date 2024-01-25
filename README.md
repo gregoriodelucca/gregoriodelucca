@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div text-algin="center">
     <h1>bem vindo! eu sou Gregório de lucca!</h1>
     <h2>Sou desenvolvedor web | mobile </h2>
     <p>eu tenho conhecimentos na tecnologias em react, nodejs, sql e bootstrap!</p>
