@@ -6,7 +6,9 @@
 
 <br>
 
-
+<div align="right">
+     <img height="140em"   alt="eu"  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZiZzVhajl2ZmFpaGQxMzEybmZzdTNod3ZkZ2FjZjgya203dG85bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/200.webp">
+</div>
 
 <div align="center" >
   <a href="https://github.com/gregoriodelucca">
@@ -14,7 +16,6 @@
         <img height="150em" align="left"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregoriodelucca&theme=dracula&hide_border=false&&layout=compact"/>
 
   </a>
- <img height="140em"   alt="eu"  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZiZzVhajl2ZmFpaGQxMzEybmZzdTNod3ZkZ2FjZjgya203dG85bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/200.webp">
 
 </div>
 
