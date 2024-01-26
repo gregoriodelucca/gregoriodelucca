@@ -15,7 +15,8 @@
   </br>
   
 <div align="center">
-    <h1> 📊 Github Stats</h1>
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gregoriodelucca&hide_progress=true)
-   
+  <a href="https://github.com/duribeiro">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gregoriodelucca&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregoriodelucca&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
 </div>
