@@ -1,7 +1,7 @@
 <div align="center">
     <h1>bem vindo! eu sou Gregório de lucca!</h1>
-    <h2>Sou desenvolvedor web | mobile </h2>
-    <p>eu tenho conhecimentos na tecnologias em react, nodejs, sql e bootstrap!</p>
+    <h2>Sou desenvolvedor web  </h2>
+    <p>eu tenho conhecimentos na tecnologias em php, mysql, javascript e bootstrap!</p>
 </div>
 
 <br>
