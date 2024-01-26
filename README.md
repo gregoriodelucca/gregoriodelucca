@@ -22,7 +22,7 @@
 
 <div style="display: inline-block" align="center">
     <br>
-    <h1  align="center">Tecnologias!</h1>
+    <h1  align="left">Tecnologias!</h1>
     <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
     <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -37,7 +37,7 @@
 
 
 <div align="center">
-    <h1>Redes Sociais</h1>
+    <h1 align="left">Redes Sociais</h1>
   <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/whatsapp-2ecc71?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gregoriodelucca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:gregoriodelucca@gmail.com"><img src="https://img.shields.io/badge/-gmail-%23333?style=for-the-badge&logo=gmail&logoColor=e74c3c" target="_blank"></a>
