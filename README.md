@@ -7,8 +7,8 @@
 <br>
 
 <div align="center" >
-        <img  height="130em" align="left"  src="https://github-readme-stats.vercel.app/api?username=gregoriodelucca&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-        <img height="130em" align="left"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregoriodelucca&theme=dracula&hide_border=false&&layout=compact"/>
+        <img  height="150em"   src="https://github-readme-stats.vercel.app/api?username=gregoriodelucca&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+        <img height="150em"    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregoriodelucca&theme=dracula&hide_border=false&&layout=compact"/>
 
   </a>
 
@@ -17,9 +17,8 @@
 
 
 
-<div style="display: inline-block" align="center">
-    <br>
-    <h1  align="left">Tecnologias!</h1>
+<div  align="center">
+    <h1>Tecnologias!</h1>
     <img align="center" alt="ts" src="https://img.shields.io/badge/bootstrap-8e44ad?style=for-the-badge&logo=bootstrap&logoColor=white" />
     <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img align="center" alt="linux" src="https://img.shields.io/badge/React-2c3e50?style=for-the-badge&logo=React&logoColor=white" />
