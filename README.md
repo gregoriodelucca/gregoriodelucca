@@ -33,7 +33,7 @@
 
 
 <div align="center">
-    <h1 align="left">Redes Sociais</h1>
+    <h1>Redes Sociais</h1>
   <a href="https://wa.me/5511971108463?text=Ol%C3%A1+%21+bem+vindo%2C+o+que+deseja+%3F" target="_blank"><img src="https://img.shields.io/badge/whatsapp-2ecc71?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gregoriodelucca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:gregoriodelucca@gmail.com"><img src="https://img.shields.io/badge/-gmail-%23333?style=for-the-badge&logo=gmail&logoColor=e74c3c" target="_blank"></a>
