@@ -1,7 +1,8 @@
 <div align="center">
     <h1>Bem vindo! Eu sou Gregório de lucca!</h1>
     <h2>  Desenvolvedor front end!  </h2>
-    <p>Estou iniciando minha carreira no desenvolvimento front-end, com foco atual em React. Além disso, estou estudando na faculdade o curso de tecnólogo em Desenvolvimento de Análise de Sistemas.<br> Já possuo conhecimentos em HTML5, CSS3 e JavaScript. No momento, estou concentrado em aprofundar minha compreensão do React, uma biblioteca JavaScript amplamente utilizada para criar interfaces de usuário dinâmicas e reativas!</p>
+    <p>Sou um desenvolvedor front-end com experiência sólida em HTML5, CSS3 e JavaScript. No momento, <br> meu foco principal está no aprimoramento das minhas habilidades em ReactJS.
+</p>
 </div>
 
 <br>
