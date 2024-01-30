@@ -1,7 +1,7 @@
 <div align="center">
     <h1>Bem vindo! Eu sou Gregório de lucca!</h1>
-    <h2>  Desenvolvedor front end!  </h2>
-    <p>Sou um desenvolvedor front-end com experiência sólida em HTML5, CSS3 e JavaScript. No momento, <br> meu foco principal está no aprimoramento das minhas habilidades em ReactJS.
+    <h2>  Desenvolvedor Web!  </h2>
+    <p>Sou um desenvolvedor web tenho conhecimento em php, mysql, javascript e bootstrap. No momento, <br> meu foco principal está no aprimoramento das minhas habilidades em vuejs e laravel.
 </p>
 </div>
 
