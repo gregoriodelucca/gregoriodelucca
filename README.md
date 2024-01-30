@@ -20,9 +20,10 @@
 
 <div  align="center">
     <h1>Tecnologias!</h1>
-    <img align="center" alt="ts" src="https://img.shields.io/badge/bootstrap-8e44ad?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    <img align="center" alt="js" src="https://img.shields.io/badge/Php-3498db?style=for-the-badge&logo=PHP&logoColor=black" />
     <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img align="center" alt="linux" src="https://img.shields.io/badge/React-2c3e50?style=for-the-badge&logo=React&logoColor=white" />
+    <img align="center" alt="linux" src="https://img.shields.io/badge/MySql-2c3e50?style=for-the-badge&logo=Mysql&logoColor=white" />
+    <img align="center" alt="ts" src="https://img.shields.io/badge/bootstrap-8e44ad?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
 
 
