@@ -1,7 +1,7 @@
 <div align="center">
     <h1>Bem vindo! Eu sou Gregório de lucca!</h1>
     <h2>  Desenvolvedor Web!  </h2>
-    <p>I am a front-end developer with comprehensive skills in HTML5, CSS3, JavaScript, Bootstrap, and SQL. Currently, <br> I focus on the MERN stack, with solid experience in React, Node.js, and MongoDB.  Concurrently, I am pursuing a degree in Technology in Systems Analysis and Development. .
+    <p>I am a fullstack developer with comprehensive skills in HTML5, CSS3, JavaScript, Bootstrap, and SQL. Currently, <br> I focus on the MERN stack, with solid experience in React, Node.js, and MongoDB.  Concurrently, I am pursuing a degree in Technology in Systems Analysis and Development. .
 </p>
 </div>
 
