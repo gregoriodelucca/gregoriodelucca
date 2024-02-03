@@ -20,11 +20,10 @@
 
 <div  align="center">
     <h1>tools!</h1>
-    <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img align="center" alt="js" src="https://img.shields.io/badge/React-34495e?style=for-the-badge&logo=React&logoColor=white" />
+    <img align="center" alt="ts" src="https://img.shields.io/badge/Linux-535c68?style=for-the-badge&logo=Linux&logoColor=white" />
     <img align="center" alt="js" src="https://img.shields.io/badge/Node-27ae60?style=for-the-badge&logo=Nodejs&logoColor=white" />
-    <img align="center" alt="ts" src="https://img.shields.io/badge/bootstrap-8e44ad?style=for-the-badge&logo=bootstrap&logoColor=white" />
-    <img align="center" alt="linux" src="https://img.shields.io/badge/MongoDB-00b894?style=for-the-badge&logo=Mongodb&logoColor=white" />
+    <img align="center" alt="linux" src="https://img.shields.io/badge/Mysql-535c6?style=for-the-badge&logo=Mysql&logoColor=white" />
+    <img align="center" alt="js" src="https://img.shields.io/badge/Docker-48dbfb?style=for-the-badge&logo=Docker&logoColor=white" />
 
 
 
