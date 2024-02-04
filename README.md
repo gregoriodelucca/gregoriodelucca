@@ -15,25 +15,6 @@
 
 </div>
 
-
-
-
-<div  align="center">
-    <h1>tools!</h1>
-    <img align="center" alt="js" src="https://img.shields.io/badge/Linux-3d3d3d?style=for-the-badge&logo=Linux&logoColor=white" />
-    <img align="center" alt="ts" src="https://img.shields.io/badge/Python-18dcff?style=for-the-badge&logo=Python&logoColor=white" />
-    <img align="center" alt="linux" src="https://img.shields.io/badge/Mysql-778ca3?style=for-the-badge&logo=Mysql&logoColor=white" />
-    <img align="center" alt="js" src="https://img.shields.io/badge/Aws-ffaf40?style=for-the-badge&logo=Aws&logoColor=white" />
-    <img align="center" alt="linux" src="https://img.shields.io/badge/Docker-4b7bec?style=for-the-badge&logo=Docker&logoColor=white" />
-
-
-
-
-  </div>
-  </br>
-  
-
-
 <div align="center">
     <h1>networks
 </h1>
