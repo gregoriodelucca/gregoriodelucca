@@ -1,7 +1,7 @@
 <div align="center">
     <h1> Welcome! I am Gregório de lucca!</h1>
     <h2>  FULLSTACK DEVELOPER </h2>
-    <p>I am a fullstack developer with comprehensive skills in HTML5, CSS3, JavaScript, Bootstrap, and SQL. Currently, <br> I focus on the MERN stack, with solid experience in React, Node.js, and MongoDB.  Concurrently, I am pursuing a degree in Technology in Systems Analysis and Development. .
+    <p>IProfissional DevOps com expertise em redes e programação, especializando-se em Segurança da Informação. <br> Possuo conhecimento sólido em Python, SQL, Linux, AWS e Docker
 </p>
 </div>
 
@@ -20,10 +20,12 @@
 
 <div  align="center">
     <h1>tools!</h1>
-    <img align="center" alt="js" src="https://img.shields.io/badge/Bootstrap-9b59b6?style=for-the-badge&logo=Bootstrap&logoColor=white" />
-    <img align="center" alt="ts" src="https://img.shields.io/badge/React-535c68?style=for-the-badge&logo=React&logoColor=white" />
-    <img align="center" alt="js" src="https://img.shields.io/badge/Node-27ae60?style=for-the-badge&logo=Nodejs&logoColor=white" />
-    <img align="center" alt="linux" src="https://img.shields.io/badge/Mysql-535c6?style=for-the-badge&logo=Mysql&logoColor=white" />
+    <img align="center" alt="js" src="https://img.shields.io/badge/Linux-3d3d3d?style=for-the-badge&logo=Linux&logoColor=white" />
+    <img align="center" alt="ts" src="https://img.shields.io/badge/Python-18dcff?style=for-the-badge&logo=Python&logoColor=white" />
+    <img align="center" alt="linux" src="https://img.shields.io/badge/Mysql-778ca3?style=for-the-badge&logo=Mysql&logoColor=white" />
+    <img align="center" alt="js" src="https://img.shields.io/badge/Aws-ffaf40?style=for-the-badge&logo=Aws&logoColor=white" />
+    <img align="center" alt="linux" src="https://img.shields.io/badge/Docker-4b7bec?style=for-the-badge&logo=Docker&logoColor=white" />
+
 
 
 
