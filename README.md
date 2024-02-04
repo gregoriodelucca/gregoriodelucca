@@ -1,6 +1,6 @@
 <div align="center">
     <h1> Welcome! I am Gregório de lucca!</h1>
-    <h2>  FULLSTACK DEVELOPER </h2>
+    <h2>  DEVOPS SECURITY </h2>
     <p>IProfissional DevOps com expertise em redes e programação, especializando-se em Segurança da Informação. <br> Possuo conhecimento sólido em Python, SQL, Linux, AWS e Docker
 </p>
 </div>
