@@ -1,7 +1,7 @@
 <div align="center">
     <h1> Welcome! I am Gregório de lucca!</h1>
     <h2>  DEVOPS | ANALYST SECURITY INFORMATION </h2>
-    <p>DevOps professional with expertise in networks and programming, specializing in Information Security.
+    <p>DevOps professional with expertise in networks and programming, Analyst specializing in Information Security.
     <br> I have solid knowledge of Python, SQL, Linux, AWS and Docker
 </p>
 </div>
