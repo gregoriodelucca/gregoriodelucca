@@ -2,7 +2,7 @@
     <h1> Welcome! I am Gregório de lucca!</h1>
     <h2>  DEVOPS | ANALYST SECURITY INFORMATION </h2>
     <p>DevOps professional with expertise in networks and programming,  specializing in Analyst Information Security.
-    <br> I have solid knowledge of Python, SQL, Linux, AWS and Docker
+    <br> I have solid knowledge of Python, Linux, AWS and Docker
 </p>
 </div>
 
