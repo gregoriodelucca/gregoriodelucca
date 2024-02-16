@@ -1,6 +1,6 @@
 <div align="center">
     <h1> Welcome! I am Gregório de lucca!</h1>
-    <h2>  DEVELOPER FRONT END </h2>
+    <h2>  DEVELOPER WEB | MOBILE </h2>
     <p>I am a web and mobile developer, specializing in React, Node, MongoDB, and Bootstrap.</p>
 </div>
 
