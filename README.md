@@ -1,7 +1,8 @@
 <div align="center">
-    <h1> Bemv-indo! Eu sou Gregório de lucca!</h1>
-    <h2>  Estudandante Analíse e desenvolvimento de sistemas </h2>
-    <p>Atualmente, estou me especializando em análise e desenvolvimento de sistemas, com foco no desenvolvimento de soluções back-end. <br> Possuo expertise em tecnologias essenciais como Java, MySQL e o framework Spring Boot. <br>Além disso, conto com habilidades sólidas em ferramentas de virtualização como Docker e na utilização de serviços em nuvem, especificamente na plataforma AWS..</p>
+    <h1>  Bem-vindo! Eu sou Gregório de Lucca! 👋</h1>
+    <h2> Desenvolvedor Web | Mobile 💻📱 </h2>
+    <p>Eu sou brasileiro e paulista. 👨‍💻</p>
+    <p>  Estou me formando em Análise e Desenvolvimento de Sistemas! 🎓</p>
 </div>
 
 <br>
