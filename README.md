@@ -2,7 +2,7 @@
     <h1>  Bem-vindo! Eu sou Gregório de Lucca! 👋</h1>
     <h2> Devops Security Engeineer 💻📱 </h2>
     <p>Eu sou brasileiro e paulista. 👨‍💻</p>
-    <p>  Eu sou devops, estou me especialiando em segurança da informação! 🎓</p>
+    <p>  Eu sou devops, estou me especializando em segurança da informação! 🎓</p>
 </div>
 
 <br>
