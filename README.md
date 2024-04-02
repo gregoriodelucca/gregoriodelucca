@@ -1,8 +1,7 @@
 <div align="center">
     <h1>  Bem-vindo! Eu sou Gregório de Lucca! 👋</h1>
-    <h2> Desenvolvedor FullStack Web | Mobile 💻📱 </h2>
-    <p>  Eu estou me especializando,  em analise desenvolvimento de sistemas! 🎓</p>
-    <p>Eu sou brasileiro e paulista. 👨‍💻</p>
+    <h2> Devops | Segurança da informação 💻 </h2>
+    <p>  Eu estou me especializando,  em tecnologo segurança da informação 🎓</p>
 
 </div>
 
