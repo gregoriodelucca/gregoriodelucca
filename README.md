@@ -1,7 +1,7 @@
 <div align="center">
     <h1>  Bem-vindo! Eu sou Gregório de Lucca! 👋</h1>
-    <h2> Devops | Segurança da informação 💻 </h2>
-    <p>  Eu estou me especializando,  em tecnologo segurança da informação 🎓</p>
+    <h2> DEVELOPER WEB NODEJS 💻 </h2>
+    <p>  Eu estou me especializando,  desenvolvimento analise de sistema!🎓</p>
 
 </div>
 
