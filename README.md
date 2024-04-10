@@ -1,7 +1,7 @@
 <div align="center">
     <h1>  Bem-vindo! Eu sou Gregório de Lucca! 👋</h1>
-    <h2> DEVELOPER REACTJS 💻 </h2>
-    <p>  Eu sou especialista em  reactjs!</p>
+    <h2> DEVOPS ENGINEER | BACK END DEVELOPER 💻 </h2>
+    <p>  Sou um desenvolvedor apaixonado por tecnologia, especialmente nas áreas de DevOps e desenvolvimento back-end. <br> Tenho experiência em criar soluções robustas e escaláveis utilizando Python, Linux e AWS.!</p>
 
 </div>
 
