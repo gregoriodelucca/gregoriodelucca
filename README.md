@@ -1,7 +1,7 @@
 <div align="center">
     <h1>  Bem-vindo! Eu sou Gregório de Lucca! 👋</h1>
-    <h2> DEVOPS ENGINEER | BACK END DEVELOPER 💻 </h2>
-    <p>  Sou um desenvolvedor apaixonado por tecnologia, especialmente nas áreas de DevOps e desenvolvimento back-end. <br> Tenho experiência em criar soluções robustas e escaláveis utilizando Python, Linux e AWS.!</p>
+    <h2> DEVELOPER FULLSTACK JS 💻 </h2>
+    <p>  Sou um desenvolvedor apaixonado por tecnologia, especialmente nas áreas de web e mobile. <br criar soluções robustas e escaláveis utilizando Python, Linux e AWS.!</p>
 
 </div>
 
