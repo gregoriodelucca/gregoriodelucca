@@ -1,7 +1,7 @@
 <div align="center">
     <h1>Welcome! I'm Gregório de Lucca! 👋</h1>
     <h2> DEVELOPER FULLSTACK WEB  💻 </h2>
-    <p> I'm a full-stack developer specializing in web development </p>
+    <p> 'm a full-stack developer with experience in Stack Node.js, React, SQL, and AWS. </p>
 
 </div>
 
