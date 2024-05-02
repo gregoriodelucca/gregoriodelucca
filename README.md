@@ -1,7 +1,7 @@
 <div align="center">
-    <h1>  Bem-vindo! Eu sou Gregório de Lucca! 👋</h1>
-    <h2> DEVELOPER FRONT END  💻 </h2>
-    <p> Sou um desenvolvedor apaixonado por tecnologia, especialmente nas áreas de front-end e design de interface. </p>
+    <h1>Welcome! I'm Gregório de Lucca! 👋</h1>
+    <h2> DEVELOPER FULLSTACK WEB  💻 </h2>
+    <p> I'm a full-stack developer specializing in web development </p>
 
 </div>
 
