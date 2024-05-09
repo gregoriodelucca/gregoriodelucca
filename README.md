@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Welcome! I'm Gregório de Lucca! 👋</h1>
-    <h2> DEVELOPER FRONT END | MOTION DESIGNER  💻 </h2>
+    <h2> DEVELOPER FULLSTACK WEB | MOBILE  💻 </h2>
     <p> I am developer front end and motion designer! </p>
 
 </div>
