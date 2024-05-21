@@ -1,12 +1,12 @@
 <div align="center">
+  <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Software Developer" width="360px">
+</div>
+<div align="center">
     <h1>Welcome! I'm Gregório de Lucca! 👋</h1>
     <h2> DEVELOPER FRONT END   💻 </h2>
     <p> I am developer front end! </p>
-
 </div>
-
 <br>
-
 <div align="center" >
     <img  height="150em"   src="https://github-readme-stats.vercel.app/api?username=gregoriodelucca&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em"    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregoriodelucca&theme=dracula&hide_border=false&&layout=compact"/>
