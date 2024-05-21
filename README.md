@@ -3,8 +3,8 @@
 </div>
 <div align="center">
     <h1>Welcome! I'm Gregório de Lucca! 👋</h1>
-    <h2> DEVELOPER FRONT END   💻 </h2>
-    <p> I am developer front end! </p>
+    <h2> DEVELOPER FRONT END | UX/UI DESIGNER 💻 </h2>
+    
 </div>
 <br>
 <div align="center" >
