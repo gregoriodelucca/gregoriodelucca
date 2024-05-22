@@ -1,20 +1,16 @@
-<div align="center">
-<img align="center"src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Software Developer" width="300px" height="220px">
-</div>
-</br>
 <div align="left">
-    <h1 align="left">Welcome! I'm Gregório de Lucca! 👋</h1>
+    <h1 >Welcome! I'm Gregório de Lucca! 👋</h1>
     <h2> DEVELOPER FRONT END | UX/UI DESIGNER 💻 </h2>
 </div>
 <div align="center">
-
   <a href="https://wa.me/5511971108462?text=Ol%C3%A1+%21+bem+vindo%2C+o+que+deseja+%3F" target="_blank"><img src="https://img.shields.io/badge/whatsapp-2ecc71?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gregoriodelucca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:gregoriodelucca@gmail.com"><img src="https://img.shields.io/badge/-gmail-%23333?style=for-the-badge&logo=gmail&logoColor=e74c3c" target="_blank"></a>
 </div>
-<br/>
+<div align="right">
+<img src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Software Developer" width="250px">
+</div>
 </br>
-
 <div align="left" >
     <img  height="150em"   src="https://github-readme-stats.vercel.app/api?username=gregoriodelucca&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em"    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregoriodelucca&theme=dracula&hide_border=false&&layout=compact"/>
