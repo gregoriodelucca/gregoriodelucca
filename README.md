@@ -1,8 +1,8 @@
-<div align="left">
+<div align="center">
     <h1 >Welcome! I'm Gregório de Lucca! 👋</h1>
     <h2> DEVELOPER FRONT END | UX/UI DESIGNER 💻 </h2>
 </div>
-<div align="left">
+<div align="center">
   <a href="https://wa.me/5511971108462?text=Ol%C3%A1+%21+bem+vindo%2C+o+que+deseja+%3F" target="_blank"><img src="https://img.shields.io/badge/whatsapp-2ecc71?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gregoriodelucca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:gregoriodelucca@gmail.com"><img src="https://img.shields.io/badge/-gmail-%23333?style=for-the-badge&logo=gmail&logoColor=e74c3c" target="_blank"></a>
