@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/gregoriodelucca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:gregoriodelucca@gmail.com"><img src="https://img.shields.io/badge/-gmail-%23333?style=for-the-badge&logo=gmail&logoColor=e74c3c" target="_blank"></a>
 </div>
-<div align="center">
+<div >
     <img  height="130em"   src="https://github-readme-stats.vercel.app/api?username=gregoriodelucca&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="130em"    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregoriodelucca&theme=dracula&hide_border=false&&layout=compact"/>
 
