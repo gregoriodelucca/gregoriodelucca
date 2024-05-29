@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952ozz9e7553fbfwstsxxyb8fryyumsyjjsuthq16h6&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Software Developer" width="350px">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnhucDhyZThhZGw0Zjd3d2lreG03Nno3NGw5M2pocnkyMHo4dWYyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a8rlSHPozsTEuh1ibJ/giphy.webp" alt="Software Developer" width="350px" height="240px">
 </div>
 <div align="center">
     <h1 >Welcome! I'm Gregório de Lucca! 👋</h1>
