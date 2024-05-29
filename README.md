@@ -11,9 +11,9 @@
   <a href="mailto:gregoriodelucca@gmail.com"><img src="https://img.shields.io/badge/-gmail-%23333?style=for-the-badge&logo=gmail&logoColor=e74c3c" target="_blank"></a>
 </div>
 </br>
-<div >
-    <img  height="130em"   src="https://github-readme-stats.vercel.app/api?username=gregoriodelucca&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+<div align="center" >
     <img height="130em"    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregoriodelucca&theme=dracula&hide_border=false&&layout=compact"/>
+    <img  height="130em"   src="https://github-readme-stats.vercel.app/api?username=gregoriodelucca&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
 
 </div>
 
