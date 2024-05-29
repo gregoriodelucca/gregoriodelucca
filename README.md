@@ -17,13 +17,13 @@
 
 </div>
 
-<div align="left">
+<div align="center">
   <h1>skills</h1>
       <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
       <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
       <img height="50em" src="https://codigosimples.net/wp-content/uploads/2017/03/nodejs.png" />
 </div>
-<div align="left">
+<div align="center">
   <h1>tecnologias</h1>
       <img height="40em"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" />
       <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" />
