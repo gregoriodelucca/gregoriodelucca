@@ -3,7 +3,7 @@
 </div>
 <div align="center">
     <h1 >Welcome! I'm Gregório de Lucca! 👋</h1>
-    <h2> DEVELOPER FRONT END | UX/UI DESIGNER 💻 </h2>
+    <h2> DEVELOPER SOFTWARE | JAVA :coffee: 💻 </h2>
 </div>
 <div align="center">
   <a href="https://wa.me/5511971108462?text=Ol%C3%A1+%21+bem+vindo%2C+o+que+deseja+%3F" target="_blank"><img src="https://img.shields.io/badge/whatsapp-2ecc71?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
@@ -21,7 +21,7 @@
   <h1>skills</h1>
       <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
       <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-      <img height="50em" src="https://codigosimples.net/wp-content/uploads/2017/03/nodejs.png" />
+      <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 </div>
 <div align="center">
   <h1>tecnologias</h1>
