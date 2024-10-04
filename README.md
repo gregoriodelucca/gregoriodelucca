@@ -7,7 +7,7 @@
 
 
 
-<p align="left"> I am a C# and React developer with experience in DevOps and cloud computing.<br> I am passionate about web and mobile development.  <br>
+<p align="left">  <br> I am a C# and React developer with experience in DevOps and cloud computing.<br> I am passionate about web and mobile development.  <br>
 I enjoy creating dynamic, <br> user-friendly applications that enhance the user experience  <br> through effective programming and problem-solving. 👨🏻‍💻</p>
 <div align=right>
 
