@@ -1,4 +1,4 @@
-<h1 align="left">DEVELOPER FULLSTACK</h1>
+<h1 align="left">DEVELOPER FULLSTACK | UX MOTION DESIGN </h1>
   <img align="right" height="300" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
 </div>
 
@@ -7,8 +7,7 @@
 
 
 
-<p align="left">  <br> I am a C# and React developer with experience in DevOps and cloud computing.<br> I am passionate about web and mobile development.  <br>
-I enjoy creating dynamic,  user-friendly applications that enhance the user experience  <br> through effective programming and problem-solving. 👨🏻‍💻</p>
+<p align="left">  <br> Desenvolvedor Front-End com experiência em UX Design e Motion Design. Habilidade em criar interfaces interativas e intuitivas, utilizando as mais recentes tecnologias e tendências de design. Apaixonado por transformar conceitos criativos em soluções visuais envolventes e funcionais, com forte foco na experiência do usuário. 👨🏻‍💻</p>
 <div align=right>
 
 <br>
