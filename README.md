@@ -7,7 +7,7 @@
 
 
 
-<p align="left">  <br> Sou esenvolvedor de software com experiência em C#, .NET, React e Next.js. Apaixonado por criar soluções eficientes e escaláveis, com foco em desenvolvimento front-end e back-end. Possuo conhecimentos em nuvem, especialmente Microsoft Azure, colaborando em projetos ágeis e dinâmicos para garantir a melhor performance e usabilidade! 👨🏻‍💻</p>
+<p align="left">  <br> Sou desenvolvedor de software com experiência em C#, .NET, React e Next.js. Apaixonado por criar soluções eficientes e escaláveis, com foco em desenvolvimento front-end e back-end. Possuo conhecimentos em nuvem, especialmente Microsoft Azure, colaborando em projetos ágeis e dinâmicos para garantir a melhor performance e usabilidade! 👨🏻‍💻</p>
 <div align=right>
 
 <br>
