@@ -1,13 +1,17 @@
-<h1 align="left">DEVELOPER FULLSTACK  </h1>
+<h1 align="left">DEVELOPER FRONT END  </h1>
   <img align="right" height="300" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
 </div>
 
 <br>
 <br>
 
+<br>
+<br>
 
 
-<p align="left">  <br> Sou desenvolvedor de software com experiência em C#, .NET, React e Next.js. Apaixonado por criar soluções eficientes e escaláveis, com foco em desenvolvimento front-end e back-end. Possuo conhecimentos em nuvem, especialmente Microsoft Azure, colaborando em projetos ágeis e dinâmicos para garantir a melhor performance e usabilidade! 👨🏻‍💻</p>
+
+<p align="left"> Sou desenvolvedor front-end com foco em React e Angular, além de sólidos conhecimentos em UX Design. Tenho experiência na construção de interfaces web modernas e responsivas, com ênfase na experiência do usuário e na performance das aplicações.
+ 👨🏻‍💻</p>
 <div align=right>
 
 <br>
@@ -18,19 +22,17 @@
 
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="js logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt=" angular logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
 </div>
