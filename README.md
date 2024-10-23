@@ -10,7 +10,7 @@
 
 
 
-<p align="left"> Sou desenvolvedor front-end com foco em React e Angular, além de sólidos conhecimentos em UX Design. Tenho experiência na construção de interfaces web modernas e responsivas, com ênfase na experiência do usuário e na performance das aplicações.
+<p align="left"> Desenvolvedor especializado em C# e .NET, com experiência na criação de aplicações robustas e escaláveis. Focado em escrever código limpo e eficiente, com ênfase em boas práticas de programação e arquitetura de software. Experiência em desenvolvimento web e desktop, trabalhando com frameworks modernos para atender às demandas de projetos diversos.
  👨🏻‍💻</p>
 <div align=right>
 
