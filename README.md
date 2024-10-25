@@ -30,7 +30,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
+   <img src="https://skillicons.dev/icons?i=photoshop" height="40" alt="photoshop logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=aftereffects" height="40" alt="aftereffects logo"  />
+  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=premiere" height="40" alt="premiere logo"  />
   <img width="12" />
 
 </div>
