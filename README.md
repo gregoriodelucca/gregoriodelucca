@@ -1,16 +1,13 @@
-<h1 align="left">DEVELOPER FULLSTACK  </h1>
+<h1 align="left">DEVELOPER FRONT END | UX DESIGN   </h1>
   <img align="right" height="300" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
 </div>
 
-<br>
-<br>
-
-<br>
-<br>
 
 
 
-<p align="left"> Desenvolvedor especializado em C# e .NET, com experiência na criação de aplicações robustas e escaláveis. Focado em escrever código limpo e eficiente, com ênfase em boas práticas de programação e arquitetura de software. Experiência em desenvolvimento web e desktop, trabalhando com frameworks modernos para atender às demandas de projetos diversos.
+<br>
+<br>
+<p align="left">  Desenvolvedor Front-End e UX Designer especializado em criar interfaces interativas e experiências visuais que combinam inovação e tecnologia de ponta. Com domínio em React, Figma e After Effects, aplico uma abordagem centrada no usuário e focada em performance para desenvolver soluções digitais de alto impacto. Meu trabalho une design, motion design e tecnologia para proporcionar experiências dinâmicas e responsivas, otimizadas com Lottie para uma navegação fluida e envolvente. Além disso, trago uma sólida experiência em audiovisual, com conhecimento avançado em Premiere e Photoshop, o que me permite adicionar uma dimensão criativa e estética diferenciada aos projetos.
  👨🏻‍💻</p>
 <div align=right>
 
@@ -22,19 +19,20 @@
 
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c#" height="40" alt="csharp logo"  />
-  <img width="12" />
+ 
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=net" height="40" alt="net logo"  />
-  <img width="12" />
+  <img width="12" /> 
    <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aftereffects" height="40" alt="aftereffects logo"  />
+  <img width="12" />
+
 </div>
 
 ###
@@ -50,8 +48,8 @@
   <a href="gregoriodelucca@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.instagram.com/gregoriodeluccata/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
+  <a href="https://www.behance.net/gregridelucca" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="47" height="35" alt="behance logo" />
   </a>
 </div>
 
