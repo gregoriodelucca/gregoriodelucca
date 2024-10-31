@@ -1,4 +1,4 @@
-<h1 align="left">DEVELOPER FRONT END | UX DESIGN   </h1>
+<h1 align="left">DEVELOPER FULLSTACK | UX DESIGN   </h1>
   <img align="right" height="300" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
 </div>
 
@@ -7,8 +7,8 @@
 
 <br>
 <br>
-<p align="left">  Desenvolvedor Front-End com foco em React, conhecimentos em JavaScript, HTML e CSS, e experiência em criação de aplicações web dinâmicas e responsivas. Proativo, com habilidades de resolução de problemas e comprometido com a entrega de código limpo e eficiente. Em busca de uma posição desafiadora onde possa aplicar e desenvolver ainda mais meus conhecimentos em desenvolvimento front-end.
- 👨🏻‍💻</p>
+<p align="left">  Desenvolvedor Full Stack com especialização em C#, .NET, React e Python, e experiência em criação e manutenção de aplicações escaláveis e orientadas ao usuário. Busco uma oportunidade para aplicar minhas habilidades em desenvolvimento de software, com foco em soluções inovadoras e eficientes! 👨🏻‍💻
+  </p>
 <div align=right>
 
 <br>
