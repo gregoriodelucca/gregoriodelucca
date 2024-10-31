@@ -7,7 +7,7 @@
 
 <br>
 <br>
-<p align="left">  Desenvolvedor Front-End e UX Designer especializado em criar interfaces interativas e experiências visuais que combinam inovação e tecnologia de ponta. Com domínio em React, Figma e After Effects, aplico uma abordagem centrada no usuário e focada em performance para desenvolver soluções digitais de alto impacto. Meu trabalho une design, motion design e tecnologia para proporcionar experiências dinâmicas e responsivas, otimizadas com Lottie para uma navegação fluida e envolvente. Além disso, trago uma sólida experiência em audiovisual, com conhecimento avançado em Premiere e Photoshop, o que me permite adicionar uma dimensão criativa e estética diferenciada aos projetos.
+<p align="left">  Desenvolvedor Front-End com foco em React, conhecimentos em JavaScript, HTML e CSS, e experiência em criação de aplicações web dinâmicas e responsivas. Proativo, com habilidades de resolução de problemas e comprometido com a entrega de código limpo e eficiente. Em busca de uma posição desafiadora onde possa aplicar e desenvolver ainda mais meus conhecimentos em desenvolvimento front-end.
  👨🏻‍💻</p>
 <div align=right>
 
@@ -19,23 +19,22 @@
 
 
 <div align="left">
- 
+  
+ <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" /> 
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" /> 
    <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-   <img src="https://skillicons.dev/icons?i=photoshop" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aftereffects" height="40" alt="aftereffects logo"  />
-  <img width="12" />
-   <img src="https://skillicons.dev/icons?i=premiere" height="40" alt="premiere logo"  />
-  <img width="12" />
+
+ 
+
+
+ 
 
 </div>
 
