@@ -6,7 +6,7 @@
 <br>
 <br>
 
-<p align="left">  Desenvolvedor Full Stack com especialização em C#, .NET, React e Python, e experiência em criação e manutenção de aplicações escaláveis e orientadas ao usuário. Busco uma oportunidade para aplicar minhas habilidades em desenvolvimento de software, com foco em soluções inovadoras e eficientes! 👨🏻‍💻
+<p align="left">  Desenvolvedor Full Stack com  JAVA , SPRING BOOT, KOTLIN e ANGULAR, e experiência em criação e manutenção de aplicações escaláveis e orientadas ao usuário. Busco uma oportunidade para aplicar minhas habilidades em desenvolvimento de software, com foco em soluções inovadoras e eficientes! 👨🏻‍💻
   </p>
 <div align=right>
 
@@ -19,20 +19,25 @@
 
 <div align="left">
   
- <img src="https://skillicons.dev/icons?i=cs" height="40" alt="cs logo"  />
+ <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" /> 
-   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt=" dotnet logo"  />
+   <img src="https://skillicons.dev/icons?i=spring" height="40" alt=" spring logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
   <img width="12" /> 
-   <img src="https://skillicons.dev/icons?i=py" height="40" alt=" py logo"  />
+   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt=" mysql logo"  />
   <img width="12" />
-   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="ts logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="12" />
    <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
+   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
+  <img width="12" />
+ 
  
 </div>
 
