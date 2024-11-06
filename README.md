@@ -1,4 +1,4 @@
-<h1 align="left">DEVELOPER FULLSTACK   </h1>
+<h1 align="left">DEVELOPER BACK END    </h1>
   <img align="right" height="300" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
 </div>
 
@@ -6,7 +6,7 @@
 <br>
 <br>
 
-<p align="left">  Desenvolvedor Full Stack com  JAVA , SPRING BOOT, KOTLIN e ANGULAR, e experiência em criação e manutenção de aplicações escaláveis e orientadas ao usuário. Busco uma oportunidade para aplicar minhas habilidades em desenvolvimento de software, com foco em soluções inovadoras e eficientes! 👨🏻‍💻
+<p align="left"> Bem vindo eu sou desenvolvedor back end focado em engenharia software e embaixador da dio, focado no java e spring! 👨🏻‍💻
   </p>
 <div align=right>
 
@@ -23,13 +23,7 @@
   <img width="12" /> 
    <img src="https://skillicons.dev/icons?i=spring" height="40" alt=" spring logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
-  <img width="12" /> 
-   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt=" mysql logo"  />
-  <img width="12" />
-   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="ts logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt=" mysql logo"  />
   <img width="12" />
    <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
