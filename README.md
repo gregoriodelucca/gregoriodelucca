@@ -19,17 +19,15 @@
 
 <div align="left">
   
- <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+ <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="12" /> 
-   <img src="https://skillicons.dev/icons?i=spring" height="40" alt=" spring logo"  />
+   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt=" dotnet logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt=" mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt=" react logo"  />
   <img width="12" />
    <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
-   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
   <img width="12" />
  
  
