@@ -6,7 +6,7 @@
 <br>
 <br>
 
-<p align="left"> Bem vindo eu sou desenvolvedor back end focado em engenharia software e embaixador da dio, focado no java e spring! 👨🏻‍💻
+<p align="left">ou desenvolvedor e designer de motion com uma combinação única de habilidades em C# .NET para back-end e React para criação de interfaces interativas no front-end. Com uma base sólida em audiovisual, aplico uma abordagem criativa e técnica para criar soluções de software eficientes e experiências digitais impactantes. Tenho paixão por integrar design e tecnologia, e busco constantemente novos desafios que me permitam criar aplicações dinâmicas, interativas e visualmente atraentes, sempre explorando maneiras de unir estética e funcionalidade. 👨🏻‍💻
   </p>
 <div align=right>
 
