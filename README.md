@@ -1,4 +1,4 @@
-<h1 align="left">DEVELOPER BACK END    </h1>
+<h1 align="left">DEVELOPER FRONT END | DESIGN MOTION UX/UI  </h1>
   <img align="right" height="300" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
 </div>
 
@@ -6,7 +6,7 @@
 <br>
 <br>
 
-<p align="left">Sou desenvolvedor e designer de motion com uma combinação única de habilidades em C# .NET para back-end e React para criação de interfaces interativas no front-end. Com uma base sólida em audiovisual, aplico uma abordagem criativa e técnica para criar soluções de software eficientes e experiências digitais impactantes. Tenho paixão por integrar design e tecnologia, e busco constantemente novos desafios que me permitam criar aplicações dinâmicas, interativas e visualmente atraentes, sempre explorando maneiras de unir estética e funcionalidade. 👨🏻‍💻
+<p align="left">Sou um Desenvolvedor Front-end Júnior apaixonado por criar interfaces intuitivas, responsivas e dinâmicas. Tenho experiência em React, Angular, HTML, CSS, JavaScript e TypeScript, com um olhar atento para a experiência do usuário e a estética do design 👨🏻‍💻
   </p>
 <div align=right>
 
@@ -19,18 +19,17 @@
 
 <div align="left">
   
- <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+ <img src="https://skillicons.dev/icons?i=ts" height="40" alt="ts logo"  />
   <img width="12" /> 
-   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt=" dotnet logo"  />
+   <img src="https://skillicons.dev/icons?i=react" height="40" alt=" react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt=" ts logo"  />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt=" angular logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt=" react logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt=" figma logo"  />
   <img width="12" />
-   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+   <img src="https://skillicons.dev/icons?i=ae" height="40" alt="ae logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
-  <img width="12" />
+ 
  
  
 </div>
