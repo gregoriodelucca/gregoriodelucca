@@ -30,6 +30,8 @@ Com conhecimento em .NET Core para desenvolvimento de APIs e microserviços, e e
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt=" react logo"  />
   <img width="12" />
+   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt=" nodejs logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=azure" height="40" alt=" azure logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt=" docker logo"  />
