@@ -8,7 +8,8 @@
 <br>
 <br>
 
-<p align="left">Sou um desenvolvedor Full Stack Jr com foco em Java e Angular, buscando aprimorar minhas habilidades e contribuir para a criação de soluções inovadoras e eficientes. Tenho experiência em desenvolvimento front-end com Angular, garantindo interfaces dinâmicas e responsivas, e back-end robusto utilizando Java e Spring Boot. Meu objetivo é integrar equipes de tecnologia onde possa aplicar meus conhecimentos, aprender continuamente e colaborar para o sucesso de projetos que impactem positivamente os usuários e o mercado. 👨🏻‍💻
+<p align="left">Sou software enginer focado em C#, .NET e React. Tenho experiência em criar soluções escaláveis e de alta performance no backend e no frontend, sempre buscando aprender e aplicar as melhores práticas em projetos reais.
+Com conhecimento em .NET Core para desenvolvimento de APIs e microserviços, e em React para criação de interfaces dinâmicas e responsivas, estou sempre expandindo minhas habilidades e aprimorando minhas capacidades técnicas.👨🏻‍💻
   </p>
 <div align=right>
 
@@ -21,13 +22,13 @@
 
 <div align="left">
   
- <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+ <img src="https://skillicons.dev/icons?i=cs" height="40" alt="cs logo"  />
   <img width="12" /> 
-   <img src="https://skillicons.dev/icons?i=spring" height="40" alt=" spring logo"  />
+   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt=" dotnet logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt=" rs logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt=" ts logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="40" alt=" angular logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt=" react logo"  />
   <img width="12" />
   
  
