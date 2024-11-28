@@ -30,6 +30,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ae" height="40" alt=" ae logo"  />
   <img width="12" />
+   <img src="https://skillicons.dev/icons?i=premiere" height="40" alt=" pr logo"  />
+  <img width="12" />
   
  
  
