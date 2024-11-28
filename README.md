@@ -16,7 +16,8 @@
 
 <div align="left">
   
-
+ <img src="https://skillicons.dev/icons?i=sass" height="40" alt=" sass logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt=" ts logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt=" react logo"  />
