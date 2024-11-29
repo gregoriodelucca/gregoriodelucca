@@ -3,15 +3,14 @@
 <br>
 <p align="left">
   🎯 <strong>Desenvolvedor Especializado em C# e .NET</strong>  
+  <br/>
   💻 Apaixonado por criar soluções escaláveis e eficientes, unindo tecnologia de ponta e design interativo.  
 </p>
-<br/>
-<br/>
-
 <p align="left">
   🎨 Com mais de 10 anos de experiência no audiovisual, trago um olhar único para design e experiência do usuário.  
   🚀 Atualmente, estou em <strong>transição de carreira para engenharia de software</strong>, focado em projetos inovadores que combinem criatividade e tecnologia.
 </p>
+<br/>
 <div align="left">
   <h2 align="left">🚀 Tecnologias</h2>
   <br/>
