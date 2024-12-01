@@ -1,44 +1,34 @@
-<h1 align="center">Software Engineer | Fullstack Developer</h1>
+<h1 align="center"> Devops Engineer </h1>
 <img align="right" height="250" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
 <br>
 
 <p align="left">
-  🎯 <strong>Desenvolvedor Fullstack | React & Node.js</strong>  
+  🎯 <strong>Devops</strong>  
   <br/>
-  💻 Apaixonado por criar soluções escaláveis e interativas, unindo tecnologia de ponta e design intuitivo.  
+  💻 Sou um engenheiro DevOps com experiência em automação de infraestrutura, gerenciamento de containers e integração contínua. Tenho expertise em Python para scripts de automação, administração de sistemas Linux e orquestração de containers com Docker. Além disso, sou familiarizado com o uso de AWS para criar soluções escaláveis e eficientes, sempre buscando otimizar processos e melhorar a performance de sistemas.  
 </p>
-<p align="left">
-  🎨 Com mais de 10 anos de experiência no audiovisual, trago uma abordagem criativa para design e experiência do usuário.  
-  🚀 Atualmente, estou em <strong>transição de carreira para engenharia de software</strong>, com foco em projetos inovadores que combinem criatividade, tecnologia e eficiência.
-</p>
+
 <br/>
 
 <div align="left">
   <h2 align="left">🚀 Tecnologias</h2>
   <br/>
-  <a href="#" title="React">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <a href="#" title="Python">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   </a>
-  <a href="#" title="Node.js">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <a href="#" title="MySql">
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   </a>
-  <a href="#" title="Express.js">
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <a href="#" title="Linux">
+    <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624" />
   </a>
-  <a href="#" title="MongoDB">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <a href="#" title="AwS">
+    <img src="https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   </a>
-  <a href="#" title="Next.js">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <a href="#" title="Docker">
+    <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   </a>
-  <a href="#" title="JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  </a>
-  <a href="#" title="TypeScript">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  </a>
-</div>
-<br/>
+
 
 <div align="left">
   <h2 align="left">📂 Projetos em Destaque</h2>
