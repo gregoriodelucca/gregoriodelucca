@@ -18,11 +18,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" title="Angular" style="width: 40px; height: 40px; margin-right: 20px; display: inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" style="width: 40px; height: 40px; margin-right: 20px; display: inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" style="width: 40px; height: 40px; margin-right: 20px; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" title="Figma" style="width: 40px; height: 40px; margin-right: 20px; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg" alt="Photoshop" title="Photoshop" style="width: 40px; height: 40px; margin-right: 20px; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" alt="After Effects" title="After Effects" style="width: 40px; height: 40px; margin-right: 20px; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Premiere.svg" alt="Premiere" title="Premiere" style="width: 40px; height: 40px; display: inline-block;">
-  </div>
+ 
 </section>
 <br>
 
