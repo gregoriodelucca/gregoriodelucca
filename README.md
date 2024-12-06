@@ -3,20 +3,17 @@
 <img src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0" width="200px"  align="right">
 <br>
 <br>
-<p align="center">Sou engenheiro de software com foco em front-end web e UX/UI design. Há 10 anos, <br> comecei minha carreira no audiovisual, <br> trabalhando com edição de vídeo e motion graphics. <br> Com o tempo, fiz a transição para a engenharia de software, <br> mas mantendo meu foco em front end e ux/ui designer.</p>
+<p align="center"> Desenvolvedor front-end com experiência em criar interfaces dinâmicas e intuitivas, utilizando as tecnologias mais modernas, como Typescript e Angular. Apaixonado por desenvolvimento web e design, entrego soluções escaláveis e otimizadas para atender às necessidades do cliente, combinando estética, funcionalidade e performance.
+.</p>
 </section>
 <br>
 <section align="center">
   <h2>Tecnologias que uso</h2>
   <div align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" style="width: 40px; height: 40px; margin-right: 20px; display: inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" style="width: 40px; height: 40px; margin-right: 20px; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" style="width: 40px; height: 40px; margin-right: 20px; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" style="width: 40px; height: 40px; margin-right: 20px; display: inline-block;">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg" alt="Bootstrap" title="Bootstrap" style="width: 40px; height: 40px; margin-right: 20px; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" title="Sass" style="width: 40px; height: 40px; margin-right: 20px; display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" style="width: 40px; height: 40px; margin-right: 20px; display: inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" title="Angular" style="width: 40px; height: 40px; margin-right: 20px; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" style="width: 40px; height: 40px; margin-right: 20px; display: inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" style="width: 40px; height: 40px; margin-right: 20px; display: inline-block;">
  
 </section>
