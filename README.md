@@ -14,6 +14,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" style="width: 40px; height: 40px; margin-right: 20px; display: inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" title="Angular" style="width: 40px; height: 40px; margin-right: 20px; display: inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" title="springBoot" style="width: 40px; height: 40px; margin-right: 20px; display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" title="nodejs" style="width: 40px; height: 40px; margin-right: 20px; display: inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="Mysql" title="Mysql" style="width: 40px; height: 40px; margin-right: 20px; display: inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="docker" style="width: 40px; height: 40px; margin-right: 20px; display: inline-block;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" title="aws" style="width: 40px; height: 40px; margin-right: 20px; display: inline-block;">
