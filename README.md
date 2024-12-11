@@ -3,19 +3,18 @@
 <img src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0" width="200px"  align="right">
 <br>
 <br>
-<p align="center">  sou desenvolvedor fullstack, com foco no desenvolvimento web utilizando tecnologias amplamente adotadas por grandes empresas, como Java, Spring e Angular. Ao longo da minha trajetória, participei de diversos projetos desenvolvidos com Java e TypeScript. Estou totalmente dedicado ao aprimoramento e à evolução na área de desenvolvimento web.
-.</p>
+<p align="center">  Desenvolvedor Front-End especializado em Angular, com experiência em criar interfaces de usuário responsivas e interativas, focado em entregar soluções eficientes e escaláveis para melhorar a experiência do usuário. 
+</p>
 </section>
 <br>
-<section align="center">
+<br>
+
+<section align="left">
   <h2>Tecnologias que uso</h2>
   <div align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="CSS3" title="Java" style="width: 40px; height: 40px; margin-right: 20px; display: inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" style="width: 40px; height: 40px; margin-right: 20px; display: inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" title="Angular" style="width: 40px; height: 40px; margin-right: 20px; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" title="springBoot" style="width: 40px; height: 40px; margin-right: 20px; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" title="nodejs" style="width: 40px; height: 40px; margin-right: 20px; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="Mysql" title="Mysql" style="width: 40px; height: 40px; margin-right: 20px; display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" title="react" style="width: 40px; height: 40px; margin-right: 20px; display: inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="docker" style="width: 40px; height: 40px; margin-right: 20px; display: inline-block;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" title="aws" style="width: 40px; height: 40px; margin-right: 20px; display: inline-block;">
 
@@ -26,7 +25,7 @@
 <br>
 
 
-<section align="center">
+<section align="left">
   <h2>Minhas Mídias Sociais</h2>
   <div align="left">
     <a href="https://www.linkedin.com/in/gregoriodelucca" target="_blank">
