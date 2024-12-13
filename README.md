@@ -2,7 +2,7 @@
 <h1>Olá! bem vindo, sou Gregório De Lucca</h1>
 <br>
 <br>
-<p align="center">  Profissional DevOps em transição para Segurança da Informação, com experiência em automação de infraestrutura, integração contínua e administração de ambientes em nuvem. Atualmente me especializando em conceitos de cybersegurança, testes de vulnerabilidade e práticas de desenvolvimento seguro, buscando fortalecer minha atuação no setor de tecnologia.
+<p align="center">  Desenvolvedor Fullstack Web com experiência na stack MERN (MongoDB, Express, React, Node.js), AWS e Docker. Ao longo da minha carreira, desenvolvi soluções escaláveis e de alta performance, tanto no front-end quanto no back-end. Tenho uma forte base em APIs RESTful, integração com bancos de dados, e deployment de aplicações na nuvem utilizando AWS. Apaixonado por criar experiências interativas e manter uma arquitetura eficiente e segura.
 </p>
 </section>
 <br>
@@ -11,8 +11,9 @@
 <section align="center">
   <h2>Tecnologias que uso</h2>
   <div align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" title="linux" style="width: 40px; height: 40px; margin-right: 20px; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="python" style="width: 40px; height: 40px; margin-right: 20px; display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" title="typescript" style="width: 40px; height: 40px; margin-right: 20px; display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" title="react" style="width: 40px; height: 40px; margin-right: 20px; display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node" title="node" style="width: 40px; height: 40px; margin-right: 20px; display: inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" title="mysql" style="width: 40px; height: 40px; margin-right: 20px; display: inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="docker" style="width: 40px; height: 40px; margin-right: 20px; display: inline-block;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" title="aws" style="width: 40px; height: 40px; margin-right: 20px; display: inline-block;">
