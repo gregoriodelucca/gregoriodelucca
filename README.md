@@ -1,8 +1,11 @@
 <section align="center">
 <h1>Olá! bem vindo, sou Gregório De Lucca</h1>
 <br>
-<br>
-<p align="center">  Desenvolvedor Fullstack Web com experiência na stack MERN (MongoDB, Express, React, Node.js), AWS e Docker. Ao longo da minha carreira, desenvolvi soluções escaláveis e de alta performance, tanto no front-end quanto no back-end. Tenho uma forte base em APIs RESTful, integração com bancos de dados, e deployment de aplicações na nuvem utilizando AWS. Apaixonado por criar experiências interativas e manter uma arquitetura eficiente e segura.
+<br> Sou técnico em audiovisual com 10 anos de experiência, especializado em edição de vídeo, motion design e automação de sistemas multimídia. Minha carreira inclui trabalhos em iluminação cênica e integração de soluções tecnológicas para eventos e ambientes interativos.
+
+Atualmente, estou explorando o uso de programação para automatizar processos em multimídia e iluminação, buscando unir criatividade e tecnologia para entregar soluções eficientes e inovadoras.
+
+
 </p>
 </section>
 <br>
@@ -11,12 +14,12 @@
 <section align="center">
   <h2>Tecnologias que uso</h2>
   <div align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" title="typescript" style="width: 40px; height: 40px; margin-right: 20px; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" title="react" style="width: 40px; height: 40px; margin-right: 20px; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node" title="node" style="width: 40px; height: 40px; margin-right: 20px; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" title="mysql" style="width: 40px; height: 40px; margin-right: 20px; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="docker" style="width: 40px; height: 40px; margin-right: 20px; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" title="aws" style="width: 40px; height: 40px; margin-right: 20px; display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" title="premeire"  style="width: 40px; height: 40px; margin-right: 20px; display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" alt="ae" title="after effects" style="width: 40px; height: 40px; margin-right: 20px; display: inline-block;">
+    <img   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"alt="ps" title="photoshop" style="width: 40px; height: 40px; margin-right: 20px; display: inline-block;">
+    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" title="figma" style="width: 40px; height: 40px; margin-right: 20px; display: inline-block;">
+    <img   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="js" title="javascript" style="width: 40px; height: 40px; margin-right: 20px; display: inline-block;">
+
 </section>
 <br>
 <section align="center">
