@@ -1,4 +1,4 @@
-# 👨‍💻 Grego | Analista de Segurança da Informação
+# 👨‍💻 Gregorio de lucca | Analista de Segurança da Informação
 
 <table>
 <tr>
@@ -21,8 +21,8 @@ Sou um **Analista de Segurança da Informação** e **Pentester**, apaixonado po
 - Implantação de soluções seguras em ambientes na nuvem.
 
 🌐 **Contato**:  
-- [LinkedIn](https://linkedin.com/in/seu-linkedin)  
-- [E-mail](mailto:seu-email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/gregoriodelucca/)  
+- [E-mail](mailto:gregoriodelucca@gmail.com)
 
 </td>
 <td>
