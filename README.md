@@ -16,7 +16,7 @@
 
 ### 🛠️ Tecnologias que uso
 
-<div>
+<section style="display: flex; gap: 20px; flex-wrap: wrap;">
   <i class="devicon-csharp-plain" title="C#"></i>
   <i class="devicon-dotnet-plain" title=".NET"></i>
   <i class="devicon-react-original" title="React"></i>
@@ -24,7 +24,7 @@
   <i class="devicon-azure-plain" title="Azure"></i>
   <i class="devicon-docker-plain" title="Docker"></i>
   <i class="devicon-microsoftsqlserver-plain" title="SQL Server"></i>
-</div>
+</section>
 
 ### 💼 Experiência
 
@@ -47,6 +47,12 @@ Com minha experiência, tenho contribuído para o desenvolvimento de soluções 
 <section style="display: flex; gap: 10px;">
   <a href="https://www.linkedin.com/in/seu-linkedin/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/seu-twitter">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://github.com/seu-usuario">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/seu-instagram/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
