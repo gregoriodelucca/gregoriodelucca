@@ -1,6 +1,6 @@
 <section>
-  <h1>Olá, Gregório de lucca</h1>
-  <p> Eu sou , um **Desenvolvedor Fullstack** com foco em **Java** e **Angular**. Tenho experiência no desenvolvimento de **APIs RESTful** utilizando **Spring Boot** e na criação de interfaces dinâmicas com **Angular**. Estou sempre em busca de aprimorar minhas habilidades e contribuir em projetos de alto impacto.</p>
+  <h1>Olá, Gregório de lucca! ☕ </h1>
+  <p> Eu estou me especializando em egenharia de software. </br> No momento estou focado na stack java & angular em desenvolvimento web! 👨🏻‍💻</p>
 </section>
 
 <section align="left">
@@ -17,7 +17,19 @@
     </p>
   </div>
 </section>
-
 <section>
   <h2>Contato</h2>
+<div align="left">
+<a href="mailto:gregoriodelucca@example.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://www.linkedin.com/in/gregoriodelucca" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://wa.me/5511971108462" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
+
+</div>
+
 </section>
