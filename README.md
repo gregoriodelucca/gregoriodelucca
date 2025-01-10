@@ -1,17 +1,51 @@
+# Olá, eu sou gregorio de  lucca ! 👋  
+  
 <section>
-  <h1>Olá, Gregório de lucca! ☕ </h1>
-  <p> Eu estou me especializando em egenharia de software. </br> No momento estou focado na  angular em desenvolvimento web! 👨🏻‍💻</p>
+  <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="GIF ilustrativo" width="200" align="right" style="margin-right: 160px;"/>
+  <h1>Sobre mim 📝</h1>
+  <p align="left">
+    Sou um desenvolvedor Angular focado em criar aplicações web modernas e responsivas. <br> 
+    Minha paixão é transformar ideias em projetos digitais que combinam performance e design.  <br>  
+    Estou sempre em busca de novas tecnologias e formas de aprimorar minhas habilidades.
+  </p>
+  <br>
 </section>
 
-<section align="left">
-  <h2>Tecnologias e Ferramentas</h2>
- <div>
-    <p>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="tyepscript" alt="typescript" width="40" height="40">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="40" height="40">     
-    </p>
-  </div>
+
 </section>
+
+---
+
+<section>
+  <h1>🚀 Habilidades</h1>
+  <p>Aqui estão as principais tecnologias que utilizo no meu trabalho:</p>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" style="margin-right: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="javascript" alt="JavaScript" width="40" style="margin-right: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  title="typescript" alt="TypeScript" width="40" style="margin-right: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  title="scss" alt="CSS3" width="40" style="margin-right: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  title="nodejs" alt="Node.js" width="40" style="margin-right: 10px;"/>
+  </p>
+</section>
+
+---
+
+<section>
+  <h1>🌟 Projetos em destaque</h1>
+  <p>Confira alguns dos meus projetos:</p>
+  <ul>
+    <li>
+      <strong>[Projeto 1](#)</strong>: Uma breve descrição sobre o projeto e as tecnologias utilizadas.
+    </li>
+    <li>
+      <strong>[Projeto 2](#)</strong>: Um exemplo de um projeto interessante, destacando desafios e aprendizados.
+    </li>
+  </ul>
+</section>
+
+---
+
+
 <section>
   <h2>Contato</h2>
 <div align="left">
@@ -28,3 +62,4 @@
 </div>
 
 </section>
+
