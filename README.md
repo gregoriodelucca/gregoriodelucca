@@ -20,11 +20,11 @@
   <h1>🚀 Habilidades</h1>
   <p>Aqui estão as principais tecnologias que utilizo no meu trabalho:</p>
   <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" style="margin-right: 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="javascript" alt="JavaScript" width="40" style="margin-right: 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  title="typescript" alt="TypeScript" width="40" style="margin-right: 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  title="scss" alt="CSS3" width="40" style="margin-right: 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  title="nodejs" alt="Node.js" width="40" style="margin-right: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" alt="Angular" width="40" style="margin-right: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="java" alt="JavaScript" width="40" style="margin-right: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"  title="angular" alt="TypeScript" width="40" style="margin-right: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  title="linux" alt="linux" width="40" style="margin-right: 10px;"/>
+    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg"  title="nodejs" alt="Node.js" width="40" style="margin-right: 10px;"/>
   </p>
 </section>
 
