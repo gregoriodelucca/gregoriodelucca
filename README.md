@@ -1,12 +1,10 @@
 # Olá, eu sou gregorio de  lucca ! 👋  
   
 <section>
-  <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="GIF ilustrativo" width="200" align="right" style="margin-right: 160px;"/>
-  <h1>Sobre mim 📝</h1>
+  <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="GIF ilustrativo" width="200" align="right" ;"/>
+  <h2>Sobre mim 📝</h2>
   <p align="left">
-    Sou um desenvolvedor  web Angular focado em criar aplicações web modernas e responsivas. <br> 
-    Minha paixão é transformar ideias em projetos digitais que combinam performance e design.  <br>  
-    Estou sempre em busca de novas tecnologias e formas de aprimorar minhas habilidades.
+    Ultimamente estou em especializando em engenharia de software </br> focado em desenvolvimento em web com java, spring e angular!
   </p>
   <br>
 </section>
@@ -20,11 +18,13 @@
   <h1>🚀 Habilidades</h1>
   <p>Aqui estão as principais tecnologias que utilizo no meu trabalho:</p>
   <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" alt="Angular" width="40" style="margin-right: 10px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="java" alt="JavaScript" width="40" style="margin-right: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="typescript" alt="JavaScript" width="40" style="margin-right: 10px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"  title="angular" alt="TypeScript" width="40" style="margin-right: 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  title="linux" alt="linux" width="40" style="margin-right: 10px;"/>
-    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg"  title="nodejs" alt="Node.js" width="40" style="margin-right: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"  title="spring" alt="linux" width="40" style="margin-right: 10px;"/>
+    <img   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"  title="nodejs" alt="Node.js" width="40" style="margin-right: 10px;"/>
+    <img   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"   title="nodejs" alt="Node.js" width="40" style="margin-right: 10px;"/>
+
   </p>
 </section>
 
