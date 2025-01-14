@@ -1,5 +1,7 @@
 # Olá, eu sou gregorio de  lucca ! 👋  
 </br>
+
+
   <div>
   <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="GIF ilustrativo" width="200" align="right" "/>
 
@@ -26,23 +28,6 @@
 
   </p>
 </section>
-
----
-
-<section>
-  <h1>🌟 Projetos em destaque</h1>
-  <p>Confira alguns dos meus projetos:</p>
-  <ul>
-    <li>
-      <strong>[Projeto 1](#)</strong>: Uma breve descrição sobre o projeto e as tecnologias utilizadas.
-    </li>
-    <li>
-      <strong>[Projeto 2](#)</strong>: Um exemplo de um projeto interessante, destacando desafios e aprendizados.
-    </li>
-  </ul>
-</section>
-
----
 
 
 <section>
