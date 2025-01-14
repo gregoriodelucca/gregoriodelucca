@@ -18,12 +18,12 @@
   <h1>🚀 Habilidades</h1>
   <p>Aqui estão as principais tecnologias que utilizo no meu trabalho:</p>
   <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="java" alt="JavaScript" width="40" style="margin-right: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="40" style="margin-right: 10px;"/>
+    <img src="https://static-00.iconduck.com/assets.00/dotnet-icon-256x256-ozvjws7o.png" title="csharp" alt="csharp" width="40" style="margin-right: 10px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="typescript" alt="JavaScript" width="40" style="margin-right: 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"  title="angular" alt="TypeScript" width="40" style="margin-right: 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"  title="spring" alt="linux" width="40" style="margin-right: 10px;"/>
-    <img   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"  title="nodejs" alt="Node.js" width="40" style="margin-right: 10px;"/>
-    <img   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"   title="nodejs" alt="Node.js" width="40" style="margin-right: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  title="react" alt="TypeScript" width="40" style="margin-right: 10px;"/>
+    <img    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"   title="SQLSERVER" alt="SQLSERVER" width="40" style="margin-right: 10px;"/>
+    <img   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"  title="Azure" alt="Azure" width="40" style="margin-right: 10px;"/>
 
   </p>
 </section>
