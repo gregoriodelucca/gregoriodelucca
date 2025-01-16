@@ -3,7 +3,7 @@
 
 
   <div>
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="GIF ilustrativo" width="200" align="right" "/>
+  <img src="https://media.licdn.com/dms/image/v2/D4D12AQH2zQ0dNvmntQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1715952999841?e=2147483647&v=beta&t=Ffqv27FncRT1oBsuNQqA393jBjRq3JOsUh0zsbhE8Is" alt="GIF ilustrativo" width="200" align="right" "/>
 
 </div>
 <section>
@@ -19,12 +19,12 @@
   <h1>🚀 Habilidades</h1>
   <p>Aqui estão as principais tecnologias que utilizo no meu trabalho:</p>
   <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="40" style="margin-right: 10px;"/>
-    <img src="https://static-00.iconduck.com/assets.00/dotnet-icon-256x256-ozvjws7o.png" title="csharp" alt="neet" width="40" style="margin-right: 10px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="typescript" alt="JavaScript" width="40" style="margin-right: 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  title="react" alt="TypeScript" width="40" style="margin-right: 10px;"/>
-    <img    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"   title="SQLSERVER" alt="SQLSERVER" width="40" style="margin-right: 10px;"/>
-    <img   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"  title="Azure" alt="Azure" width="40" style="margin-right: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"  title="angular" alt="angular" width="50" style="margin-right: 10px;"/>
+    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"  title="node" alt="node" width="40" style="margin-right: 10px;"/>
+    <img    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg"  title="mongodb" alt="mongodb" width="40" style="margin-right: 10px;"/>
+    <img   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="aws" alt="mongodb" width="40" style="margin-right: 10px;"/>
+
 
   </p>
 </section>
