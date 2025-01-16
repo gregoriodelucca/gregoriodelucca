@@ -9,7 +9,7 @@
 <section>
   <h2>Sobre mim 📝</h2>
   <p align="left">
-    Ultimamente estou em especializando em engenharia de software </br> focado em desenvolvimento em web com Angular e nodejs!
+    Ultimamente estou me especializando em engenharia de software </br> focado em desenvolvimento em web com Angular !
   </p>
 </section>
 
