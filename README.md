@@ -1,15 +1,9 @@
 # Olá, eu sou gregorio de  lucca ! 👋  
-</br>
-
-
-  <div>
-  <img src="https://media.licdn.com/dms/image/v2/D4D12AQH2zQ0dNvmntQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1715952999841?e=2147483647&v=beta&t=Ffqv27FncRT1oBsuNQqA393jBjRq3JOsUh0zsbhE8Is" alt="GIF ilustrativo" width="200" align="right" "/>
-
 </div>
 <section>
   <h2>Sobre mim 📝</h2>
   <p align="left">
-    Ultimamente estou me especializando em engenharia de software </br> focado em desenvolvimento em web Java com Angular!
+    Ultimamente estou me especializando em segurança da informação!
   </p>
 </section>
 
@@ -19,9 +13,9 @@
   <h1>🚀 Habilidades</h1>
   <p>Aqui estão as principais tecnologias que utilizo no meu trabalho:</p>
   <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="java" alt="JavaScript" width="40" style="margin-right: 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"  title="angular" alt="angular" width="50" style="margin-right: 10px;"/>
-    <img   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"  title="spring" alt="node" width="40" style="margin-right: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="linux" alt="JavaScript" width="40" style="margin-right: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  title="python" alt="angular" width="50" style="margin-right: 10px;"/>
+    <img   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg"  title="spring" alt="node" width="40" style="margin-right: 10px;"/>
     <img    src="https://w7.pngwing.com/pngs/747/798/png-transparent-mysql-logo-mysql-database-web-development-computer-software-dolphin-marine-mammal-animals-text-thumbnail.png"  title="mysql" alt="mongodb" width="40" style="margin-right: 10px;"/>
     <img   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="aws" alt="mongodb" width="40" style="margin-right: 10px;"/>
 
