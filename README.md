@@ -3,7 +3,7 @@
 <section>
   <h2>Sobre mim 📝</h2>
   <p align="left">
-    Ultimamente estou me especializando em segurança da informação!
+    Eu sou desenvolvedor front end especializado em web !
   </p>
 </section>
 
@@ -13,10 +13,10 @@
   <h1>🚀 Habilidades</h1>
   <p>Aqui estão as principais tecnologias que utilizo no meu trabalho:</p>
   <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="linux" alt="JavaScript" width="40" style="margin-right: 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  title="python" alt="angular" width="50" style="margin-right: 10px;"/>
-    <img   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg"  title="spring" alt="node" width="40" style="margin-right: 10px;"/>
-    <img    src="https://w7.pngwing.com/pngs/747/798/png-transparent-mysql-logo-mysql-database-web-development-computer-software-dolphin-marine-mammal-animals-text-thumbnail.png"  title="mysql" alt="mongodb" width="40" style="margin-right: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"  title="typescript" alt="angular" width="50" style="margin-right: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" title="angular" alt="angular" width="60" style="margin-right: 10px;"/>
+    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg"  title="bootstrap" alt="node" width="50" style="margin-right: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"  title="node" alt="node" width="50" style="margin-right: 10px;"/>
     <img   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="aws" alt="mongodb" width="40" style="margin-right: 10px;"/>
 
 
