@@ -3,7 +3,7 @@
 <section>
   <h2>Sobre mim 📝</h2>
   <p align="left">
-    Eu sou desenvolvedor front end especializado em web !
+    Olá sou desenvolvedor de software focado em .net!
   </p>
 </section>
 
