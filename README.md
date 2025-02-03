@@ -13,11 +13,11 @@
   <h1>🚀 Habilidades</h1>
   <p>Aqui estão as principais tecnologias que utilizo no meu trabalho:</p>
   <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"  title="typescript" alt="angular" width="50" style="margin-right: 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" title="angular" alt="angular" width="60" style="margin-right: 10px;"/>
-    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg"  title="bootstrap" alt="node" width="50" style="margin-right: 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"  title="node" alt="node" width="50" style="margin-right: 10px;"/>
-    <img   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="aws" alt="mongodb" width="40" style="margin-right: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"  title="csharp" alt="csharp" width="50" style="margin-right: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg"  title=".net" alt=".net" width="50" style="margin-right: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="typescript" alt="ts" width="50" style="margin-right: 10px;"/>
+    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"  title="sqlazure" alt="node" width="50" style="margin-right: 10px;"/>
+    <img    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" title="azure" alt="azure" width="40" style="margin-right: 10px;"/>
 
 
   </p>
