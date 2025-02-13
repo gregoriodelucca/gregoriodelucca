@@ -3,7 +3,7 @@
 <section>
   <h2>Sobre mim 📝</h2>
   <p align="left">
-    Olá sou desenvolvedor de software focado em .net!
+    Olá sou desenvolvedor de software focado em angular!
   </p>
 </section>
 
@@ -13,11 +13,11 @@
   <h1>🚀 Habilidades</h1>
   <p>Aqui estão as principais tecnologias que utilizo no meu trabalho:</p>
   <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"  title="csharp" alt="csharp" width="50" style="margin-right: 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg"  title=".net" alt=".net" width="50" style="margin-right: 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="typescript" alt="ts" width="50" style="margin-right: 10px;"/>
-    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"  title="sqlazure" alt="node" width="50" style="margin-right: 10px;"/>
-    <img    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" title="azure" alt="azure" width="40" style="margin-right: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"  title="typescript" alt="typescript" width="50" style="margin-right: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"  title="scss" alt="scss" width="50" style="margin-right: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" title="angular" alt="ts" width="50" style="margin-right: 10px;"/>
+    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="java" alt="java" width="40" style="margin-right: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"  title="aws" alt="node" width="50" style="margin-right: 10px;"/>
 
 
   </p>
