@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou gregorio de lucca 👋
 
 <div style="display: flex; align-items: center;">
   <!-- Texto à esquerda -->
@@ -15,19 +15,19 @@
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
   <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/devicon-icons/png/plain/typescript-original.svg" alt="TypeScript" width="50" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
     <p>TypeScript</p>
   </div>
   <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/devicon-icons/png/plain/react-original.svg" alt="React" width="50" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React" width="50" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
     <p>React</p>
   </div>
   <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/devicon-icons/png/plain/sass-original.svg" alt="Sass" width="50" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" width="50" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
     <p>Sass</p>
   </div>
   <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/devicon-icons/png/plain/aws-original.svg" alt="AWS" width="50" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+    <img src=src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="50" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
     <p>AWS</p>
   </div>
 </div>
