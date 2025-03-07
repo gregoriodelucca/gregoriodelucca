@@ -1,6 +1,6 @@
 <div align="left">
   <h1>Olá bem vindo!</h1>
-  <p>Eu sou desenvolvedor de software e especilizando na web angular e aws!</p>
+  <p>Eu sou desenvolvedor de software e especilizando na web !</p>
 </div>
 
 <div>
