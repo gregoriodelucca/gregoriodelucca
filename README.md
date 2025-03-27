@@ -1,6 +1,6 @@
 <div align="left">
   <h1>Olá bem vindo!</h1>
-  <p>" Desenvovledor front end web  com conhecimentos em Angular e aws!  !</p>
+  <p>" Desenvovledor front end web  com conhecimentos em react e aws!  !</p>
 </div>
 
 <div>
