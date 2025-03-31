@@ -5,7 +5,7 @@
     <h1>Bem-vindo ao meu perfil!</h1>
     <p>
       Sou **Analista de Cibersegurança** com experiência em proteger servidores, dados e infraestruturas críticas. 
-      Trabalho com **Fedora Linux**, implementando práticas de segurança robustas para garantir a integridade e proteção das informações. 
+       implementando práticas de segurança robustas para garantir a integridade e proteção das informações. 
       Além disso, contribuo com a **comunidade FedoraBR**, orientando sobre a segurança em servidores e sistemas Linux.
     </p>
   </div>
