@@ -31,5 +31,4 @@
     </ul>
   </div>
 
----
-Sinta-se à vontade para explorar meus repositórios e projetos!
+
