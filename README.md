@@ -1,34 +1,63 @@
-# Olá! Eu sou Gregório De Lucca 👋
-
-<div align="left" style="display: flex; justify-content: flex-start; align-items: center; padding: 20px;">
-  <div style="flex: 1; padding: 10px; text-align: left;">
-    <h1>Bem-vindo ao meu perfil!</h1>
-    <p>
-      Sou **Analista de Cibersegurança** com experiência em proteger servidores, dados e infraestruturas críticas. 
-       implementando práticas de segurança robustas para garantir a integridade e proteção das informações. 
-      Além disso, contribuo com a **comunidade FedoraBR**, orientando sobre a segurança em servidores e sistemas Linux.
-    </p>
+<section style="display: grid; grid-template-columns: 1fr auto; align-items: center; gap: 15px;">
+  <div>
+    <h1>Bem-vindo, Gregório de Lucca</h1>
+    <p>Eu sou desenvolvedor fullstack web com stack no Java, Spring, Angular e TypeScript. Focado em desenvolvimento web, com especialização em performance e segurança.</p>
   </div>
-  <div align="left">
-  <p>
-    Atualmente, sou responsável pela proteção de backups, arquivos e servidores em diversas empresas, 
-    assegurando a continuidade dos processos e a segurança dos dados.
-  </p>
-</div>
-
-## Conhecimentos 
-
-<div align="left" style="display: flex; justify-content: flex-start; align-items: center; padding: 20px;">
-  <div style="flex: 1; padding: 10px; text-align: left;">
-    <h3>O que eu sei:</h3>
-    <ul>
-      <li><strong> Linux</strong> - Administração e segurança</li>
-      <li><strong>Python</strong> - Desenvolvimento de scripts e automações</li>
-      <li><strong>Cibersegurança</strong> - Proteção de servidores e dados</li>
-      <li><strong>Backups</strong> - Garantia de continuidade e integridade de dados</li>
-      <li><strong>JavaScript, Java, C</strong> - Programação para soluções diversas</li>
-      <li><strong>Segurança de servidores</strong> - Melhoria contínua das práticas de segurança</li>
-    </ul>
+  <div align="right">
+    <img src="https://updategadh.com/wp-content/uploads/2023/07/Java-web-project-configuration.gif" width="150" alt="Anime Programando">
   </div>
+</section>
+
+ 
+
+
+
+
+
+
+
+## 🛠️ **Tecnologias e Ferramentas**
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" title="Angular" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" width="40px"/>
+</p>
+
+---
+
+## 📞 **Entre em Contato**
+<p align="center">
+  <a href="mailto:gregoriodelucca@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+  </a>
+  <a href="https://github.com/seu-usuario">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/seu-perfil">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://wa.me/5511971108462">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+</p>
+
+---
+
+## 📊 **Minhas Estatísticas**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gregoriodelucca&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregoriodelucca&layout=compact&theme=radical" alt="Linguagens mais usadas">
+</p>
+
+---
+
+✨ **Obrigado por visitar meu perfil!** Sempre aberto a novas conexões e oportunidades. 🚀  
 
 
