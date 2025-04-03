@@ -4,7 +4,7 @@
  alt="Banner" />
 </p>
 
-<h1 align="center">Olá! 👋 Eu sou [Seu Nome] </h1>
+<h1 align="center">Olá! 👋 Eu sou Gregório De Lucca </h1>
 
 <p align="center">
   🚀 Desenvolvedor Front-end | 🎨 Foco em UI/UX | ⚛️ Especialista em React.js
