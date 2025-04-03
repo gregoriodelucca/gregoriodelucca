@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="![meubg](https://github.com/user-attachments/assets/c1757b37-2e76-4104-8abb-0aaf3c936a77)"
+  <img src="https://github.com/user-attachments/assets/c1757b37-2e76-4104-8abb-0aaf3c936a77"
  alt="Banner" />
 </p>
 
