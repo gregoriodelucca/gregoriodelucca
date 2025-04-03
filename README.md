@@ -1,7 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1f0b2eea-d7ab-413c-8b34-87698ffcfb66"
- alt="Banner" />
+  <img src="https://github.com/user-attachments/assets/9a318dc7-aeb8-4c0b-bbd2-72e59d54d002" alt="Banner" />
 </p>
 
 <h1 align="center">Olá! 👋 Eu sou Gregório De Lucca </h1>
