@@ -1,35 +1,35 @@
-<div align="left">
-<h1>Bem-vindo, Gregório de Lucca</h1>
-<p align="left">Desenvolvedor Full-Stack Web com experiência sólida em Java (Spring Boot), Angular, HTML, CSS, JavaScript, MySQL e deploy em AWS. Especializado em criar soluções web escaláveis e de alto desempenho, com forte ênfase em segurança de aplicações utilizando Spring Security. Tenho uma abordagem voltada para o desenvolvimento de sistemas seguros e eficientes, tanto no back-end quanto no front-end. Sempre em busca de aprimorar minhas habilidades e contribuir para projetos inovadores, com foco na segurança e confiabilidade.</p>
-<div align="right">
-<img src="https://updategadh.com/wp-content/uploads/2023/07/Java-web-project-configuration.gif" width="150" alt="Anime Programando">
-</div>
-</div>
- 
-
-
- 
-
-
-
-
-
-
-
-## 🛠️ **Tecnologias e Ferramentas**
+<!-- Banner -->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" title="Angular" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" width="40px"/>
+  <img src="![meubg](https://github.com/user-attachments/assets/c1757b37-2e76-4104-8abb-0aaf3c936a77)"
+ alt="Banner" />
+</p>
+
+<h1 align="center">Olá! 👋 Eu sou [Seu Nome] </h1>
+
+<p align="center">
+  🚀 Desenvolvedor Front-end | 🎨 Foco em UI/UX | ⚛️ Especialista em React.js
 </p>
 
 ---
+
+## 🚀 Sobre mim
+💻 Desenvolvedor Front-end apaixonado por interfaces intuitivas e dinâmicas.  
+🎨 Experiência com design e animações usando After Effects e Lottie.  
+📌 Atualmente focado em projetos React.js e desenvolvimento mobile com React Native.
+
+---
+ 
+## 🛠️ **Tecnologias e Ferramentas**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
 
 ## 📞 **Entre em Contato**
 <p align="center">
