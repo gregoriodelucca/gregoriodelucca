@@ -1,12 +1,12 @@
-<section style="display: grid; grid-template-columns: 1fr auto; align-items: center; gap: 15px;">
-  <div>
-    <h1>Bem-vindo, Gregório de Lucca</h1>
-    <p>Eu sou desenvolvedor fullstack web com stack no Java, Spring, Angular e TypeScript. Focado em desenvolvimento web, com especialização em performance e segurança.</p>
-  </div>
-  <div align="right">
-    <img src="https://updategadh.com/wp-content/uploads/2023/07/Java-web-project-configuration.gif" width="150" alt="Anime Programando">
-  </div>
-</section>
+<div align="left">
+<h1>Bem-vindo, Gregório de Lucca</h1>
+<p align="left">Desenvolvedor Full-Stack Web com experiência sólida em Java (Spring Boot), Angular, HTML, CSS, JavaScript, MySQL e deploy em AWS. Especializado em criar soluções web escaláveis e de alto desempenho, com forte ênfase em segurança de aplicações utilizando Spring Security. Tenho uma abordagem voltada para o desenvolvimento de sistemas seguros e eficientes, tanto no back-end quanto no front-end. Sempre em busca de aprimorar minhas habilidades e contribuir para projetos inovadores, com foco na segurança e confiabilidade.</p>
+<div align="right">
+<img src="https://updategadh.com/wp-content/uploads/2023/07/Java-web-project-configuration.gif" width="150" alt="Anime Programando">
+</div>
+</div>
+ 
+
 
  
 
