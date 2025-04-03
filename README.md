@@ -15,7 +15,7 @@
 ## 🚀 Sobre mim
 💻 Desenvolvedor Front-end apaixonado por interfaces intuitivas e dinâmicas.  
 🎨 Experiência com design e animações usando After Effects e Lottie.  
-📌 Atualmente focado em projetos React.js e desenvolvimento mobile com React Native.
+📌 Atualmente focado em projetos React.js.
 
 ---
  
