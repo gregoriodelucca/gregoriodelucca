@@ -1,22 +1,20 @@
-<!-- Banner -->
-<p align="center">
+<div align="center">
+  <p>
   <img src="https://github.com/user-attachments/assets/9a318dc7-aeb8-4c0b-bbd2-72e59d54d002" alt="Banner" />
 </p>
 
-<h1 align="center">Olá! 👋 Eu sou Gregório De Lucca </h1>
-
-<p align="center">
-  🚀 Desenvolvedor Front-end | 🎨 Foco em UI/UX | ⚛️ Especialista em React.js
-</p>
-
----
-
-## 🚀 Sobre mim
-💻 Desenvolvedor Front-end apaixonado por interfaces intuitivas e dinâmicas.  
-🎨 Experiência com design e animações usando After Effects e Lottie.  
-📌 Atualmente focado em projetos React.js.
-
----
+</div>
+<div align="center">
+  <h1 align="center">Olá! 👋 Eu sou Gregório De Lucca </h1>
+  <p>
+    🚀 Desenvolvedor Front-end | 🎨 Foco em UI/UX | ⚛️ Especialista em React.js
+    
+  🚀 Sobre mim
+  💻 Desenvolvedor Front-end apaixonado por interfaces intuitivas e dinâmicas.  
+  🎨 Experiência com design e animações usando After Effects e Lottie.  
+  📌 Atualmente focado em projetos React.js.
+  </p>  
+</div>
  
 ## 🛠️ **Tecnologias e Ferramentas**
 
