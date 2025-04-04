@@ -1,7 +1,7 @@
 
 <div align="center">
   <p>
-    <img src="https://github.com/user-attachments/assets/9a318dc7-aeb8-4c0b-bbd2-72e59d54d002" alt="Banner" />
+    <img src="https://github.com/user-attachments/assets/f6bbfcfb-d9b4-4418-9a35-c32c188b8d35"alt="Banner" />
   </p>
 </div>
 
@@ -13,18 +13,18 @@
   </p>
 </div>
 
----
+<div align="center">
+  <h1>🚀 Sobre mim</h1>
+  <p>
+    💻 Desenvolvedor Fullstack com foco em Java e Angular  </br>
+   🔐 Estudando Cibersegurança e práticas de DevSecOps  </br>
+    👨‍💻 Atualmente desenvolvendo projetos com tecnologias modernas e escaláveis
+  </p>
+</div>
 
-## 🚀 Sobre mim
-
-- 💻 Desenvolvedor Fullstack com foco em Java e Angular  
-- 🔐 Estudando Cibersegurança e práticas de DevSecOps  
-- 👨‍💻 Atualmente desenvolvendo projetos com tecnologias modernas e escaláveis
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
+<div align="center">
+  
+  <h1>🛠️ Tecnologias e Ferramentas</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
@@ -38,34 +38,38 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
 </p>
+</div>
+
+
+<div align="center">
+  <h1> 📞 Entre em Contato</h1>
+
+   <p align="center">
+      <a href="mailto:gregoriodelucca@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+      </a>
+      <a href="https://www.linkedin.com/in/gregoriodelucca">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+      <a href="https://wa.me/5511971108462">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+      </a>
+  </p>
+
+</div>
+
+<div align="center">
+    <h2> 📊 Minhas Estatísticas</h2>
+
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=gregoriodelucca&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregoriodelucca&layout=compact&theme=radical" alt="Linguagens mais usadas">
+  </p>
 
 ---
-
-## 📞 Entre em Contato
-
-<p align="center">
-  <a href="mailto:gregoriodelucca@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
-  </a>
-  <a href="https://www.linkedin.com/in/gregoriodelucca">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://wa.me/5511971108462">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-</p>
-
----
-
-## 📊 Minhas Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gregoriodelucca&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregoriodelucca&layout=compact&theme=radical" alt="Linguagens mais usadas">
-</p>
-
----
+  
+</div>
 
 ✨ **Obrigado por visitar meu perfil!** Sempre aberto a novas conexões e oportunidades. 🚀  
 
