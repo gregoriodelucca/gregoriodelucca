@@ -6,10 +6,10 @@
 </div>
 
 <div align="center">
-  <h1>Olá! 👋 Eu sou Gregório De Lucca</h1>
+  <h1>Olá! 👋 Eu sou Gregório De Lucca ☕ Amante de café e código </h1>
+  
   <p>
-    🚀 Desenvolvedor Fullstack Java & Angular | ⚙️ DevOps | 🛡️ Especializando em Cibersegurança  
-    ☕ Amante de café e código  
+    🚀 Desenvolvedor Fullstack Java & Angular | ⚙️ DevOps | 🛡️ Especializando em Cibersegurança       
   </p>
 </div>
 
