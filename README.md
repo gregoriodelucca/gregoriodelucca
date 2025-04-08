@@ -9,7 +9,7 @@
   <h1>Olá! 👋 Eu sou Gregório De Lucca ☕ Amante de café e código </h1>
   
   <p>
-    🚀 Desenvolvedor  Java | ⚙️ DevOps | 🛡️ Especializando em Cibersegurança       
+    🚀 Desenvolvedor FullStack Java & Angular | ⚙️ DevOps        
   </p>
 </div>
 
@@ -17,7 +17,6 @@
   <h1>🚀 Sobre mim</h1>
   <p>
     💻 Desenvolvedor Fullstack com foco em Java e Angular  </br>
-   🔐 Estudando Cibersegurança e práticas de dev segurança web  </br>
     👨‍💻 Atualmente desenvolvendo projetos com tecnologias modernas e escaláveis
   </p>
 </div>
