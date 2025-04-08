@@ -18,7 +18,7 @@
 <div align="center">
   <h1>🚀 Sobre mim</h1>
   <p>
-    💻 Desenvolvedor Fullstack com foco em Java e Angular  </br>
+    💻 Desenvolvedor Fullstack com foco sistemas web!  </br>
     👨‍💻 Atualmente desenvolvendo projetos com tecnologias modernas e escaláveis
   </p>
 </div>
