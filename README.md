@@ -9,8 +9,7 @@
   <p>Amante de café, código limpo e sistemas seguros.</p>
 
   <p>
-    🚀 Desenvolvedor Fullstack | ☕ Java + Spring Boot | 🌐 Angular + TypeScript <br />
-    ⚙️ DevOps | 💻 Linux & AWS | 👨‍💻 PCD
+    🚀 Desenvolvedor Front-end | 🌐 React + Angular | ☕ JavaScript | 💻 Linux & AWS | 👨‍💻 PCD
   </p>
 </div>
 
@@ -19,8 +18,8 @@
 <div align="center">
   <h2>🚀 Sobre mim</h2>
   <p>
-    💻 Sou desenvolvedor fullstack com foco em aplicações web seguras e escaláveis, utilizando Java e Angular. <br />
-    🔒 Atualmente me aprofundo em segurança da informação aplicada ao desenvolvimento com Java e TypeScript. <br />
+    💻 Sou desenvolvedor front-end com foco em aplicações web modernas e escaláveis, utilizando React e Angular. <br />
+    🔒 Atualmente me aprofundo em segurança da informação aplicada ao desenvolvimento com JavaScript e TypeScript. <br />
     ☁️ Também tenho experiência com infraestrutura em nuvem (AWS), Docker e Linux. <br />
     📍 PCD | São Paulo | Aberto a oportunidades remotas.
   </p>
@@ -31,13 +30,12 @@
 <div align="center">
   <h2>🛠️ Tecnologias & Ferramentas</h2>
   <p align="center">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-    <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   </p>
 </div>
