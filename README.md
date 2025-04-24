@@ -6,22 +6,22 @@
 
 <div align="center">
   <h1>Olá! 👋 Eu sou Gregório De Lucca ☕</h1>
-  <p>Amante de café, código limpo e experiências digitais bem feitas.</p>
+  <p>Amante de café, código limpo e segurança da informação.</p>
 
   <p>
-    🚀 Desenvolvedor Front-end | ⚛️ React | 🟢 Node.js | 💡 UX & UI | 💻 Linux & AWS | 👨‍💻 PCD
+    ☕ Desenvolvedor Java | 🛡️ Segurança da Informação | 🐧 Linux | ☁️ AWS | 🐳 Docker | 👨‍💻 PCD
   </p>
 </div>
 
 ---
 
 <div align="center">
-  <h2>🚀 Sobre mim</h2>
+  <h2>🧠 Sobre mim</h2>
   <p>
-    💻 Sou desenvolvedor front-end com foco em React e conhecimento em Node.js, criando aplicações web modernas, organizadas e com boa usabilidade. <br />
-    🎨 Tenho experiência com Sass para estilização, além de práticas que integram design e desenvolvimento. <br />
-    ☁️ Também atuo com infraestrutura em nuvem (AWS), Docker e Linux. <br />
-    🔐 Atualmente, me aprofundo em segurança da informação voltada ao desenvolvimento. <br />
+    ☕ Sou desenvolvedor com foco em Java, atuando no desenvolvimento de aplicações seguras e robustas. <br />
+    🛡️ Estou me especializando em segurança da informação aplicada ao desenvolvimento, com atenção às melhores práticas de proteção de dados e infraestrutura. <br />
+    🐧 Possuo experiência em ambientes Linux e conteinerização com Docker. <br />
+    ☁️ Tenho familiaridade com serviços de nuvem, especialmente AWS. <br />
     📍 PCD | São Paulo | Aberto a oportunidades remotas.
   </p>
 </div>
@@ -29,15 +29,14 @@
 ---
 
 <div align="center">
-  <h2>🛠️ Tecnologias & Ferramentas</h2>
+  <h2>⚙️ Tecnologias & Ferramentas</h2>
   <p align="center">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   </p>
 </div>
