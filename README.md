@@ -6,10 +6,10 @@
 
 <div align="center">
   <h1>Olá! 👋 Eu sou Gregório De Lucca ☕</h1>
-  <p>Amante de café, código limpo e segurança da informação.</p>
+  <p>Foco em segurança da informação, automação com Python e infraestrutura segura em nuvem.</p>
 
   <p>
-    ☕ Desenvolvedor Java | 🛡️ Segurança da Informação | 🐧 Linux | ☁️ AWS | 🐳 Docker | 👨‍💻 PCD
+    🛡️ Analista de Cibersegurança | 🐍 Python | 🐧 Linux | ☁️ AWS | 🐳 Docker | 👨‍💻 PCD
   </p>
 </div>
 
@@ -18,11 +18,11 @@
 <div align="center">
   <h2>🧠 Sobre mim</h2>
   <p>
-    ☕ Sou desenvolvedor com foco em Java, atuando no desenvolvimento de aplicações seguras e robustas. <br />
-    🛡️ Estou me especializando em segurança da informação aplicada ao desenvolvimento, com atenção às melhores práticas de proteção de dados e infraestrutura. <br />
-    🐧 Possuo experiência em ambientes Linux e conteinerização com Docker. <br />
-    ☁️ Tenho familiaridade com serviços de nuvem, especialmente AWS. <br />
-    📍 PCD | São Paulo | Aberto a oportunidades remotas.
+    🛡️ Analista de segurança da informação com experiência prática em testes de invasão (Red Team), ambientes Linux e servidores. <br />
+    ☁️ Cuido da infraestrutura em nuvem (AWS), banco de dados Firebird e servidores Linux (Red Hat) na empresa AASOFT. <br />
+    🐍 Utilizo Python para automação de tarefas e apoio na prevenção de ataques. <br />
+    🔐 Certificado em Cibersegurança e sempre buscando evoluir no setor. <br />
+    📍 São Paulo | PCD | Aberto a oportunidades remotas.
   </p>
 </div>
 
@@ -31,10 +31,7 @@
 <div align="center">
   <h2>⚙️ Tecnologias & Ferramentas</h2>
   <p align="center">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -71,6 +68,6 @@
 ---
 
 <div align="center">
-  ✨ Obrigado por visitar meu perfil! Estou sempre aberto a novas conexões e desafios. 🚀
+  ✨ Obrigado por visitar meu perfil! Aberto a colaborações e projetos na área de segurança ofensiva e defensiva. 🚀
 </div>
 
