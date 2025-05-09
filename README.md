@@ -1,10 +1,4 @@
 <div align="center">
-  <p>
-    <img src="https://github.com/user-attachments/assets/865c3681-1a63-464b-b5e2-f25b4a89eaa1" alt="Banner" />
-  </p>
-</div>
-
-<div align="center">
   <h1>Olá! 👋 Eu sou Gregório De Lucca ☕</h1>
   <p>Foco em segurança da informação, automação com Python e infraestrutura segura em nuvem.</p>
 
