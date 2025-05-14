@@ -1,22 +1,22 @@
 <div align="center">
-  <h1>Olá! 👋 Eu sou Gregório De Lucca ☕</h1>
-  <p>Foco em segurança da informação, automação com Python e infraestrutura segura em nuvem.</p>
+  <h1>Olá! 👋 Eu sou Gregório De Lucca 🖥️</h1>
+  <p>Desenvolvedor Front-End com foco em interfaces modernas, acessíveis e performáticas usando React e Next.js.</p>
 
   <p>
-    🛡️ Analista de Cibersegurança | 🐍 Python | 🐧 Linux | ☁️ AWS | 🐳 Docker | 👨‍💻 PCD
+    💻 React | ⚛️ Next.js | 🎨 UX/UI | 🌐 HTML/CSS/JS | 📦 Tailwind | 🧠 Acessibilidade | 👨‍💻 PCD
   </p>
 </div>
 
 ---
 
 <div align="center">
-  <h2>🧠 Sobre mim</h2>
+  <h2>👨‍💻 Sobre mim</h2>
   <p>
-    🛡️ Analista de segurança da informação com experiência prática em testes de invasão (Red Team), ambientes Linux e servidores. <br />
-    ☁️ Cuido da infraestrutura em nuvem (AWS), banco de dados Firebird e servidores Linux (Red Hat) na empresa AASOFT. <br />
-    🐍 Utilizo Python para automação de tarefas e apoio na prevenção de ataques. <br />
-    🔐 Certificado em Cibersegurança e sempre buscando evoluir no setor. <br />
-    📍 São Paulo | PCD | Aberto a oportunidades remotas.
+    🎯 Desenvolvedor Front-End apaixonado por criar interfaces dinâmicas, acessíveis e com foco na experiência do usuário. <br />
+    💼 Experiência com React, Next.js, Tailwind, integração com APIs REST e responsividade. <br />
+    🎨 Background em audiovisual e design me ajuda a entregar produtos visuais de alta qualidade. <br />
+    🚀 Participante de bootcamps da XP, Santander, Rockeseat e DIO com foco em React, .NET e Java. <br />
+    📍 São Paulo | PCD | Aberto a oportunidades remotas ou presenciais.
   </p>
 </div>
 
@@ -25,11 +25,27 @@
 <div align="center">
   <h2>⚙️ Tecnologias & Ferramentas</h2>
   <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </p>
+</div>
+
+---
+
+<div align="center">
+  <h2>🌟 Projetos em Destaque</h2>
+
+  <p>Alguns projetos que demonstram meu foco em performance, design e acessibilidade:</p>
+
+  🔗 [Portfólio React](https://seu-link-portfolio.vercel.app) — Portfólio pessoal com animações e integração com GitHub<br />
+  🔗 [Dashboard Financeiro](https://github.com/seuusuario/dashboard-financeiro-react) — Dashboard com autenticação e consumo de API<br />
+  🔗 [Clone Netflix](https://github.com/seuusuario/clone-netflix-react) — Interface responsiva baseada na Netflix, com consumo de API TMDB
+
 </div>
 
 ---
@@ -62,6 +78,6 @@
 ---
 
 <div align="center">
-  ✨ Obrigado por visitar meu perfil! Aberto a colaborações e projetos na área de segurança ofensiva e defensiva. 🚀
+  ✨ Obrigado por visitar meu perfil! Aberto a colaborações, freelas e oportunidades em React e front-end. 🚀
 </div>
 
