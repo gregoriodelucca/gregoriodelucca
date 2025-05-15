@@ -1,9 +1,9 @@
 <div align="center">
   <h1>Olá! 👋 Eu sou Gregório De Lucca 🖥️</h1>
-  <p>Desenvolvedor Front-End com foco em interfaces modernas, acessíveis e performáticas usando React e Next.js.</p>
+  <p>Desenvolvedor com foco em aplicações performáticas usando .NET como stack principal e React como secundária.</p>
 
   <p>
-    💻 React | ⚛️ Next.js | 🎨 UX/UI | 🌐 HTML/CSS/JS | 📦 Tailwind | 🧠 Acessibilidade | 👨‍💻 PCD
+    💻 .NET / C# | ⚛️ React | 🎨 UX/UI | 🌐 HTML/CSS/JS | 📦 Tailwind | 🧠 Acessibilidade | 👨‍💻 PCD
   </p>
 </div>
 
@@ -12,10 +12,10 @@
 <div align="center">
   <h2>👨‍💻 Sobre mim</h2>
   <p>
-    🎯 Desenvolvedor Front-End apaixonado por criar interfaces dinâmicas, acessíveis e com foco na experiência do usuário. <br />
-    💼 Experiência com React, Next.js, Tailwind, integração com APIs REST e responsividade. <br />
-    🎨 Background em audiovisual e design me ajuda a entregar produtos visuais de alta qualidade. <br />
-    🚀 Participante de bootcamps da XP, Santander, Rockeseat e DIO com foco em React, .NET e Java. <br />
+    🎯 Desenvolvedor com background em audiovisual e foco em criar interfaces modernas, acessíveis e performáticas. <br />
+    💼 Atuo principalmente com C# e .NET no desenvolvimento de aplicações robustas. React entra como tecnologia de apoio para interfaces dinâmicas e responsivas. <br />
+    🎨 Minha base em design me permite unir código e estética com foco em experiência do usuário. <br />
+    🚀 Participei de bootcamps DIO  com foco em .NET e React <br />
     📍 São Paulo | PCD | Aberto a oportunidades remotas ou presenciais.
   </p>
 </div>
@@ -25,11 +25,12 @@
 <div align="center">
   <h2>⚙️ Tecnologias & Ferramentas</h2>
   <p align="center">
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </p>
@@ -40,12 +41,11 @@
 <div align="center">
   <h2>🌟 Projetos em Destaque</h2>
 
-  <p>Alguns projetos que demonstram meu foco em performance, design e acessibilidade:</p>
+  <p>Alguns projetos que demonstram meu foco em aplicações sólidas com .NET e interfaces com React:</p>
 
   🔗 [Portfólio React](https://seu-link-portfolio.vercel.app) — Portfólio pessoal com animações e integração com GitHub<br />
   🔗 [Dashboard Financeiro](https://github.com/seuusuario/dashboard-financeiro-react) — Dashboard com autenticação e consumo de API<br />
-  🔗 [Clone Netflix](https://github.com/seuusuario/clone-netflix-react) — Interface responsiva baseada na Netflix, com consumo de API TMDB
-
+  🔗 [Sistema .NET + React](https://github.com/seuusuario/sistema-net-react) — Integração full stack com C# e .NET no backend
 </div>
 
 ---
@@ -78,6 +78,6 @@
 ---
 
 <div align="center">
-  ✨ Obrigado por visitar meu perfil! Aberto a colaborações, freelas e oportunidades em React e front-end. 🚀
+  ✨ Obrigado por visitar meu perfil! Aberto a colaborações, freelas e oportunidades em .NET e React. 🚀
 </div>
 
