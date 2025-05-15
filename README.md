@@ -3,7 +3,7 @@
   <p>Desenvolvedor com foco em aplicações performáticas usando .NET como stack principal e React como secundária.</p>
 
   <p>
-    💻 .NET / C# | ⚛️ React | 🎨 UX/UI | 🌐 HTML/CSS/JS | 📦 Tailwind | 🧠 Acessibilidade | 👨‍💻 PCD
+    💻 .NET / C# | ⚛️ React | 🧠 Desenvolvedor de software | 👨‍💻 PCD
   </p>
 </div>
 
