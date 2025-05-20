@@ -1,9 +1,9 @@
 <div align="center">
   <h1>Olá! 👋 Eu sou Gregório De Lucca 🖥️</h1>
-  <p>Desenvolvedor com foco em aplicações performáticas usando .NET como stack principal e React como secundária.</p>
+  <p>Desenvolvedor Front-end focado em criar interfaces modernas, acessíveis e performáticas, com experiência em React e Angular.</p>
 
   <p>
-    💻 .NET / C# | ⚛️ React | 🧠 Desenvolvedor de software | 👨‍💻 PCD
+    ⚛️ React | 🅰️ Angular | 💻 Developer front end  | 🎨 UX/UI Design
   </p>
 </div>
 
@@ -12,10 +12,10 @@
 <div align="center">
   <h2>👨‍💻 Sobre mim</h2>
   <p>
-    🎯 Desenvolvedor com background em audiovisual e foco em criar interfaces modernas, acessíveis e performáticas. <br />
-    💼 Atuo principalmente com C# e .NET no desenvolvimento de aplicações robustas. React entra como tecnologia de apoio para interfaces dinâmicas e responsivas. <br />
-    🎨 Minha base em design me permite unir código e estética com foco em experiência do usuário. <br />
-    🚀 Participei de bootcamps DIO  com foco em .NET e React <br />
+    🎯 Técnico e especialista em Front-end, com background em audiovisual, unindo código e design para entregar experiências digitais de alta qualidade.<br />
+    💼 Experiência com desenvolvimento de aplicações web responsivas e mobile usando React, Angular e React Native.<br />
+    🎨 Conhecimentos sólidos em UX/UI Design, garantindo interfaces intuitivas e visualmente agradáveis.<br />
+    🚀 Busco sempre evolução e aprimoramento contínuo das minhas habilidades técnicas e de design.<br />
     📍 São Paulo | PCD | Aberto a oportunidades remotas ou presenciais.
   </p>
 </div>
@@ -25,28 +25,29 @@
 <div align="center">
   <h2>⚙️ Tecnologias & Ferramentas</h2>
   <p align="center">
-    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+    <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/UX_UI-0A1931?style=for-the-badge&logo=figma&logoColor=white" />
   </p>
 </div>
-
-
 
 ---
 
 <div align="center">
   <h2>🌟 Projetos em Destaque</h2>
 
-  <p>Alguns projetos que demonstram meu foco em aplicações sólidas com .NET e interfaces com React:</p>
+  <p>Alguns projetos que demonstram meu foco em front-end e design:</p>
 
   🔗 [Portfólio React](https://seu-link-portfolio.vercel.app) — Portfólio pessoal com animações e integração com GitHub<br />
-  🔗 [Dashboard Financeiro](https://github.com/seuusuario/dashboard-financeiro-react) — Dashboard com autenticação e consumo de API<br />
-  🔗 [Sistema .NET + React](https://github.com/seuusuario/sistema-net-react) — Integração full stack com C# e .NET no backend
+  🔗 [Dashboard Financeiro React](https://github.com/seuusuario/dashboard-financeiro-react) — Dashboard com autenticação e consumo de API<br />
+  🔗 [App Mobile React Native](https://github.com/seuusuario/app-mobile-react-native) — Aplicativo mobile com React Native e Zustand para gerenciamento de estado
 </div>
 
 ---
@@ -79,6 +80,7 @@
 ---
 
 <div align="center">
-  ✨ Obrigado por visitar meu perfil! Aberto a colaborações, freelas e oportunidades em .NET e React. 🚀
+  ✨ Obrigado por visitar meu perfil! Aberto a colaborações, freelas e oportunidades em Front-end e design. 🚀
 </div>
+
 
