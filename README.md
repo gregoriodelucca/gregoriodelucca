@@ -9,7 +9,7 @@
   <p>Fullstack Web Developer focado em criar aplicações modernas, escaláveis e com interfaces acessíveis usando React, Angular e Node.js.</p>
 
   <p>
-    ⚛️ React | 🅰️ Angular | ⬢ Node.js | ☁️ AWS | 🐳 Docker | 🎨 TailwindCSS | 💅 SASS
+     | 🅰️ Angular | ⬢ Node.js | ☁️ AWS | ux/ui design | 🎨 TailwindCSS | 💅 SASS
   </p>
 </div>
 
@@ -18,10 +18,9 @@
 <div align="center">
   <h2>👨‍💻 Sobre mim</h2>
   <p>
-    🎯 Desenvolvedor Fullstack com experiência em front-end e back-end, unindo código e design para entregar soluções web de alta qualidade.<br />
-    💼 Desenvolvimento de aplicações utilizando React, Angular, Node.js e AWS para deploy e escalabilidade.<br />
+    🎯 Desenvolvedor front end angular  com experiência em front-end e motion designer, unindo código e design para entregar soluções web de alta qualidade.<br />
+    💼 Desenvolvimento web  utilizando  Angular, Node.js, mongodb  e AWS, para deploy e escalabilidade.<br />
     🎨 Habilidades avançadas em estilização com TailwindCSS e SASS, garantindo interfaces responsivas e modernas.<br />
-    🐳 Conhecimento em Docker para conteinerização e facilidade no deploy.<br />
     🚀 Sempre em busca de evolução técnica e boas práticas.<br />
     📍 São Paulo | PCD | Disponível para trabalho remoto ou presencial.
   </p>
@@ -32,11 +31,10 @@
 <div align="center">
   <h2>⚙️ Tecnologias & Ferramentas</h2>
   <p align="center">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Typescript-20232A?style=for-the-badge&logo=typescript&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
