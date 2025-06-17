@@ -5,7 +5,7 @@
     width="250" 
   />
   <h1>👋 Olá, Eu sou Gregório De Lucca</h1>
-  <h3>DevOps | Cloud | Linux | Automação</h3>
+  <h3>DevOps | Cloud | Linux | cibersegurança</h3>
 </div>
 
 ---
