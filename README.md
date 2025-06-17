@@ -3,14 +3,9 @@
     src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" 
     alt="Gif animado Gregório" 
     width="250" 
-    style="margin-bottom: 20px;"
   />
-  <h1>Olá! 👋 Eu sou Gregório De Lucca 🖥️</h1>
-  <p>Fullstack Web Developer focado em criar aplicações modernas, escaláveis e com interfaces acessíveis usando React, Angular e Node.js.</p>
-
-  <p>
-     | 🅰️ Angular | ⬢ Node.js | ☁️ AWS | ux/ui design | 🎨 TailwindCSS | 💅 SASS
-  </p>
+  <h1>👋 Olá, Eu sou Gregório De Lucca</h1>
+  <h3>DevOps | Cloud | Linux | Automação</h3>
 </div>
 
 ---
@@ -18,39 +13,42 @@
 <div align="center">
   <h2>👨‍💻 Sobre mim</h2>
   <p>
-    🎯 Desenvolvedor front end angular  com experiência em front-end e motion designer, unindo código e design para entregar soluções web de alta qualidade.<br />
-    💼 Desenvolvimento web  utilizando  Angular, Node.js, mongodb  e AWS, para deploy e escalabilidade.<br />
-    🎨 Habilidades avançadas em estilização com TailwindCSS e SASS, garantindo interfaces responsivas e modernas.<br />
-    🚀 Sempre em busca de evolução técnica e boas práticas.<br />
-    📍 São Paulo | PCD | Disponível para trabalho remoto ou presencial.
+    💻 Apaixonado por Infraestrutura, Cloud e Automação.<br/>
+    🐧 Trabalho com administração de servidores Linux (Red Hat, Ubuntu e derivados).<br/>
+    ☁️ Atuo na gestão de ambientes em nuvem com AWS.<br/>
+    ⚙️ Faço automação de processos usando Shell Script e Python.<br/>
+    🐳 Docker, Kubernetes, Git, CI/CD fazem parte do meu dia a dia.<br/>
+    🚀 Focado em DevOps, Cloud e Segurança.<br/>
+    📍 São Paulo | PCD | Disponível para remoto e presencial.
   </p>
 </div>
 
 ---
 
 <div align="center">
-  <h2>⚙️ Tecnologias & Ferramentas</h2>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Typescript-20232A?style=for-the-badge&logo=typescript&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-    <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <h2>🛠️ Tecnologias e Ferramentas</h2>
+  <p>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white"/>
   </p>
 </div>
 
 ---
 
 <div align="center">
-  <h2>🌟 Projetos em Destaque</h2>
-  <p>Alguns projetos que mostram meu foco em desenvolvimento web fullstack:</p>
-
-  🔗 [Portfólio React](https://seu-link-portfolio.vercel.app) — Portfólio pessoal com animações e integração com GitHub<br />
-  🔗 [Dashboard Financeiro (React/Node.js)](https://github.com/seuusuario/dashboard-financeiro) — Dashboard com autenticação e consumo de API REST<br />
-  🔗 [Sistema CRUD Angular/Node.js](https://github.com/seuusuario/sistema-crud-angular-node) — Aplicação fullstack com Angular no front e Node.js no backend
+  <h2>🚀 Projetos e Labs</h2>
+  <p>
+    🔗 <b>[Lab Infra AWS](https://github.com/seuusuario/lab-infra-aws)</b> — Infraestrutura como código na AWS com Terraform.<br/>
+    🔗 <b>[Automação com Shell Script](https://github.com/seuusuario/automacao-shell)</b> — Scripts de automação para servidores Linux.<br/>
+    🔗 <b>[Kubernetes Lab](https://github.com/seuusuario/kubernetes-lab)</b> — Deploy de aplicações com Kubernetes e Docker.<br/>
+  </p>
 </div>
 
 ---
@@ -59,13 +57,13 @@
   <h2>📞 Contato</h2>
   <p>
     <a href="mailto:gregoriodelucca@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/gregoriodelucca">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://wa.me/5511971108462">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
     </a>
   </p>
 </div>
@@ -73,24 +71,16 @@
 ---
 
 <div align="center">
-  <h2>📊 GitHub Stats</h2>
+  <h2>📊 Estatísticas GitHub</h2>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=gregoriodelucca&show_icons=true&theme=radical" alt="Estatísticas do GitHub" /><br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregoriodelucca&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+    <img src="https://github-readme-stats.vercel.app/api?username=gregoriodelucca&show_icons=true&theme=radical" /><br />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregoriodelucca&layout=compact&theme=radical" />
   </p>
 </div>
 
 ---
 
 <div align="center">
-  ✨ Obrigado por visitar meu perfil! Aberto a colaborações, freelas e oportunidades em desenvolvimento web fullstack. 🚀
+  ✨ Obrigado por visitar meu perfil! Aberto para colaborações, freelas e oportunidades em DevOps, Cloud e Infraestrutura Linux 🚀
 </div>
 
-  </p>
-</div>
-
----
-
-<div align="center">
-  ✨ Obrigado por visitar meu perfil! Aberto a colaborações, freelas e oportunidades em Front-end e design. 🚀
-</div>
