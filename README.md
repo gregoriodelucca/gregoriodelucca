@@ -39,18 +39,6 @@
     <img src="https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white"/>
   </p>
 </div>
-
----
-
-<div align="center">
-  <h2>🚀 Projetos e Labs</h2>
-  <p>
-    🔗 <b>[Lab Infra AWS](https://github.com/seuusuario/lab-infra-aws)</b> — Infraestrutura como código na AWS com Terraform.<br/>
-    🔗 <b>[Automação com Shell Script](https://github.com/seuusuario/automacao-shell)</b> — Scripts de automação para servidores Linux.<br/>
-    🔗 <b>[Kubernetes Lab](https://github.com/seuusuario/kubernetes-lab)</b> — Deploy de aplicações com Kubernetes e Docker.<br/>
-  </p>
-</div>
-
 ---
 
 <div align="center">
