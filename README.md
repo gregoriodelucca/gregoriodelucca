@@ -4,8 +4,9 @@
     alt="Gif animado Gregório" 
     width="250" 
   />
-  <h1>👋 Olá, Eu sou Gregório De Lucca</h1>
-  <h3>DevOps | Cloud | Linux | cibersegurança</h3>
+  
+  <h1>👋 Olá, eu sou Gregório De Lucca</h1>
+  <h3>Fullstack Web Developer | React | Next.js | Node.js | MongoDB | AWS | UX/UI Design</h3>
 </div>
 
 ---
@@ -13,12 +14,11 @@
 <div align="center">
   <h2>👨‍💻 Sobre mim</h2>
   <p>
-    💻 Apaixonado por Infraestrutura, Cloud e Automação.<br/>
-    🐧 Trabalho com administração de servidores Linux (Red Hat, Ubuntu e derivados).<br/>
-    ☁️ Atuo na gestão de ambientes em nuvem com AWS.<br/>
-    ⚙️ Faço automação de processos usando Shell Script e Python.<br/>
-    🐳 Docker, Kubernetes, Git, CI/CD fazem parte do meu dia a dia.<br/>
-    🚀 Focado em DevOps, Cloud e Segurança.<br/>
+    💻 Sou desenvolvedor Fullstack Web apaixonado por tecnologia e design.<br/>
+    🚀 Trabalho com desenvolvimento de aplicações web modernas utilizando React, Next.js e Node.js.<br/>
+    🗄️ Banco de dados com MongoDB e integração com AWS na nuvem.<br/>
+    🎨 Também tenho conhecimento em UX/UI Design, criando interfaces modernas, intuitivas e responsivas.<br/>
+    ☁️ Apaixonado por Cloud, desenvolvimento serverless e soluções modernas.<br/>
     📍 São Paulo | PCD | Disponível para remoto e presencial.
   </p>
 </div>
@@ -28,17 +28,19 @@
 <div align="center">
   <h2>🛠️ Tecnologias e Ferramentas</h2>
   <p>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white"/>
+    <img src="https://img.shields.io/badge/UX%2FUI-Design-blueviolet?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   </p>
 </div>
+
 ---
 
 <div align="center">
@@ -69,6 +71,7 @@
 ---
 
 <div align="center">
-  ✨ Obrigado por visitar meu perfil! Aberto para colaborações, freelas e oportunidades em DevOps, Cloud e Infraestrutura Linux 🚀
+  ✨ Obrigado por visitar meu perfil! Aberto para colaborações, freelas e oportunidades em desenvolvimento Fullstack Web, UX/UI e Cloud 🚀
 </div>
+
 
