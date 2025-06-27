@@ -30,7 +30,7 @@
 <div align="center">
   <h2>📘 Formação & Experiência</h2>
   <p>
-    🐧 Meu primeiro contato com <strong>audiovisual</strong> foi um curso técnico pelo senac eu aprendi premiere e after effects 2d e  3d <br/>
+    🧑‍💻🎬 Meu primeiro contato com <strong>audiovisual</strong> foi um curso técnico pelo senac eu aprendi premiere e after effects 2d e  3d <br/>
     Desde então foram mais de 10 anos de audiovisual, porém acabei migrando para desenvolvimento web em 2020.<br/><br/>
  🎓 Atualmente estou me especializando em <strong>Bacharelado em Engenharia de Software</strong> pela <strong>Universidade Cruzeiro do Sul</strong>.<br/>
     Em breve, Engenheiro de Software por formação!<br/><br/>
