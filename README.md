@@ -29,11 +29,12 @@
 <div align="center">
   <h2>📘 Formação & Experiência</h2>
   <p>
-    🧑‍💻🎬 Meu primeiro contato com <strong>audiovisual</strong> foi um curso técnico pelo SENAC, onde aprendi <strong>Premiere</strong> e <strong>After Effects</strong> 2D e 3D.<br/>
-    Foram mais de 10 anos de atuação no audiovisual antes da transição para o desenvolvimento de software.<br/><br/>
+    🧑‍💻 Meu primeiro contato com <strong>Java</strong> foi em <strong>2014</strong>, através de um curso técnico pelo <strong>IPED</strong>.<br/>
+    Em <strong>2016</strong>, comecei a utilizar <strong>Linux</strong>, o que me aproximou ainda mais do mundo da tecnologia.<br/>
+    Atuei em 2016 trabalhando até 2020 na área de <strong>como sysadmin</strong>, mas foi nesse período que iniciei minha transição para o desenvolvimento de software, com foco em <strong>back-         end</strong>.<br/><br/>
     🎓 Atualmente estou cursando <strong>Engenharia de Software</strong> pela <strong>Universidade Cruzeiro do Sul</strong>.<br/>
-    🔭 Trabalho com <strong>desenvolvimento web</strong>, automações e projetos pessoais, utilizando <strong>Java, Spring Boot, Node.js</strong> e bancos <strong>SQL/MongoDB</strong>.<br/>
-    🌱 Estou me aprofundando cada vez mais em <strong>back-end Java</strong> com foco em <strong>APIs REST, segurança e cloud</strong>.
+    🔭 Meu trabalho envolve <strong>servidores, automação com Node.js</strong> e, no momento, estou me especializando em <strong>Java, Spring Boot e Spring Security</strong>.<br/>
+    🌱 Estou me aprofundando cada vez mais em <strong>back-end Java</strong> com foco em <strong>APIs REST, segurança e aplicações cloud-native</strong>.
   </p>
 </div>
 
