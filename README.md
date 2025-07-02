@@ -6,7 +6,7 @@
   />
 
   <h1>👋 Olá, seja bem-vindo(a) ao meu perfil!</h1>
-  <h3>Sou Gregório De Lucca — Desenvolvedor Back-End com foco em Java, Spring Boot e Node.js</h3>
+  <h3>Sou Gregório De Lucca — Desenvolvedor Back-End especialista em Node.js e NestJS</h3>
 </div>
 
 ---
@@ -14,13 +14,12 @@
 <div align="center">
   <h2>✨ Minha trajetória</h2>
   <p>
-    Meu primeiro contato com tecnologia foi em <strong>2016</strong>, usando <strong>Linux</strong> e aprendendo os primeiros passos com <strong>Java</strong>.<br/>
-    Porém, foi a partir de <strong>2023</strong> que foquei de forma profissional no <strong>desenvolvimento back-end</strong>, estudando <strong>Java com Spring Boot, Spring Security</strong> e tecnologias modernas da web.<br/><br/>
-    Também tenho conhecimento em <strong>Node.js</strong> e experiência com banco de dados <strong>SQL</strong> e <strong>NoSQL</strong>.<br/>
-    Concluí bootcamps profissionais como o <strong>Claro - Java com Spring Boot</strong> e o <strong>Bradesco - Java Cloud Native</strong> pela DIO, fortalecendo ainda mais minha base técnica.<br/><br/>
-    🌟 Quero registrar meus sinceros e eternos agradecimentos ao <strong><a href="https://github.com/fabioaacarneiro">Fábio Carneiro</a></strong>,<br/>
-    uma pessoa que sempre se dispôs a me ajudar, ensinar, corrigir minhas falhas e contribuir não só para meu crescimento profissional,<br/>
-    mas também pessoal. De coração: muito obrigado, Fábio! 🙏<br/><br/>
+    Meu primeiro contato com tecnologia foi em <strong>2016</strong>, quando comecei a aprender Linux e dar meus primeiros passos na programação.<br/>
+    Desde <strong>2023</strong>, foquei minha carreira profissional em desenvolvimento Back-End com ênfase em <strong>Node.js</strong> e <strong>NestJS</strong>, construindo aplicações escaláveis e robustas.<br/><br/>
+    Tenho experiência com bancos de dados <strong>SQL</strong> e <strong>NoSQL</strong>, além de automação e infraestrutura em nuvem usando <strong>AWS</strong> e <strong>Docker</strong>.<br/>
+    Concluí bootcamps profissionais como <strong>Node.js + NestJS Fundamentals</strong> pela DIO, que fortaleceram minha base técnica.<br/><br/>
+    🌟 Quero agradecer especialmente ao <strong><a href="https://github.com/fabioaacarneiro">Fábio Carneiro</a></strong>,<br/>
+    que sempre me apoiou, ensinou e incentivou meu crescimento profissional e pessoal. Muito obrigado, Fábio! 🙏<br/><br/>
   </p>
 </div>
 
@@ -29,12 +28,11 @@
 <div align="center">
   <h2>📘 Formação & Experiência</h2>
   <p>
-    🧑‍💻 Meu primeiro contato com <strong>Java</strong> foi em <strong>2014</strong>, através de um curso técnico pelo <strong>IPED</strong>.<br/>
-    Em <strong>2016</strong>, comecei a utilizar <strong>Linux</strong>, o que me aproximou ainda mais do mundo da tecnologia.<br/>
-    Atuei em 2016 trabalhando até 2020 na área de <strong>como sysadmin</strong>, mas foi nesse período que iniciei minha transição para o desenvolvimento de software, com foco em <strong>back-         end</strong>.<br/><br/>
-    🎓 Atualmente estou cursando <strong>Engenharia de Software</strong> pela <strong>Universidade Cruzeiro do Sul</strong>.<br/>
-    🔭 Meu trabalho envolve <strong>servidores, automação com Node.js</strong> e, no momento, estou me especializando em <strong>Java, Spring Boot e Spring Security</strong>.<br/>
-    🌱 Estou me aprofundando cada vez mais em <strong>back-end Java</strong> com foco em <strong>APIs REST, segurança e aplicações cloud-native</strong>.
+    🧑‍💻 Iniciei meus estudos em tecnologia em 2014 com cursos técnicos e Linux.<br/>
+    Trabalhei como sysadmin até 2020, quando comecei a focar em desenvolvimento Back-End.<br/><br/>
+    🎓 Atualmente curso Engenharia de Software na Universidade Cruzeiro do Sul.<br/>
+    🔭 No dia a dia, atuo como desenvolvedor Back-End especialista em Node.js e NestJS, construindo APIs, microserviços e gerenciando infraestrutura na nuvem.<br/>
+    🌱 Estou em constante evolução para me aprofundar cada vez mais em arquitetura de software e DevOps.
   </p>
 </div>
 
@@ -43,15 +41,16 @@
 <div align="center">
   <h2>🛠️ Tecnologias e Ferramentas</h2>
   <p>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   </p>
 </div>
