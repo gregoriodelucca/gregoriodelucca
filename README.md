@@ -6,7 +6,7 @@
   />
 
   <h1>👋 Olá, seja bem-vindo(a) ao meu perfil!</h1>
-  <h3>Sou Gregório De Lucca — Desenvolvedor Front-End especializado em React e Angular</h3>
+  <h3>Sou Gregório De Lucca — Desenvolvedor Front-End com foco em Web e Mobile utilizando React e React Native</h3>
 </div>
 
 ---
@@ -16,8 +16,8 @@
   <p>
     Sou formado em <strong>Produção Audiovisual pelo SENAC</strong> desde 2010, com mais de 10 anos de experiência criativa e técnica.<br/>
     Em <strong>2020</strong>, decidi migrar para o mundo da tecnologia, unindo minha bagagem visual com o desenvolvimento Front-End.<br/><br/>
-    Hoje, me especializo em <strong>React, Angular e Next.js</strong>, criando interfaces modernas, acessíveis e responsivas.<br/>
-    Também tenho experiência com <strong>Sass, Bootstrap, Node.js</strong> e deploys em ambientes cloud com <strong>AWS</strong>.<br/><br/>
+    Hoje, me especializo em <strong>React, React Native e Next.js</strong>, criando interfaces modernas, acessíveis e responsivas para Web e Mobile.<br/>
+    Tenho experiência com <strong>Sass, Bootstrap, Node.js</strong> e também com práticas de <strong>UX/UI Design</strong>.<br/><br/>
     🌟 Sou PCD (Pessoa com Deficiência) e estou em busca de oportunidades afirmativas ou inclusivas como Desenvolvedor Front-End.
   </p>
 </div>
@@ -29,7 +29,7 @@
   <p>
     🎓 Formado em Produção Audiovisual pelo SENAC (2010).<br/>
     💻 Migrei para tecnologia em 2020, estudando em bootcamps como DIO, Orange Tech e programas da NTT Data.<br/>
-    👨‍💻 Foco atual em Front-End com React, Angular e integração com APIs REST.<br/>
+    👨‍💻 Foco atual em Front-End com React (Web e Mobile), Next.js e integração com APIs REST.<br/>
     🌱 Estou em constante evolução, aprendendo sobre TypeScript, arquitetura de componentes, animações com Lottie e melhores práticas de UX/UI.<br/><br/>
     🌟 Quero agradecer especialmente ao <strong><a href="https://github.com/fabioaacarneiro">Fábio Carneiro</a></strong>,<br/>
     que sempre me apoiou, ensinou e incentivou meu crescimento profissional e pessoal. Muito obrigado, Fábio! 🙏<br/>
@@ -44,12 +44,12 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   </p>
 </div>
@@ -86,3 +86,5 @@
 <div align="center">
   🚀 Obrigado por visitar meu perfil! Estou sempre aberto a trocar ideias, colaborar e crescer com a comunidade tech!
 </div>
+
+
