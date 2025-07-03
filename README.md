@@ -28,7 +28,7 @@
   <h2>📘 Formação & Experiência</h2>
   <p>
     🎓 Formado em Produção Audiovisual pelo SENAC (2010).<br/>
-    💻 Migrei para tecnologia em 2020, estudando em bootcamps como DIO, Orange Tech e programas da NTT Data.<br/>
+    💻 Migrei para tecnologia em 2020, e estou formando em faculdade bacharel engenharia em cruzeiro do sul.<br/>
     👨‍💻 Foco atual em Front-End com React (Web e Mobile), Next.js e integração com APIs REST.<br/>
     🌱 Estou em constante evolução, aprendendo sobre TypeScript, arquitetura de componentes, animações com Lottie e melhores práticas de UX/UI.<br/><br/>
     🌟 Quero agradecer especialmente ao <strong><a href="https://github.com/fabioaacarneiro">Fábio Carneiro</a></strong>,<br/>
