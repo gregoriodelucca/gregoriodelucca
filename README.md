@@ -1,12 +1,12 @@
 <div align="center">
   <img 
-    src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" 
+    src="="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" 
     alt="Gif animado Gregório" 
     width="250" 
   />
 
   <h1>👋 Olá, seja bem-vindo(a) ao meu perfil!</h1>
-  <h3>Sou Gregório De Lucca — Desenvolvedor Front-End com foco em Web e Mobile utilizando React e React Native</h3>
+  <h3>Sou Gregório De Lucca — Desenvolvedor Front-End React Jr., com foco em aplicações Web utilizando React e Next.js</h3>
 </div>
 
 ---
@@ -14,11 +14,11 @@
 <div align="center">
   <h2>✨ Minha trajetória</h2>
   <p>
-    Sou formado em <strong>Produção Audiovisual pelo SENAC</strong> desde 2010, com mais de 10 anos de experiência criativa e técnica.<br/>
-    Em <strong>2020</strong>, decidi migrar para o mundo da tecnologia, unindo minha bagagem visual com o desenvolvimento Front-End.<br/><br/>
-    Hoje, me especializo em <strong>React, React Native e Next.js</strong>, criando interfaces modernas, acessíveis e responsivas para Web e Mobile.<br/>
-    Tenho experiência com <strong>Sass, Bootstrap, Node.js</strong> e também com práticas de <strong>UX/UI Design</strong>.<br/><br/>
-    🌟 Sou PCD (Pessoa com Deficiência) e estou em busca de oportunidades afirmativas ou inclusivas como Desenvolvedor Front-End.
+    Sou formado em <strong>Produção Audiovisual pelo SENAC</strong>, e atuei por mais de 10 anos com conteúdo criativo e técnico.<br/>
+    Em <strong>2020</strong>, iniciei minha transição para a área de tecnologia, unindo minha bagagem visual ao desenvolvimento Front-End.<br/><br/>
+    Hoje, atuo com <strong>React e Next.js</strong>, desenvolvendo interfaces web modernas, acessíveis e responsivas.<br/>
+    Tenho conhecimentos em <strong>Sass, Tailwind CSS, Bootstrap</strong> e princípios de <strong>UX/UI Design</strong>.<br/><br/>
+    🌟 Sou PCD (Pessoa com Deficiência) e estou em busca de oportunidades inclusivas como Desenvolvedor Front-End.
   </p>
 </div>
 
@@ -27,12 +27,11 @@
 <div align="center">
   <h2>📘 Formação & Experiência</h2>
   <p>
-    🎓 Formado em Produção Audiovisual pelo SENAC (2010).<br/>
-    💻 Migrei para tecnologia em 2020, e estou formando em faculdade bacharel engenharia em cruzeiro do sul.<br/>
-    👨‍💻 Foco atual em Front-End com React (Web e Mobile), Next.js e integração com APIs REST.<br/>
-    🌱 Estou em constante evolução, aprendendo sobre TypeScript, arquitetura de componentes, animações com Lottie e melhores práticas de UX/UI.<br/><br/>
-    🌟 Quero agradecer especialmente ao <strong><a href="https://github.com/fabioaacarneiro">Fábio Carneiro</a></strong>,<br/>
-    que sempre me apoiou, ensinou e incentivou meu crescimento profissional e pessoal. Muito obrigado, Fábio! 🙏<br/>
+    🎓 Formado em Produção Audiovisual (SENAC - 2010)<br/>
+    💻 Migrei para tecnologia em 2020 e atualmente curso Bacharelado em Engenharia de Software na Cruzeiro do Sul.<br/>
+    👨‍💻 Foco atual em desenvolvimento Front-End com React e Next.js, integrando APIs REST e aplicando conceitos de acessibilidade e design responsivo.<br/>
+    🌱 Em constante evolução, estudando TypeScript, boas práticas de arquitetura de componentes e animações com Lottie.<br/><br/>
+    🙏 Agradecimento especial ao <strong><a href="https://github.com/fabioaacarneiro">Fábio Carneiro</a></strong>, que tem sido essencial na minha jornada profissional e pessoal.
   </p>
 </div>
 
@@ -44,10 +43,9 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -84,7 +82,8 @@
 ---
 
 <div align="center">
-  🚀 Obrigado por visitar meu perfil! Estou sempre aberto a trocar ideias, colaborar e crescer com a comunidade tech!
+  🚀 Obrigado por visitar meu perfil! Estou sempre aberto a trocar ideias, colaborar e crescer com a comunidade tech.
 </div>
+
 
 
