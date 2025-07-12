@@ -1,12 +1,13 @@
 <div align="center">
   <img 
-    src="="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" 
+    src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" 
     alt="Gif animado Gregório" 
     width="250" 
   />
 
   <h1>👋 Olá, seja bem-vindo(a) ao meu perfil!</h1>
-  <h3>Sou Gregório De Lucca — Desenvolvedor Front-End React Jr., com foco em aplicações Web utilizando React e Next.js</h3>
+  <h3>Desenvolvedor Fullstack Júnior com foco em aplicações modernas, seguras e escaláveis, além de experiência na manutenção e evolução de sistemas legados.
+</h3>
 </div>
 
 ---
@@ -14,24 +15,10 @@
 <div align="center">
   <h2>✨ Minha trajetória</h2>
   <p>
-    Sou formado em <strong>Produção Audiovisual pelo SENAC</strong>, e atuei por mais de 10 anos com conteúdo criativo e técnico.<br/>
-    Em <strong>2020</strong>, iniciei minha transição para a área de tecnologia, unindo minha bagagem visual ao desenvolvimento Front-End.<br/><br/>
-    Hoje, atuo com <strong>React e Next.js</strong>, desenvolvendo interfaces web modernas, acessíveis e responsivas.<br/>
-    Tenho conhecimentos em <strong>Sass, Tailwind CSS, Bootstrap</strong> e princípios de <strong>UX/UI Design</strong>.<br/><br/>
-    🌟 Sou PCD (Pessoa com Deficiência) e estou em busca de oportunidades inclusivas como Desenvolvedor Front-End.
-  </p>
-</div>
-
----
-
-<div align="center">
-  <h2>📘 Formação & Experiência</h2>
-  <p>
-    🎓 Formado em Produção Audiovisual (SENAC - 2010)<br/>
-    💻 Migrei para tecnologia em 2020 e atualmente curso Bacharelado em Engenharia de Software na Cruzeiro do Sul.<br/>
-    👨‍💻 Foco atual em desenvolvimento Front-End com React e Next.js, integrando APIs REST e aplicando conceitos de acessibilidade e design responsivo.<br/>
-    🌱 Em constante evolução, estudando TypeScript, boas práticas de arquitetura de componentes e animações com Lottie.<br/><br/>
-    🙏 Agradecimento especial ao <strong><a href="https://github.com/fabioaacarneiro">Fábio Carneiro</a></strong>, que tem sido essencial na minha jornada profissional e pessoal.
+    Desde 2020, venho me dedicando integralmente ao desenvolvimento de software, com foco em aplicações web modernas e seguras.<br/>
+    Concluí diversos bootcamps em empresas como Santander, XP Inc., Claro, Vivo, Bradesco e Microsoft, consolidando uma base prática sólida.<br/><br/>
+    Hoje, atuo no desenvolvimento de aplicações completas, desde front-end responsivo até back-end robusto e APIs seguras.<br/>
+    🌟 Pessoa com Deficiência (CID Q35.3), buscando oportunidades inclusivas na área de desenvolvimento.
   </p>
 </div>
 
@@ -40,17 +27,24 @@
 <div align="center">
   <h2>🛠️ Tecnologias e Ferramentas</h2>
   <p>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   </p>
 </div>
+
 
 ---
 
@@ -84,6 +78,7 @@
 <div align="center">
   🚀 Obrigado por visitar meu perfil! Estou sempre aberto a trocar ideias, colaborar e crescer com a comunidade tech.
 </div>
+
 
 
 
