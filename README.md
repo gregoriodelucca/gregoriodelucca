@@ -12,20 +12,16 @@
 
 ---
 
-<div align="center">
-  <h2>✨ Minha trajetória</h2>
-  <p>
-    Desde 2020, venho me dedicando integralmente ao desenvolvimento de software, com foco em aplicações web modernas e seguras.<br/>
-    Concluí diversos bootcamps em empresas como Santander, XP Inc., Claro, Vivo, Bradesco e Microsoft, consolidando uma base prática sólida.<br/><br/>
-    Hoje, atuo no desenvolvimento de aplicações completas, desde front-end responsivo até back-end robusto e APIs seguras.<br/>
-    🌟 Pessoa com Deficiência (CID Q35.3), buscando oportunidades inclusivas na área de desenvolvimento.
-  </p>
-</div>
+Desde 2020, venho me dedicando integralmente ao desenvolvimento de software, com foco em aplicações modernas e seguras para sistemas, web e mobile.
+Concluí diversos bootcamps em empresas como Santander, XP Inc., Claro, Vivo, Bradesco e Microsoft, consolidando uma base prática sólida.
+
+Hoje, atuo no desenvolvimento de aplicações completas, desde front-end responsivo até back-end robusto e APIs seguras.
+ Pessoa com Deficiência (CID Q35.3), empre me especializando e me aplicando no desenvolvimento para entregar o melhor em cada projeto.
 
 ---
 
 <div align="center">
-  <h2>🛠️ Tecnologias e Ferramentas</h2>
+  <h2>🛠 Tecnologias e Ferramentas</h2>
   <p>
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
@@ -49,7 +45,7 @@
 ---
 
 <div align="center">
-  <h2>📞 Contato</h2>
+  <h2> Contato</h2>
   <p>
     <a href="mailto:gregoriodelucca@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -66,7 +62,7 @@
 ---
 
 <div align="center">
-  <h2>📊 Estatísticas GitHub</h2>
+  <h2>Estatísticas GitHub</h2>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=gregoriodelucca&show_icons=true&theme=radical" /><br />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregoriodelucca&layout=compact&theme=radical" />
@@ -76,7 +72,7 @@
 ---
 
 <div align="center">
-  🚀 Obrigado por visitar meu perfil! Estou sempre aberto a trocar ideias, colaborar e crescer com a comunidade tech.
+   Obrigado por visitar meu perfil! Estou sempre aberto a trocar ideias!.
 </div>
 
 
