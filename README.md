@@ -1,7 +1,4 @@
 
-
-
-
 <div align="center">
   <img 
     src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" 
@@ -10,52 +7,47 @@
   />
 
   <h1>👋 Olá, seja bem-vindo(a) ao meu perfil!</h1>
-  <h3>Analista de Cibersegurança Júnior | Focado em proteção de sistemas, análise de vulnerabilidades e automação para segurança defensiva.</h3>
+  <h3>Desenvolvedor Front-End Angular Júnior | Focado em criação de aplicações web modernas, responsivas e de alta performance.</h3>
 </div>
 
 ---
 
-Desde 2020, venho me dedicando à área de Cibersegurança, com foco em práticas de segurança ofensiva e defensiva, hardening de sistemas, monitoramento e resposta a incidentes.  
-Sou certificado pelo bootcamp Santander em Analista de Cibersegurança e pela Microsoft (SL-900).  
+Desde 2023, venho me especializando em desenvolvimento Front-End com Angular, realizando bootcamps intensivos pela plataforma DIO, com certificados emitidos por grandes empresas como Santander, Banco Pan, NTT Data, iFood e Avanade.
 
-Tenho experiência prática em:  
-- Hardening e configuração segura de servidores Linux e Windows  
-- Análise e mitigação de vulnerabilidades  
-- Automação de processos de segurança com Python e Shell Script  
-- Monitoramento de redes, logs e ambientes em nuvem (Azure e AWS)  
-- Ferramentas como Nmap, Wireshark, OpenVAS, entre outras  
+Tenho experiência prática com:  
+- Angular (versões 8 a 17, com foco em Angular 15+)  
+- HTML5, CSS3, JavaScript e TypeScript  
+- Desenvolvimento de Single Page Applications (SPA) com rotas, componentes e consumo de APIs REST  
+- Versionamento de código com Git e GitHub  
+- Noções básicas de AWS para deploy e infraestrutura front-end  
+- Metodologias ágeis (SCRUM, sprints, daily meetings)
 
-Pessoa com Deficiência (CID Q35.3), em constante aprendizado e aplicada na entrega de soluções seguras e confiáveis.
+Sou Pessoa com Deficiência (CID Q35.3), dedicado e em constante aprendizado para entregar soluções de qualidade.
 
 ---
 
 <div align="center">
   <h2>🛠 Tecnologias e Ferramentas</h2>
   <p>
-    <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Shell_Script-89E051?style=for-the-badge&logo=gnu-bash&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Nmap-7B0E0E?style=for-the-badge&logo=nmap&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Wireshark-0080FF?style=for-the-badge&logo=wireshark&logoColor=white"/>
-    <img src="https://img.shields.io/badge/OpenVAS-4682B4?style=for-the-badge&logo=security&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   </p>
 </div>
 
 ---
 
 <div align="center">
-  <h2>📂 Projetos de Segurança</h2>
+  <h2>📂 Projetos em Angular</h2>
   <ul style="list-style-type:none;">
-    <li>🔒 Scripts de automação para análise de logs e monitoramento de segurança</li>
-    <li>🛡 Hardening de servidores Linux com foco em segurança</li>
-    <li>🕵️‍♂️ Estudos e testes práticos de pentest e análise de vulnerabilidades</li>
+    <li>📄 Blog SPA em Angular com rotas, componentes e consumo de API simulada</li>
+    <li>📝 Clone BuzzFeed: quiz interativo com lógica de pontuação e design responsivo</li>
+    <li>🎮 Pokédex em JavaScript: integração com PokeAPI para listagem dinâmica e responsiva</li>
   </ul>
 </div>
 
@@ -64,8 +56,11 @@ Pessoa com Deficiência (CID Q35.3), em constante aprendizado e aplicada na entr
 <div align="center">
   <h2>📜 Certificações</h2>
   <p>
-    - Analista de Cibersegurança — Bootcamp Santander<br/>
-    - Microsoft Security, Compliance, and Identity Fundamentals (SL-900)<br/>
+    - Desenvolvimento Front-End Angular – Banco Pan / DIO<br/>
+    - Santander Bootcamp Full Stack Java+Angular – DIO<br/>
+    - NTT Data Angular Developer – DIO<br/>
+    - iFood Web Front-End Angular – DIO<br/>
+    - Avanade Angular com Boas Práticas – DIO
   </p>
 </div>
 
@@ -87,11 +82,3 @@ Pessoa com Deficiência (CID Q35.3), em constante aprendizado e aplicada na entr
 </div>
 
 ---
-
-<div align="center">
-  <h2>📊 Estatísticas GitHub</h2>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=gregoriodelucca&show_icons=true&theme=radical" /><br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregoriodelucca&layout=compact&theme=radical" />
-  </p>
-</div>
