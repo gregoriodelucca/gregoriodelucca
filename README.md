@@ -11,7 +11,7 @@
 
 ---
 
-Sou Gregorio de Lucca, desenvolvedor Front-End com foco na criação de interfaces modernas, acessíveis e centradas no usuário. Estudo de forma intensa desde 2023, participando de bootcamps práticos promovidos por empresas como santander e banco pan!
+Sou Gregorio de Lucca, desenvolvedor Front-End com foco na criação de interfaces modernas, acessíveis e centradas no usuário. Estudo de forma intensa desde 2024, participando de bootcamps práticos promovidos por empresas como santander e banco pan!
 
 Tenho experiência sólida com **Angular** e grande interesse em **UX/UI Design**, aplicando boas práticas de acessibilidade, responsividade e performance visual.
 
