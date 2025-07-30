@@ -5,28 +5,28 @@
     width="250" 
   />
 
-  <h1>👋 Olá, seja bem-vindo(a) ao meu perfil!</h1>
-  <h3>Front-End Developer | Angular • UX/UI • Acessibilidade</h3>
+  <h1>👋 Olá, seja bem-vindo(a)!</h1>
+  <h3>Front-End Developer | Angular • aws • UX/UI • Acessibilidade</h3>
 </div>
 
 ---
 
-Sou Gregorio de Lucca, desenvolvedor Front-End com foco na criação de interfaces modernas, acessíveis e centradas no usuário. Estudo de forma intensa desde 2024, participando de bootcamps práticos promovidos por empresas como santander e banco pan!
+### 👨‍💻 Sobre mim
+Desenvolvedor **front-end especialista em Angular**, com experiência prática na criação de **interfaces modernas, responsivas e acessíveis**.  
+Atuo no desenvolvimento de **aplicações escaláveis e seguras** utilizando **Angular + TypeScript**, sempre integradas a **APIs REST**.  
 
-Tenho experiência sólida com **Angular** e grande interesse em **UX/UI Design**, aplicando boas práticas de acessibilidade, responsividade e performance visual.
+Tenho experiência em **sistemas corporativos, ERP e soluções de grande porte**, aplicando boas práticas de **performance, acessibilidade e qualidade de código**.  
 
-🧠 Pessoa com Deficiência (PcD – CID Q35.3), comprometido, resiliente e em constante evolução profissional.
+🧠 **Pessoa com Deficiência (PcD – CID Q35.3)** • Comprometido, resiliente e em constante evolução profissional.  
 
 ---
 
 ### 🚀 Habilidades
-
-- Angular (v8 a v17 — foco em v15+)
-- HTML5, CSS3, JavaScript, TypeScript
-- Acessibilidade Web (WCAG, semântica, ARIA)
-- UX/UI Design aplicado ao desenvolvimento front-end
-- Git e GitHub
-- Metodologias Ágeis (Scrum, Kanban, dailies)
+- **Frameworks:** Angular (v8 a v17, foco em v15+), React  
+- **Linguagens:** HTML5, CSS3, JavaScript, TypeScript  
+- **Boas práticas:** Acessibilidade Web (WCAG, semântica, ARIA), UX/UI aplicado ao front-end  
+- **Ferramentas:** Git, GitHub, Figma  
+- **Metodologias:** Scrum, Kanban, Dailies  
 
 ---
 
@@ -45,19 +45,21 @@ Tenho experiência sólida com **Angular** e grande interesse em **UX/UI Design*
 
 ---
 
-<div align="center">
-  <h2>📂 Projetos em Destaque</h2>
-  <ul style="list-style-type:none;">
-    <li>📄 Blog SPA em Angular com rotas, componentes e layout responsivo</li>
-    <li>📝 Quiz interativo com foco em UX e Acessibilidade</li>
-    <li>🎮 Pokédex com integração de API e design adaptável</li>
-  </ul>
-</div>
+### 📂 Projetos em Destaque
+- 📄 **Blog SPA em Angular** — Rotas, componentes e layout responsivo  
+- 📝 **Quiz interativo** — Foco em UX e Acessibilidade  
+- 🎮 **Pokédex** — Integração com API e design adaptável  
 
 ---
 
 <div align="center">
-  <h3>📫 Entre em contato comigo:</h3>
-  <a href="https://www.linkedin.com/in/gregoriodelucca/" target="_blank">LinkedIn</a> • 
-  <a href="mailto:gregoriodelucca@gmail.com">E-mail</a>
+  <h3>📫 Conecte-se comigo</h3>
+  <a href="https://www.linkedin.com/in/gregoriodelucca/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:gregoriodelucca@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </div>
+
+
