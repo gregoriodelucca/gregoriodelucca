@@ -1,43 +1,51 @@
 <div align="center">
   <img 
-    src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" 
+    src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" 
     alt="Gif animado Gregório" 
     width="250" 
   />
 
   <h1>👋 Olá, seja bem-vindo(a)!</h1>
-  <h3>Front-End Developer | Angular • aws • UX/UI • Acessibilidade</h3>
+  <h3>Desenvolvedor Full Stack | React • Node.js • Next.js • NestJS • TypeScript • AWS</h3>
 </div>
 
 ---
 
-### 👨‍💻 Sobre mim
-Desenvolvedor **front-end especialista em Angular**, com experiência prática na criação de **interfaces modernas, responsivas e acessíveis**.  
-Atuo no desenvolvimento de **aplicações escaláveis e seguras** utilizando **Angular + TypeScript**, sempre integradas a **APIs REST**.  
+### 👨‍💻 Sobre mim  
+Desenvolvedor **Full Stack React e Node.js**, com experiência prática na construção de **aplicações modernas, escaláveis e seguras**.  
+Atuo no front-end com **React, Next.js e TypeScript**, desenvolvendo interfaces responsivas e performáticas, integradas a APIs REST.  
 
-Tenho experiência em **sistemas corporativos, ERP e soluções de grande porte**, aplicando boas práticas de **performance, acessibilidade e qualidade de código**.  
+No back-end, trabalho com **Node.js e NestJS**, criando APIs eficientes e soluções personalizadas que atendem a necessidades reais de negócio.  
 
-🧠 **Pessoa com Deficiência (PcD – CID Q35.3)** • Comprometido, resiliente e em constante evolução profissional.  
+Tenho experiência em **sistemas corporativos e ERP**, aplicando boas práticas de desenvolvimento, performance, qualidade de código e arquitetura.  
+
+🧠 **Pessoa com Deficiência (PcD – CID Q35.3)** • Comprometido, resiliente e sempre em evolução profissional.  
 
 ---
 
-### 🚀 Habilidades
-- **Frameworks:** Angular (v8 a v17, foco em v15+), React  
-- **Linguagens:** HTML5, CSS3, JavaScript, TypeScript  
-- **Boas práticas:** Acessibilidade Web (WCAG, semântica, ARIA), UX/UI aplicado ao front-end  
+### 🚀 Habilidades  
+- **Front-end:** React, Next.js, TypeScript, JavaScript, HTML5, CSS3, Sass, Bootstrap, TailwindCSS  
+- **Back-end:** Node.js, Express.js, NestJS  
+- **Banco de Dados:** MySQL, MongoDB  
+- **DevOps / Cloud:** AWS, Docker, Linux  
+- **Boas práticas:** Performance, acessibilidade, testes, clean code  
 - **Ferramentas:** Git, GitHub, Figma  
-- **Metodologias:** Scrum, Kanban, Dailies  
+- **Metodologias:** Scrum, Kanban, Agile  
 
 ---
 
 <div align="center">
   <h2>🛠 Tecnologias e Ferramentas</h2>
   <p>
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </p>
@@ -45,10 +53,10 @@ Tenho experiência em **sistemas corporativos, ERP e soluções de grande porte*
 
 ---
 
-### 📂 Projetos em Destaque
-- 📄 **Blog SPA em Angular** — Rotas, componentes e layout responsivo  
-- 📝 **Quiz interativo** — Foco em UX e Acessibilidade  
-- 🎮 **Pokédex** — Integração com API e design adaptável  
+### 📂 Projetos em Destaque  
+- 📄 **ERP completo** — Sistema robusto com emissão de NF-e/NFC-e, automação comercial e módulos customizados  
+- ⚛️ **SPA React/Next.js** — Interfaces responsivas com foco em performance e usabilidade  
+- 📝 **APIs REST com Node.js e NestJS** — Desenvolvimento e manutenção de back-end escalável e seguro  
 
 ---
 
