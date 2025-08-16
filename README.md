@@ -6,48 +6,49 @@
   />
 
   <h1>👋 Olá, seja bem-vindo(a)!</h1>
-  <h3>Desenvolvedor Full Stack | React • Node.js • Next.js • NestJS • TypeScript • AWS</h3>
+  <h3>Desenvolvedor Front End Angular | UX/UI Designer | 3 anos de experiência</h3>
 </div>
 
 ---
 
 ### 👨‍💻 Sobre mim  
-Desenvolvedor **Full Stack React e Node.js**, com experiência prática na construção de **aplicações modernas, escaláveis e seguras**.  
-Atuo no front-end com **React, Next.js e TypeScript**, desenvolvendo interfaces responsivas e performáticas, integradas a APIs REST.  
+Desenvolvedor **Front End Angular** com experiência em **UX/UI Design**, construindo interfaces modernas, responsivas e intuitivas.  
+Atuo no front-end com **Angular, TypeScript e TailwindCSS**, desenvolvendo aplicações web escaláveis e performáticas.  
 
-No back-end, trabalho com **Node.js e NestJS**, criando APIs eficientes e soluções personalizadas que atendem a necessidades reais de negócio.  
-
-Tenho experiência em **sistemas corporativos e ERP**, aplicando boas práticas de desenvolvimento, performance, qualidade de código e arquitetura.  
+Tenho experiência em computação em nuvem (**AWS e Azure**) e práticas de **DevOps**, incluindo **Docker**. No back-end, trabalho com **Node.js, Java, Spring Boot e Python**, integrando APIs e soluções personalizadas.  
 
 🧠 **Pessoa com Deficiência (PcD – CID Q35.3)** • Comprometido, resiliente e sempre em evolução profissional.  
 
 ---
 
 ### 🚀 Habilidades  
-- **Front-end:** React, Next.js, TypeScript, JavaScript, HTML5, CSS3, Sass, Bootstrap, TailwindCSS  
-- **Back-end:** Node.js, Express.js, NestJS  
-- **Banco de Dados:** MySQL, MongoDB  
-- **DevOps / Cloud:** AWS, Docker, Linux  
-- **Boas práticas:** Performance, acessibilidade, testes, clean code  
-- **Ferramentas:** Git, GitHub, Figma  
-- **Metodologias:** Scrum, Kanban, Agile  
+- **Front-end:** Angular, React, Next.js, TypeScript, TailwindCSS, HTML5, CSS3  
+- **Back-end:** Java, Spring Boot, Node.js, Python  
+- **DevOps & Infraestrutura:** Docker, Kubernetes, Nginx, Apache2, Shell Script, Firewall (iptables)  
+- **Sistemas Operacionais:** Linux (Red Hat)  
+- **Cloud:** AWS, Azure  
+- **Segurança:** Segurança Web, Proteção de Dados, Firewalls  
+- **UX/UI Design:** Figma, boas práticas de usabilidade e prototipação  
 
 ---
 
 <div align="center">
   <h2>🛠 Tecnologias e Ferramentas</h2>
   <p>
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
     <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   </p>
 </div>
 
@@ -55,8 +56,8 @@ Tenho experiência em **sistemas corporativos e ERP**, aplicando boas práticas 
 
 ### 📂 Projetos em Destaque  
 - 📄 **ERP completo** — Sistema robusto com emissão de NF-e/NFC-e, automação comercial e módulos customizados  
-- ⚛️ **SPA React/Next.js** — Interfaces responsivas com foco em performance e usabilidade  
-- 📝 **APIs REST com Node.js e NestJS** — Desenvolvimento e manutenção de back-end escalável e seguro  
+- ⚛️ **SPA Angular/React/Next.js** — Interfaces responsivas com foco em UX/UI e performance  
+- 📝 **APIs Back-end** — Desenvolvimento com Node.js, Java, Spring Boot e Python  
 
 ---
 
@@ -69,5 +70,6 @@ Tenho experiência em **sistemas corporativos e ERP**, aplicando boas práticas 
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
+
 
 
