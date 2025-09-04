@@ -1,3 +1,4 @@
+
 <div align="center">
   <img 
     src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyejBiOXk5b2lhNHN4czRncDBqNDExa2lndmNlMTVzOXdnbTM5dGV4MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/source.gif" 
@@ -11,15 +12,15 @@
 
 ---
 
-### Sobre mim  
+### Sobre mim
 Sou desenvolvedor **Fullstack**, atuando com **React, Node.js e React Native** para criar aplicações **web, mobile e desktop** modernas, responsivas e escaláveis.  
 Tenho experiência com **ERP completo**, incluindo integração com **NF-e e NFC-e**, e conhecimentos em **Cloud (AWS e Azure)**, garantindo projetos colaborativos e eficientes.  
 
-Formado em **Desenvolvimento Fullstack pela DIO**, comecei minha trajetória em **2010 no audiovisual**, onde me formei pelo **SENAC** em **Motion Graphics**, mas durante minha jornada migrei para a **área de tecnologia**, unindo criatividade e lógica para construir aplicações interativas e impactantes.  
+Formado em **Desenvolvimento Fullstack pela DIO**, comecei minha trajetória em **2010 no audiovisual**, onde me formei pelo **SENAC** em **Motion Graphics**, migrando posteriormente para a **área de tecnologia**, unindo **criatividade e lógica** para construir aplicações interativas e impactantes.  
 
 Tenho experiência em **UX/UI Design**, utilizando **Figma, Adobe Photoshop, After Effects e Premiere**, aplicando boas práticas de usabilidade e design visual.  
 
-🧠 **Pessoa com Deficiência (PcD – CID Q35.3)** • Comprometido, resiliente e sempre em evolução profissional.  
+🧠 **Pessoa com Deficiência (PcD – CID Q35.3)** • Comprometido, resiliente e sempre em evolução profissional.
 
 ---
 
@@ -57,7 +58,7 @@ Tenho experiência em **UX/UI Design**, utilizando **Figma, Adobe Photoshop, Aft
     <a href="mailto:gregoriodelucca@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://github.com/seu-usuario" target="_blank">
+    <a href="https://github.com/gregoriodelucca" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
     <a href="https://wa.me/5511971108462" target="_blank">
@@ -65,4 +66,3 @@ Tenho experiência em **UX/UI Design**, utilizando **Figma, Adobe Photoshop, Aft
     </a>
   </p>
 </div>
-
