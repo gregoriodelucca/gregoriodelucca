@@ -7,7 +7,7 @@
   />
 
   <h1>Olá, seja bem-vindo(a)!</h1>
-  <h3>Desenvolvedor Front-End | React | TypeScript | TailwindCSS | UX/UI Designer | PCD</h3>
+  <h3>Desenvolvedor Front-End | React | Angular |  TypeScript | TailwindCSS | UX/UI Designer | PCD</h3>
 </div>
 
 ---
