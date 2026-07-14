@@ -17,11 +17,11 @@
 
 Sou **Desenvolvedor Front-end** com foco na criação de interfaces modernas, responsivas e intuitivas para aplicações web e mobile.
 
-Tenho conhecimentos em **Engenharia de Software**, desenvolvimento de interfaces, componentes reutilizáveis, consumo e integração de **APIs REST** utilizando **Node.js** e **NestJS**, sempre aplicando boas práticas, código limpo e soluções escaláveis.
+Tenho conhecimentos em **Engenharia de Software**, desenvolvimento de interfaces, componentes reutilizáveis, consumo e integração de **APIs REST**, utilizando tecnologias como **Node.js** e **NestJS**, sempre aplicando boas práticas, código limpo e soluções escaláveis.
 
-Também possuo experiência com **UX/UI Design utilizando Figma**, criando protótipos e interfaces focadas na melhor experiência do usuário.
+Também possuo conhecimentos em desenvolvimento back-end com **C#/.NET** e **Java**, além de experiência com **UX/UI Design utilizando Figma**, criação de protótipos e desenvolvimento de interfaces focadas na experiência do usuário.
 
-Além do desenvolvimento Front-end, possuo conhecimentos em **Cloud Computing com AWS**, bancos de dados relacionais e NoSQL, versionamento de código e metodologias modernas de desenvolvimento.
+Além disso, possuo conhecimentos em **Cloud Computing com AWS**, bancos de dados relacionais e NoSQL, versionamento de código e metodologias modernas de desenvolvimento.
 
 🧠 **Pessoa com Deficiência (PcD)** • Perfil analítico, organizado e apaixonado por tecnologia.
 
@@ -45,6 +45,9 @@ Além do desenvolvimento Front-end, possuo conhecimentos em **Cloud Computing co
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -72,12 +75,15 @@ Além do desenvolvimento Front-end, possuo conhecimentos em **Cloud Computing co
 - jQuery
 - PostgreSQL
 - MongoDB
+- C#
+- .NET
+- Java
 - UX/UI Design com Figma
 - Consumo e integração de APIs REST
 - Design Responsivo
 - Componentização
 - Versionamento com Git e GitHub
-- Conhecimentos em AWS
+- Cloud Computing (AWS)
 
 ---
 
