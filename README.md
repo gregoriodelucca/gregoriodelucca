@@ -7,59 +7,82 @@
 
   <h1>Olá, seja bem-vindo(a)!</h1>
   <h3>
-    Desenvolvedor Fullstack .NET | C# • ASP.NET • React • Angular • Next.js • SQL Server | PcD
+    Desenvolvedor Front-end | React • Angular • React Native • Node.js • NestJS | Engenharia de Software
   </h3>
 </div>
 
 ---
 
-### 🧩 Sobre mim
-Sou **Desenvolvedor Fullstack .NET** com experiência no desenvolvimento de **aplicações web, APIs e sistemas ERP**, atuando na criação e evolução de soluções para gestão empresarial.
+## 👨‍💻 Sobre mim
 
-No **back-end**, trabalho com **.NET e C#**, desenvolvendo **APIs REST, regras de negócio, integrações entre sistemas e arquitetura de aplicações**, além de manipulação e persistência de dados.  
+Sou **Desenvolvedor Front-end** com foco na criação de interfaces modernas, responsivas e intuitivas para aplicações web e mobile.
 
-No **front-end**, utilizo **React, Next.js e Angular** para construção de interfaces modernas, responsivas e integradas às aplicações corporativas.
+Tenho conhecimentos em **Engenharia de Software**, desenvolvimento de interfaces, componentes reutilizáveis, consumo e integração de **APIs REST** utilizando **Node.js** e **NestJS**, sempre aplicando boas práticas, código limpo e soluções escaláveis.
 
-Tenho experiência no desenvolvimento de **sistemas corporativos**, especialmente **ERPs para varejo e soluções para pet shops**, contribuindo na implementação de funcionalidades, melhorias e integrações voltadas para operações de negócio.
+Também possuo experiência com **UX/UI Design utilizando Figma**, criando protótipos e interfaces focadas na melhor experiência do usuário.
 
-Também possuo conhecimentos em **cloud computing com AWS e Azure**, além de containerização com Docker.
+Além do desenvolvimento Front-end, possuo conhecimentos em **Cloud Computing com AWS**, bancos de dados relacionais e NoSQL, versionamento de código e metodologias modernas de desenvolvimento.
 
-🧠 **Pessoa com Deficiência (PcD)** • Perfil analítico, organizado e em constante evolução técnica.
+🧠 **Pessoa com Deficiência (PcD)** • Perfil analítico, organizado e apaixonado por tecnologia.
 
 ---
 
-### ⚙️ Tecnologias e Ferramentas
+## ⚙️ Tecnologias e Ferramentas
+
 <div align="center">
   <p>
-    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-    <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
-    <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </p>
 </div>
 
 ---
 
-### 🚀 Atuação
-- Desenvolvimento de **ERPs e sistemas corporativos**
-- Criação de **APIs com .NET / ASP.NET Core**
-- Integração entre sistemas e bancos de dados
-- Interfaces web com **React, Next.js e Angular**
-- Modelagem e manipulação de dados com **SQL Server**
-- Containerização e ambientes com **Docker**
-- Conhecimentos em **AWS e Azure**
+## 🚀 Conhecimentos
+
+- Desenvolvimento Front-end
+- Engenharia de Software
+- React
+- React Native
+- Angular
+- JavaScript
+- TypeScript
+- Node.js
+- NestJS
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
+- jQuery
+- PostgreSQL
+- MongoDB
+- UX/UI Design com Figma
+- Consumo e integração de APIs REST
+- Design Responsivo
+- Componentização
+- Versionamento com Git e GitHub
+- Conhecimentos em AWS
 
 ---
 
-### 📞 Contatos
+## 📞 Contatos
+
 <div align="center">
   <p>
     <a href="https://www.linkedin.com/in/gregoriodelucca" target="_blank">
